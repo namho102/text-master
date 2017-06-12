@@ -5,25 +5,17 @@ import time
 
 URL = "https://techcrunch.com/page/%d"
 
+
+
 class NewsSpider(scrapy.Spider):
     name = 'tablespider'
     start_urls = [URL % 1]
     page_number = 1
 
-
     def parse(self, response):
 
-        text = ''
-        for row in response.css('div.article-entry.text'):
-            text += row.css('p').extract_first() + ''
-
-        yield {
-            'text': text
-        }
-
         for row in response.css('.post-title'):
-            next_page = response.css('a ::attr(href)').extract_first()
-            yield scrapy.Request(next_page, callback = self.parse)
+            yield {'link': response.css('a::attr(href)').extract_first()}
 
 
         self.page_number += 1
