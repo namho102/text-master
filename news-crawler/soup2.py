@@ -9,7 +9,7 @@ file = open('techcrunch5.txt', 'a')
 
 
 
-for i in range(32, 40):
+for i in range(100, 120):
     r = requests.get(URL % i)
     soup = BeautifulSoup(r.text, 'lxml')
     for link in soup.select('.post-title a'):

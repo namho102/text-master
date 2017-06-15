@@ -55,7 +55,7 @@ Amber Garage, an AR outfit founded by Botao Hu, is behind the kit. He presented 
 Cool, right? Ready-to-assemble kits should be available starting in July. Keep an eye on the website, or go ask them in person at AR in Action.
 Update: Or check out the Aryzon, which recently met its Kickstarter goal and is shipping in September.
 
-Featured Image: Amber Garage
+ Amber Garage
 Advertisement		
 
 
@@ -108,7 +108,7 @@ The detection kits contained around $500 worth of parts, all of which are specif
 Transparency advocates would love to have a working system like this, certainly, though it must also be said that the criminal element would find it useful too. But that’s the case with any tool, including IMSI catchers.
 You can find out more about the tool or explore the data the team has collected at the SeaGlass site.
 
-Featured Image: UW / SeaGlass
+ UW / SeaGlass
 
 
 
@@ -192,7 +192,7 @@ In addition to its growth fund, a filing for Sequoia’s China Growth Fund IV, w
 Also among the filings was Sequoia’s fourteenth U.S. fund, which saw its first filing drop back in 2012. A followup filing in 2013 unveiled that the amount raised totaled $475 million. The latest filing shows that it hasn’t grown since then, although the fund is still not closed, suggesting that Sequoia could raise more capital to invest in startups backed in that vintage.
 A representative from Sequoia declined to comment on the filings.
 
-Featured Image: Svetlana Lukienko/Shutterstock
+ Svetlana Lukienko/Shutterstock
 For such a simple tool, the white cane has been incredibly enduring. With all of the technological advances that have been made over the past century, we haven’t come up with much better than a stick with a metal tip for helping the visually impaired get around. Though researchers at MIT have been working on a wearable solution designed to augment and, hopefully, one day replace the cane.
 The system features a 3D camera with an on-board computer hung around the neck at chest level. The camera senses the location of objects, converting the signals into pulsing haptic vibrations that alert the wearer to the location of an object. The on-board motors vibrate with a variety of patterns and frequencies to signify different things, like the distance of an object.
 The team says the abdomen is the ideal spot for the vibrating belt, because it has the right amount of sensitivity, but doesn’t interfere with other senses. Audio indications were ruled out in early testing, as visually impaired people tend to rely very heavily on their hearing. And buzzing around the head and neck, understandably, just would have been too distracting.
@@ -233,7 +233,7 @@ The founder said, “With a variety of agriculture projects you’ll see people 
 Besides the company’s interest in helping people who live without reliable access to food and electricity, Evaptainers is considering developing a version of its refrigerators for outdoor sports and camping enthusiasts.
 “We’d like to do something where the higher margins in the U.S. support our ability to put this technology in the hands of people who wouldn’t be able to pay for poor rural consumers and food producers in emerging markets,” Taylor said.
 
-Featured Image: Ken Reid/Getty Images
+ Ken Reid/Getty Images
 Doug Clinton
 Contributor
 
@@ -278,7 +278,7 @@ There are a lot of factors that go into making venture investments. Team, theme,
 The framework helps us put into context the relative rarity of a company creating something at the OS layer, the opportunities in optimizing specific parts of the technology platforms of the future and what industry segments are ripest for innovation. So the mantra applied to us is:
 If we can invest in a great team building a potential OS layer, we will. If we can’t find OS-layer companies, we’ll look for ones that are optimizing components of the computing platforms of the future. If we can’t find those companies, we’ll look for companies disrupting an industry that desperately needs it. And if we can’t find that, we’ll keep looking.
 
-Featured Image: Bryce Durbin/TechCrunch
+ Bryce Durbin/TechCrunch
 This week President Trump made the senseless decision to withdraw from the Paris Climate Accord, prompting Elon Musk and Bob Iger to leave the White House advisory councils. Blue Apron filed for IPO, and Mary Meeker’s 2017 internet trends report was released. These are some of the top events that happened in tech this week (you also can get this post as a weekend newsletter sent to your inbox on Saturdays). 
 1. US withdrawal from Paris Climate Accord sparks pushback from Elon Musk and other corporate leaders
 Elon Musk left President Trump’s White House advisory councils, he said today on Twitter. The Tesla and SpaceX CEO promised Wednesday he would step down from his official advisory roles with the administration should Trump go through with his plan to leave the Paris Climate Accord. Trump announced the U.S. would be removing itself form the agreement on Thursday, and Musk and Disney CEO Bob Iger have departed since then. Apple CEO Tim Cook also spoke out in a letter to employees, saying that he spoke with President Trump two days prior to the announcement and “tried to persuade him” not to withdraw, but “it wasn’t enough.” Major businesses and investors have come out against President Trump’s decision to withdraw from the Paris Climate Accord, as well.
@@ -347,10 +347,6 @@ Screen Shot 2017-05-10 at 2.58.24 PM
  View Slideshow
 
 
-Previous
-Next
-Exit
-
 
 Brooklyn-based Sherpa is a three-person team, including co-founders Adam Gettings and Tom Hadley. It has raised a small amount of angel funding.
 The app was previously available as an invite-only beta for the past six months, while it built out it location-specific guides and community.
@@ -374,7 +370,7 @@ The Launch Academy team tells me that it received about 100 pre-applications wit
 It’s worth noting that this is a paid program that is paid by the applicant company. As Launch Academy CEO Ray Walia tells me, the cost of the program will be $30,000 (Canadian, of course). “In that time frame we help the program participants acclimate their business to the North American marketplace and integrate their business into the community and connect them with resources to also help their families settle in to their new lives in Canada,” he explained. Launch Academy says it will reinvest all of the program’s proceeds back into the Canadian tech and talent ecosystem and it won’t take a stake in the companies.
 Clarification: It’s worth noting that the Startup Visa Program itself is free to apply for. The paid program is Launch Academy’s Acclimation Program for companies that are looking for support in moving their company and families to Canada. “The Launch Academy Startup Visa program is free to apply to for companies with a preexisting relationship with Launch Academy,” Walia explained to me. “If you have not previously participated in any Launch Academy programs and are an international company looking to make the move to Canada we highly recommend participation in our Acclimation Program. The Acclimation program is a 6 month program and offered as a support program for Startup Visa applicants. The Acclimation program will help participants acclimate their business to the North American marketplace and integrate their business into the community and connect them with resources to also help their families settle in to their new lives in Canada.”
 
-Featured Image: Ivaylo Dimitrov / EyeEm/Getty Images
+ Ivaylo Dimitrov / EyeEm/Getty Images
 Penguin’s business-focused imprint Portfolio plans to publish a book recounting the legal dispute between Gawker Media and wrestler Hulk Hogan (whose real name is Terry Bolea).
 The case, in which Hogan sued Gawker for publishing a sex tape involving him and the wife of his then-best friend, could often seem farcical — part of Hogan/Bolea’s testimony involved the difference between Bolea’s and Hogan’s penis size. At the same time, the lawsuit had real consequences, with Gawker ultimately declaring bankruptcy, selling to Univision and shutting down operations on its flagship Gawker website.
 The book will be written by media columnist and author Ryan Holiday. His first book, Trust Me I’m Lying focused on his career doing publicity and marketing for American Apparel and Tucker Max, while more recent titles like Ego Is The Enemy and The Daily Stoic examine how to apply the philosophy of stoicism to modern life and business.
@@ -384,7 +380,7 @@ While a number of journalists (including me) have written about the troubling im
 “The question is how did this happen?” Holiday said. “How did a media company that purports to do investigative journalism miss a conspiracy aimed against it? How did a case that everyone was convinced wouldn’t stand up in court, that was obviously protected by the First Amendment, last through multiple judges and ultimately make it all the way to a verdict? How did Thiel think he would not eventually be discovered and not anticipate the backlash?”
 The currently untitled book was acquired by Portfolio’s Niki Papadopoulos for what the publisher said is a “significant” sum. (We’ve heard that the advance was $400,000.) It’s scheduled for release this winter.
 
-Featured Image: John Pendygraft/Getty Images
+ John Pendygraft/Getty Images
 Recent reports have indicated that AT&T’s new streaming service, DirecTV Now, may be seeing slowing growth. But don’t count it out just yet. This week, AT&T announced it’s expanding its distribution strategy for the service by bundling in with the wireless carrier’s Unlimited Choice plan for only $10 more per month.
 The move is largely meant to entice customers to switch carriers, but it could also help AT&T boost its DirecTV Now subscriber base, by making the add-on of live TV streaming more of a no-brainer for customers.
 The same promotion was originally available only in AT&T’s Unlimited Plus plan. That’s the $90 per month plan offering unlimited data, talk and text, high-def video, plus 10 GB of Wi-Fi tethering per phone (with speeds that slow after 22 GB of data usage per line.) Oh, and free HBO. 
@@ -454,7 +450,7 @@ Unicorn bulls
 Overall, 2017 funding trends offer some fodder for both unicorn bulls and those who have warned of overvaluation. In some cases, acquirers and public markets are insisting on a discount from prior private valuations.
 However, it’s also clear that private and public market investors continue to support high and rising values for category leaders and other favored companies.
 
-Featured Image: Li-Anne Dias
+ Li-Anne Dias
 Hemant Taneja
 Contributor
 
@@ -487,7 +483,7 @@ European Commission President Jean-Claude Juncker declared: “The vacuum that
 At least U.S. companies have pushed ahead despite the Trump Administration’s rhetoric. Walmart, which installs solar panels on the rooftops of its stores, announced it intends to operate on 100 percent solar, and Google, which in 2016 consumed as much energy as the whole city of San Francisco, said that by the end of 2017 all its data centers globally will run entirely on renewable energy.
 The best news about Trump’s action is that it will take four years to get out of the Paris Accord, so the final decision would land about the time of the next presidential election. Between now and then, U.S. industry has to send a clear message: our economic future lies in leading the world away from carbon. Otherwise, we will surely wind up as followers.
 
-Featured Image: Pete Marovich/Bloomberg/Getty Images
+ Pete Marovich/Bloomberg/Getty Images
 On YouTube, you have to either know what it is you watch to watch and seek it out, or you can click through the site’s suggestions of popular or trending content. A startup called Rheo, founded by ex-Apple product veterans, has a different take on video discovery. Instead of browsing by genre, publisher or chart position, viewers can browse by mood. That is, you can seek out videos to make you laugh, those that inform you, those that instruct or teach, those for times you want to chill, and more.
 Previously available as an Apple TV application, Rheo this week expanded to both iOS and the web.
 Rheo was created by Alan Cannistraro, an Apple product development veteran who previously spent 12 years at Apple working on apps like Remote, iBooks, and Podcasts. He later joined Facebook, where he worked on News Feed, Facebook’s iOS autoplay video feature, and Facebook’s Creative Labs, which built experimental apps like Slingshot, Rooms, and Riff.
@@ -604,7 +600,7 @@ Nintendo Switch Online subscribers will have ongoing access to a library of clas
 Nintendo Switch Online subscribers will be able to play a wide variety of classic games, including Super Mario Bros. 3, Balloon Fight and Dr. Mario. More games will be announced at a later date. At launch the classic game library will include NES games. Super NES games continue to be under consideration, but we have nothing further to announce at this time.
 
 
-Featured Image: Jon Russell/Flickr UNDER A CC BY 2.0 LICENSE
+ Jon Russell/Flickr UNDER A CC BY 2.0 LICENSE
 LG announced plans for its own mobile payment service way back in November 2015, and today it finally went official with the launch.
 The LG Pay service is initially limited to the G6, LG’s flagship smartphone, via a software update, but it is only available in Korea. There is launch support for cards from Shinhan Bank, KB, BC and Lotte, and LG plans to cover all of Korea’s card companies by September.
 The primary focus of the service — like rival offerings from Apple, Samsung and Google — is offline point-of-sale. LG Pay requires a user’s fingerprint to process every transaction. It uses magnetic signals to enable a mobile device to communicate with a regular credit card terminal in order to make the payment. That’s the same technique used with Samsung Pay.
@@ -674,7 +670,7 @@ Your work is as important today as it has ever been. Thank you for your commitme
 Tim
 
 
-Featured Image: Stephen Lam/Getty Images
+ Stephen Lam/Getty Images
 OneLogin, a major access management service (think corporate-level password manager) alerted its users yesterday of “unauthorized access” to the data of its US-based users. That kind of thing isn’t always serious… but it turns out this one sure was. An update posted today reveals the hacker may have had very deep access indeed.
 “Our review has shown that a threat actor obtained access to a set of AWS keys…Through the AWS API, the actor created several instances in our infrastructure to do reconnaissance,” read the company blog post detailing the attack.
 “The threat actor was able to access database tables that contain information about users, apps, and various types of keys. While we encrypt certain sensitive data at rest, at this time we cannot rule out the possibility that the threat actor also obtained the ability to decrypt data.”
@@ -683,7 +679,7 @@ All customers served by our US data center are affected; customer data was compr
 Wow! That’s really bad! That indicates that the hacker obtained a level of access that some services don’t even create in the first place. End to end encryption and (nearly) zero knowledge systems exist to prevent this kind of hack in addition to the occasional National Security Letter.
 Affected OneLogin users can visit this page for a handy 11-step guide to securing your data, if that’s possible, or read through it over at El Reg.
 
-Featured Image: Brian A Jackson/Shutterstock
+ Brian A Jackson/Shutterstock
 The U.S. is buttressing its paperwork walls with new requirements for social media disclosures as part of revised visa applications.
 Reported by Reuters earlier today, the decision from the U.S. government’s Office of Management and Budget was made over strenuous objections from education and academic groups during a public comment period.
 The new questionnaire will ask for social media handles dating back over the last five years and biographical information dating back 15 years.
@@ -695,7 +691,7 @@ In an earlier Reuters report, the news service quoted an immigration attorney ra
 “What this language effectively does is give the consular posts permission to step away from the focused factors they have spent years developing and revising, and instead broaden the search to large groups based on gross factors such as nationality and religion,” Gairson said.
 
 
-Featured Image: Josh Hallett/Flickr UNDER A CC BY-SA 2.0 LICENSE
+ Josh Hallett/Flickr UNDER A CC BY-SA 2.0 LICENSE
 Advertisement		
 
 
@@ -1061,7 +1057,7 @@ Weissberg explained that he came up with the idea for Voiceitt after his grandmo
 An early version of Voiceitt will be available next year, but the app is in beta tests now. The company’s pilot customers are hospitals and schools, and people there who have speech differences because of a health condition, like those with cerebral palsy, Down syndrome, Parkinson’s or who are recovering from a traumatic brain injury or stroke.
 Long-term, Weissberg said, “This could really be an accessibility extension to speech recognition for anyone, Google, Amazon, Apple, IBM or Microsoft. We’d love to function like a major OEM and work with all the major platforms.”
 
-Featured Image: dane_mark/DigitalVision/Getty Images
+ dane_mark/DigitalVision/Getty Images
 Back in January we heard about Draper’s efforts to outfit a living dragonfly with a sort of solar-powered mind control backpack. This project, known as DragonflEye, is cruising right along, and the R&D firm just released a video of the modified insect taking flight.
 The idea is to control a living insect’s flight remotely, but without clumsily activating its wings artificially (the subtlety of those movements are beyond us) or merely giving the insect the idea of going in a certain direction (it can learn to ignore these notions).
 To do so, the Draper team relied on what’s called optogenetics, infusing certain parts of the insect’s anatomy with light-sensitive materials that both produce and respond to light in a certain wavelength (more details in my original article). It’s not a simple undertaking, as the project’s senior researcher, Joe Register, explained in an email to TechCrunch.
@@ -1072,7 +1068,7 @@ In the video above, you don’t see the fly doing much but get a second or two o
 “Steering the DragonflEye was not the goal of this video, but we plan to do it soon,” wrote Register. “We will apply optical stimulation from the backpack to trigger flight behaviors which will allow us to develop autonomous flight control.”
 Expect a lighter, more effective mind control backpack to emerge from Draper’s labs soon.
 
-Featured Image: Draper
+ Draper
 Update: Today’s launch was scrubbed due to bad weather. They’ll try again on Saturday, June 3 at 5:07 PM EDT.
 SpaceX is going to attempt to reuse one of its Dragon capsules for the first time in an active mission to resupply the International Space Station. The Dragon spacecraft was used first back in September 2014 to resupply the ISS during CRS-4, and will carry nearly 6,000 pounds of supplies and research materials to support experiments during Thursday’s CRS-11 launch, the window for which opens at 5:55 PM EDT (2:55 PDT).
 This is an instant launch window, so if conditions aren’t favorable or the launch is aborted for any other reason, a backup attempt will take place on Saturday, June 3 at 5:07 PM EDT. The launch is happening at LC-39A, the facility at Kennedy Space Center that SpaceX leased from NASA and reconfigured for Falcon 9 and future Falcon Heavy launches.
@@ -1135,7 +1131,7 @@ Unsurprisingly, Blue Apron looks to target a younger audience. Users between the
 The IPO also looks like another big win for Bessemer Venture Partners, which owns nearly 24 percent of the company. First Round capital also owns around 10 percent of the company. Blue Apron has raised nearly $200 million in financing, with its most recent cash influx coming in 2015. That round was led by Fidelity, which owns 6.2 percent of Blue Apron.
 As time goes on, we’ll get a better sense of how much money Blue Apron will be raising — and also how valuable the company thinks it is as it gets closer to pricing its IPO. Now that it’s filed, we should expect Blue Apron to make its debut in the coming months, which will give us a sniff test on the whole meal kit market (and potentially on-demand meals as a whole).
 
-Featured Image: Blue Apron
+ Blue Apron
 
 
 
@@ -1189,7 +1185,7 @@ Now on to the boring bits, which sent the stock up 1 percent in extended trading
 The company’s software helps companies make sure their basic information — like addresses — are the same and accurate across the variety of apps and sites that people use every day. If you’re looking for a location of a restaurant, you probably aren’t going to the company’s website. Instead, users are likely searching on Google Maps or other apps, which gives these companies an incentive to pay for Yext to make sure all that works smoothly.
 Yext took clear advantage of the IPO window being open, with the stock popping nearly 21 percent on its first day of trading. After pricing the IPO at $11, Yext is now hovering at around $14.75 per share — putting its market capitalization over $1.2 billion. Yext was one of a large batch of companies that went public earlier this year, starting with Snap, and nearly all of them have at least appeared to have successful openings.
 
-Featured Image: REUTERS/Brendan McDermid
+ REUTERS/Brendan McDermid
 Joining an overwhelming chorus that includes most Americans, several major businesses in the U.S. and much of the global community, several investors have come out swinging against President Trump’s decision to withdraw from the Paris Climate Accord.
 “I have always believed that, while we can disagree on the scientific premise behind climate change, we should all agree that advanced energy technologies represent one of the biggest economic opportunities,” said General Catalyst managing director Hemant Taneja. “To give that up is a threat to American prosperity… Our American companies will be at a huge competitive disadvantage globally if they don’t have a market to rely on in their backyard.”
 That sentiment from Taneja, whose firm manages more than $3 billion, was echoed by other investors across Silicon Valley.
@@ -1239,7 +1235,7 @@ As the Mayor of Pittsburgh, I can assure you that we will follow the guidelines 
 
  
 
-Featured Image: Chip Somodevilla/Getty Images
+ Chip Somodevilla/Getty Images
 There is no such thing as too many rainbows. For LGBTQ Pride Month, Instagram is rolling out a special set of pride-flavored features, including a sticker set (Instagram has stickers now, you’ve probably noticed) and a rainbow brush. The sticker set includes a swoopy-banged person holding a rainbow aloft, a cute trans flag/heart situation and a rainbow megaphone for when you need to metaphorically shout assorted gay things from within your Instagram story.
 
 Once you post a sticker to your story, it becomes clickable with a pop-up link to the #pride2017 Instagram hashtag and a little shout-out to the creator. In this instance, all of the creators are LGBTQ artists, which thank goodness. The rainbow brush button now lives next to the regular drawing tools and, predictably, it creates rainbows. Did I mention you can never have too many rainbows?
@@ -1255,7 +1251,7 @@ A post shared by Gray Malin (@graymalin) on May 31, 2017 at 5:27pm PDT
 
 This is the part for the necessary disclaimer about how topical product features don’t always mean that a company (or its parent company) does the work to pursue the deeper parts of an LGBTQ-inclusive agenda, a message worth remembering as we sail swiftly into the ever-corporate seas of Pride Month. Still, rainbows are definitely better than no rainbows and visibility remains an important piece of the progress puzzle.
 
-Featured Image: Les Chatfield/Flickr UNDER A CC BY 2.0 LICENSE (IMAGE HAS BEEN MODIFIED)
+ Les Chatfield/Flickr UNDER A CC BY 2.0 LICENSE (IMAGE HAS BEEN MODIFIED)
 Elon Musk is making good on his promise to leave President Trump’s White House advisory councils, he said today on Twitter. The Tesla and SpaceX CEO promised Wednesday he would step down from his official advisory roles with the administration should Trump go through with his plan to leave the Paris Climate Accord. Trump announced the U.S. would be removing itself form the agreement on Thursday.
 
 
@@ -1276,7 +1272,7 @@ As a matter of principle, I've resigned from the President's Council over the  #
 
 
 
-Featured Image: DAVID MCNEW/AFP/Getty Images
+ DAVID MCNEW/AFP/Getty Images
 Intel CEO Brian Krzanich was interviewed at Code Conference on Thursday, where he talked about his long-term vision for automobiles. He said his prediction that “the car of the future is going to look much more like a server” was a driving factor in their recent acquisition of Mobileye, the Israeli auto startup for which Intel paid more than $15 billion. 
 Krzanich said that someday “if you get a ransomware or some kind of virus on one portion of the device,” Intel will not only have backups, but they could “refresh your car on the fly.” While he acknowledged that there are some potential privacy concerns, Krzanich believes that connected cars will be “much safer.”
 “In order for those cars to drive, they do have to look,” said Krzanich about self-driving cars. “There’s a lot of social good that can come out of this.”
@@ -1284,7 +1280,7 @@ He hoped that automotive technology will someday help with situations like Amber
 Shortly after his presentation, Intel released its findings that autonomous driving will result in a $7 trillion boon to the economy by 2050. Their reasoning is that “autonomous driving and smart city technologies will enable the new passenger economy, gradually reconfiguring entire industries and inventing new ones thanks to the time and the cognitive surplus it will unlock.”
 These predictions were similar to Marc Andreessen’s, who proclaimed at Code Conference that self-driving cars would result in the creation of suburbs further away from cities, because the commutes will be more tolerable. Building these cities would create a lot of jobs, he surmised.
 
-Featured Image: Intel Free Press/Flickr UNDER A CC BY-SA 2.0 LICENSE
+ Intel Free Press/Flickr UNDER A CC BY-SA 2.0 LICENSE
 Google still has plans to introduce built-in advertising filters for its Chrome web browser, according to a new report from the Wall Street Journal, but it’s going to be more of a quality assurance feature, akin to existing tools in Chrome that prevent pop-ups from spawning in excess, and that warn users when they might be exposed to content that could harm their devices.
 The report says that Google is also reaching out to publisher partners to provide clear guidelines about what these new quality filters will entail, and will also eventually offer a tool publishers can use themselves to flag ads that currently exist on their sites that will run afoul of the new blocker. This is designed to give publishers at least half a year to prepare and prune their advertising prior to its debut in a consumer build of the browser, which is planned for sometime next year.
 These plans could still change, the WSJ report notes, but for now the standards for what kinds of ads Google will deem blockable by the filter include those categories covered under the Coalition for Better Ads, an industry organization (which includes Google among its membership) that released a list of offensive ads in March. Google’s tool is also said to block all ads on sites that cross a certain level of unacceptable advertising content, according to these standards.
@@ -1319,7 +1315,7 @@ However, as noted on Facebook’s annual shareholder call today by Natasha Lamb,
 Lamb went on to say that Facebook is put at a competitive disadvantage by not showing leadership in this area, noting how tech companies like Intel and Apple have conducted in-depth reports to assess pay equity.
 The tech industry’s gender gap is close to the U.S. average (5.4 percent), and falls in the middle among industries, according to a 2016 Glassdoor study.  Meanwhile, Google is currently battling it out with the Department of Labor over allegations of pay disparities between men and women.
 
-Featured Image: Getty Images
+ Getty Images
 Ford’s mobility play isn’t just about new modes of using cars – GoBike, its bike sharing program, is also part of that same vision. The GoBike program is set to launch in earnest across the San Francisco Bay Area by the end of June, the company announced today, and will be available to all residents using either physical Bay Area transit Clipper cards or the Ford GoBike app.
 The launch is an expansion of the Bay Area Bike Share pilot program that’s currently available in a much more limited capacity, and will see the available pool of rental bikes increase 10x from 700 to 7,000 total available bicycles, to be rolled out between now and the end of next year across 546 stations spanning San Francisco, Oakland, San Jose, Berkeley and Emeryville. The existing pilot will end on June 11 and service will be suspended until the grand re-launch, but current members will automatically be extended to make up for the gap.
 Those who aren’t yet members but who are enticed by the idea will be able to get “Founding Memberships” ahead of the launch; this is capped to the first 1,000 members, but includes a $124 total yearly cost, which is a $25 discount on a normally priced yearly membership, and a unique Ford GoBike-branded Clipper card which will doubtless become a top collectible in time.
@@ -1369,7 +1365,7 @@ On the other hand, charging for premium TweetDeck features could be seen as a wa
 To end the panel, Noto answered The Verge editor Casey Newton’s question about whether he supports adding the ability to edit tweets by throwing it back whether it meshes with the four principles.
 While Twitter might be reluctant to do anything that interferes with these core tenets of its product, its Q1 2017 revenue fell 8 percent year-over-year to $595 million, so it needs to find some way to turn its blue birds into more green.
 
-Featured Image: Bryce Durbin/TechCrunch
+ Bryce Durbin/TechCrunch
 Lyft just released its first-ever diversity report, a couple of months after Uber released its first one. Lyft, which committed to releasing a report last June, says it will continue to release reports annually.
 Here are some high-level stats. Lyft is 63 percent white, 19 percent Asian, 6 percent black and 7 percent Latinx. Uber, on the other hand, is 49.8 percent white, 30.9 percent Asian, 8.8 percent black and 5.6 percent Hispanic. So, yes, Lyft is whiter than Uber, but Lyft employs more people who identify as female than Uber, with 42 percent of Lyft’s staff identifying as female. At Uber, women make up 36.1 percent of its workforce.
 
@@ -1478,7 +1474,7 @@ The Cognitive Toolkit is used extensively within Microsoft already. Some groups 
 Like Google, Facebook and others, Microsoft would of course love for the machine learning ecosystem to build more of its solutions around its toolkit. To do that, it needs to increase its mind share among developers, though. Unsurprisingly, Microsoft is stressing the fact that the Cognitive Toolkit is a battle-tested system that it uses to power most of its internal AI systems, including Cortana, and that it can train models faster than most of its competitors.
 Looking ahead, Huang noted that it’s hard to say what features will arrive in version 3.0. “AI and deep learning is a field that moves so fast, the best thing we can do is to continuously adapt and iterate and improve,” he told me. “We are absolutely aware of the challenges to support this massive and amazing AI community.” One feature he definitely wants to keep, though, is the Cognitive Toolkit’s performance leadership.
 
-Featured Image: Bloomberg/Getty Images
+ Bloomberg/Getty Images
 What’s raised over $6.9 billion dollars in funding, exited or IPO’ed over 95 times and delivered over 655 pitches? TechCrunch Startup Battlefield. Applications for Startup Battlefield at Disrupt SF are now open. We’re searching for new, innovative startups to launch and compete this September at TechCrunch Disrupt SF.
 The Pitch: Competing startups will pitch for six minutes on the TechCrunch Disrupt main stage, with a live product demo, followed by a Q & A from a Tier-1 list of judges. Past Battlefield judges have included Susan Lyne (BBG Ventures), Roelof Botha (Sequoia Capital), Karin Klein (Bloomberg Beta) and Fred Wilson (Union Square Ventures). The Battlefield sessions are live streamed to the global TC audience via TechCrunch.com, Facebook, Twitter and YouTube.
 The Prize: The winner of Startup Battlefield takes home the coveted Disrupt Cup and a check for $50,000. All companies chosen for Battlefield receive priceless exposure to investors and media, expert pitch coaching and business advice and entry into the private Battlefield Alumni Community — a network comprised of the 655 founding teams from prior Battlefield competitions.
@@ -1506,7 +1502,7 @@ No featured pavilion category fits your startup? No worries, we have a special d
 Disrupt SF 2017 takes place September 18-20 at San Francisco’s Pier 48. We can’t wait to see you there.
 For potential sponsors out there, yes, the pavilions are available for sponsorship. For more information, please contact us by filling out this form.
 
-Featured Image: TechCrunch
+ TechCrunch
 Code rules everything around me. And you.
 Really: be it the stoplight you stared at this morning, or the train you rode in on, or the lil’ robot vacuum keeping your floor ever-so-slightly cleaner while you’re away, code is everywhere.
 But even for people who’ve put the time in to learn to program, jumping from software to hardware can be a challenge — even if said challenge is just figuring out where to start. How do you program something real? How do you build something that moves?
@@ -1784,7 +1780,7 @@ Meanwhile, Amazon has steadily crept up and added AWS WAF in 2015 and AWS Shield
 Cloudflare, StackPath and Fastly have raised enough capital. Who gets acquired or goes public remains to be seen. My hunch is Lance will aim for an IPO for StackPath — it’s unlikely he will be content with anything less, especially knowing his last exit was a $2 billion outcome. That could create some heartburn for Cloudflare and Fastly. The young Turks like Distil Networks, Section.io, Teridion and Signal Sciences could raise mucho dinero and become standalone companies.
 Telecom carriers and service providers will likely make some moves as networks converge with “software-driven everything.” Those in the enviable nimbler / innovators category will win, no matter which way the wind blows.
 
-Featured Image: Dimitri Otis/Getty Images
+ Dimitri Otis/Getty Images
 High Times, the most prestigious brand in pot, has been valued at $70 million in a deal that sees it selling a 60% majority stake for roughly $42 million to investment firm Oreva Capital. Originally a marijuana enthusiasts magazine founded in 1974, High Times has blossomed into a set up web properties and the Cannabis Cup marijuana contest event series.
 With wide scale marijuana legalization looming, Oreva tells me it saw High Times as ill-equipped to roll up the massive opportunities for expansion. “I wouldn’t say the current company was sleeping at the wheel, but they haven’t optimized” says Oreva Capital founder Adam Levin. The media and event business will now be known as the High Times Holding Company (HTHC) — a crafty play on the psychoactive compound in marijuana known as THC.
 
@@ -2091,7 +2087,7 @@ According to Human Rights Watch, an advocacy organization that is opposing the l
 “The law will effectively put China’s Internet companies, and hundreds of millions of Internet users, under greater state control,” said Sophie Richardson, Human Rights Watch’s China director. HRW maintains that, while many of the regulations are not new, most were informal or only laid out in low-level law — and implementing the measures on a broader level will lead to stricter enforcement.
 
 
-Featured Image: Bryce Durbin
+ Bryce Durbin
 Media streaming app Plex has been around (and great) since before set-top streaming boxes were even properly a thing, but on Thursday it added Live TV integration and DVR capabilities, which make it even more useful. Nvidia is doing everything it can to make its Shield streaming Android TV box the best Plex partner around, too, and a new version of the Shield software adds support not only for Live TV and DVR, but also for writing to network attached storage and for both recording and watching recorded and Live TV right from the same place.
 The Shield was “born to run Plex,” according to a quite from Plex cited by Nvidia in a release announcing the news, and it’s definitely true that the Android TV interface and Shield’s support for acting not only as a client, but also as Media Server for your stored content is a step above competing apps on devices like Apple TV and Roku.
 With the Live TV upgrade, if you have a USB tuner like the WinTV USB tuner form Hauppauge, you can now grab over-the-air TV signals and and record up to two shows at once directly to your Shield, a NAS or any hardwired hard drives and USB sticks, with the only limits on storage being the constraints of your available storage space. Those stored shows can then be served up to your other devices with Plex client apps, including iOS and Android smartphones, and any PC with a web browser.
@@ -2274,7 +2270,7 @@ Thank you so much to our sponsors Leumi Tech and Blonde 2.0.
 Send your application and see you soon!
 Sponsors make TechCrunch events possible. If you’re interested in learning more about sponsorships with TechCrunch, send a message to our sponsor team here.
 
-Featured Image: Gilad Avidan/Wikimedia Commons UNDER A CC BY-SA 3.0 LICENSE
+ Gilad Avidan/Wikimedia Commons UNDER A CC BY-SA 3.0 LICENSE
 There’s been a whole lot of talk about initial coin offerings (ICO), company fundraising events based around the sale of cryptocurrencies, but not much in the way of action until yesterday. That’s when web browser maker Brave, founded by former Mozilla CEO Brendan Eich, raised $35 million from its ICO — and it did it in less than 30 seconds, too.
 ICOs operate by selling investors cryptocurrency, which can be used to store value in many ways beyond a traditional share. For its sale, Brave created its own coin — The Basic Attention Token, or BAT — and sold one billion of them. That collection of BAT cost 156,250 ETH, which is just over $35 million. A further 500 million BAT is stored for user growth and “BAT development,” according to Brave, which is not planning another token sale in the future.
 The ICO is the highest grossing to date, and Brave’s business itself is one of the more interesting to make use the blockchain. Eich, who created JavaScript but left Mozilla in 2014 in controversial circumstances, had raised $7 million from investors including Founders Fund for Brave. He believes the current internet advertising system is inherently broken, and his ambitious proposal uses the blockchain to make things more efficient for all parties, advertisers, publishers and users, too.
@@ -2286,7 +2282,7 @@ One notable anecdote of the Brave ICO is how the process was dominated by a hand
 That situation runs counter to the thesis that many in Ethereum hold, which is that token sales enable anyone to take ownership of the companies they use or follow. Of course larger, organized investors — including adventurous corporations or early moving VC firms — are a key component when a company sells tens of millions of dollars of coins, but ensuring that there is space for smaller parties is going to be an ever critical challenge as ICOs become more commonplace.
 Aside from Kik, which hasn’t given a specific date, Asia-based payment firm Omise is gearing up to raise just under $20 million from a token sale this month as the phenomenon begins to find interest among more established (and venture-backed) tech companies.
 
-Featured Image: Svetlana Lukienko/Shutterstock
+ Svetlana Lukienko/Shutterstock
 Hubble, a London-headquartered a startup founded in 2014 to ride the coattails of the trend towards flexible office space, has picked up £1.2 million in new funding. Leading the round is Firestartr, with participation by 500 Startups, Maxfield Capital, and Concrete. The latter is a ‘proptech’ fund backed by Seedcamp and Starwood Capital and for which Hubble is its first tech investment.
 Founded by Tushar Agarwal (CEO), Tom Watson (CTO) and Rohan Silva (founder of Second Home, and former advisor to ex-British Prime Minister David Cameron), the company began life helping startups find spare office space. However, it has since expanded its platform to also serve the needs of traditional SMEs and larger corporates — and, I’m told, is seeing a huge uptick in companies wanting more flexibility since the result of the Brexit referendum.
 More broadly, Agarwal tells me, Hubble’s growth is a reflection of how the commercial property market is shifting away from lengthy, multi-year office space leases to short term rentals with ‘out of the box’ features, and therefore less commitment or costs up front.
@@ -2312,7 +2308,7 @@ Now, a few months later the deal between the two has been signed and STRIVR is a
 STRIVR Labs is notable in that it’s a profitable virtual reality startup. Belch wouldn’t talk exact numbers but noted that over the past two years the company has done “several million in revenue,” noting that the exact number was north of $10 million. The company has raised $5 million in funding from Signia Venture Partners, BMW i Ventures, Advancit Capital and Presence Capital.
 “When you have literally the biggest company in the world as your first enterprise customer, that’s kind of a big deal,” Belch told TechCrunch.
 
-Featured Image: Joe Raedle/Getty Images
+ Joe Raedle/Getty Images
 Today’s Stories 
 
 Read Mary Meeker’s essential 2017 Internet Trends report
@@ -2442,7 +2438,7 @@ NTT Data started using MarkLogic back in 2012, but mostly to build applications 
 “NTT DATA is excited to expand our strategic relationship with MarkLogic. We look forward to extending the success we have jointly experienced over the last five years in Japan to the rest of the world,” said Toshio Iwamoto, president and CEO of NTT Data, in today’s announcement. “Our ability to solve complex data integration problems by using MarkLogic’s database platform alongside intellectual capital developed by NTT DATA allows our clients to better analyze critical insights from their data in order to gain a  competitive advantage in their respective marketplaces.”
 Only a few weeks ago, MarkLogic launched version 9 of its database. The emphasis in this release was on security, with new features like element-level permissions and redactions, for example. “We’ve always been the most secure NoSQL database,” MarkLogic EVP Joe Pasqua told me. “But the new aspect that we wanted to push was sharing with less risk.” Once you’ve brought all of your information together, the question becomes who can access it. With element-level security, enterprises can ensure that their data can be used effectively, even as some of the information remains hidden to most users.
 
-Featured Image: KAZUHIRO NOGI/Getty Images
+ KAZUHIRO NOGI/Getty Images
 Time Warner CEO Jeff Bewkes talked about the pending sale to AT&T onstage at Code Conference in Rancho Palos Verdes, Calif. on Wednesday.
 Bewkes told the largely tech and media crowd that he doesn’t think the Trump administration will have a big impact on the proposed deal, despite previous claims by the president that he’s against it. Bewkes hoped that the Department of Justice would make a decision based on historical precedent.
 But one policy area that the new administration is likely to impact is the regulation related to net neutrality. Unsurprisingly, Bewkes took the side of the cable giants and said that Google and Facebook aren’t currently held to the same standards. “There’s no reason that they should have more lax standards of data use than other competitors,” he griped. 
@@ -2456,7 +2452,7 @@ In Q1, Uber’s revenue was $3.4 billion, an 18 percent increase from its last q
 This means that in addition to looking for a number-two executive to team up with Uber CEO Travis Kalanick, Uber will now also need someone to lead up its financial team. Uber, which has not had a chief financial officer since 2015 — when Brent Callinicos bounced and ultimately joined Hyperloop One — is now on the hunt for an official CFO. The company is specifically looking for someone with experience at a public company, or experience taking a company public.
 It’s been a rough year for Uber, between allegations of sexual harassment and a series of departures of top-level people at the company. Yesterday, Uber fired Anthony Levandowski, the engineer accused of stealing thousands of documents pertaining to self-driving technology from Google. And just last week, Uber lost its general counsel for the Middle East, Europe and Africa.
 
-Featured Image: Carl Court/Getty Images
+ Carl Court/Getty Images
 The FCC claimed earlier this month that the comment system by which people can weigh in on the proposal to kill net neutrality had been on the receiving end of a distributed denial-of-service attack. Today, a group of Senators asked that the FBI look into it.
 Brian Schatz (D-Hawai‘i), Al Franken (D-Minn.), Patrick Leahy (D-Vt.), Ed Markey (D-Mass.) and Ron Wyden (D-Ore.) penned a letter to FBI Director Andrew McCabe suggesting the matter was too troubling to let alone.
 “Any cyberattack on a federal network is very serious,” the letter reads. “This particular attack may have denied the American people the opportunity to contribute to what is supposed to be a fair and transparent process, which in turn may call into question the integrity of the FCC’s rulemaking proceedings. We request that you update us on the status of the FBI’s investigation and brief us on this matter by June 23, 2017.”
@@ -2467,7 +2463,7 @@ Since then, however, the Commission has offered no hard evidence, publicly at le
 Notably, the letter suggests that the purported attacks “question the integrity of the FCC’s rulemaking proceedings.” The Senators in question are vocally pro-net-neutrality and have spoken out against Chairman Ajit Pai’s proposal to roll back the rules. It’s more than possible that they are attempting to delegitimize the process by which that proposal is effected: If nefarious actors interfered, and America did not have a fair chance to weigh in, how can it be said to be a transparent and open process?
 Whatever the case, we should know on or around June 23.
 
-Featured Image: Mark Van Scyoc/Shutterstock
+ Mark Van Scyoc/Shutterstock
 Shaun Abrahamson
 Contributor
 
@@ -2521,12 +2517,12 @@ Last year’s net profit was a mere $5.6 million, down from $18.4 million the ye
 We knew the game was printing money, of course — it had reportedly created a billion in revenue as early as February. Unfortunately, there’s no exact breakdown of these enormous amounts; for example, how much came from in-app purchases and how much came from sponsorship deals. We recently found out that McDonalds and others are paying surprisingly large sums to… lure customers to their stores.
 The gravy train won’t stop there, either. Who knows how much they’re making from Magikarp Jump?
 
-Featured Image: Bryce Durbin
+ Bryce Durbin
 On Wednesday, an appellate court shot down Silk Road creator Ross Ulbricht’s effort to avoid spending the rest of his life behind bars. Two years ago, Ulbricht was sentenced to life in prison for his role in running the dark web exchange, best known as a once-thriving online marketplace for drug transactions.
 Ulbricht was sentenced in 2015 after a court found that he operated Silk Road under the pseudonym “Dread Pirate Roberts.” Among other lines of defense, Ulbricht’s legal team argued that IP addresses central to the case were gathered without a warrant and violated his Fourth Amendment rights, though the appeals court ultimately did not rule in his favor.
 Ulbricht’s particularly harsh sentence for nonviolent crimes is largely due to the massive scale at which the Silk Road facilitated the drug trade. His charges included money laundering, conspiracy to traffic narcotics and a “kingpin” charge generally withheld for leaders of major drug cartels.
 
-Featured Image: paul geilfuss/Shutterstock
+ paul geilfuss/Shutterstock
 Mary Meeker’s latest Internet Trends Report, out today, was full of insights on how tech is shaping our future — including now in healthcare. This was the first year Meeker included healthcare in her report and it shows just how much of a role tech is going to play in improving our lives going forward.
 A few key insights from the report:
 
@@ -2541,7 +2537,7 @@ Larger amounts of available health data is possibly helping to accelerate clinic
 Much of these insights aren’t all that surprising. Wearables are ubiquitous, there’s money to be made in disrupting old systems by making them digital and venture firms have poured a bunch of money into new health startups to do just that. According to Rock Health, financing in the space rose to $4.2 billion in 2016 and VCs are now reportedly “tripping over themselves” to hire more experts in the bio field.
 There are a few drawbacks, of course. Healthcare is a highly regulated area and, unlike an app, you can’t just spit something out and tweak later. As Theranos sadly learned, you have to be right about your product the first time. But it’s pretty neat to see the health field get in-depth coverage from Meeker this year. It shows the power Silicon Valley holds in shaping the way we handle our future well-being.
 
-Featured Image: Tony Avelar/Bloomberg via Getty Images/Getty Images
+ Tony Avelar/Bloomberg via Getty Images/Getty Images
 As rumors swirl around President Trump’s decision to remain or withdraw from international climate accords, former Secretary of State Hillary Clinton had some choice words for the president from the stage of the Code Conference on Wednesday in Rancho Palos Verdes, Calif.
 Echoing the sentiments of current Secretary of State Rex Tillerson and a number of executives who have signed on to an ad campaign to encourage the president to remain in the Paris Agreement, Clinton said that abandoning the agreement would be bad for the U.S. and American businesses.
 “Someone will be the leader in clean energy exports,” said Clinton, who underscored China and European state support and the competitive businesses those companies have created around renewable energy.
@@ -2550,7 +2546,7 @@ She admonished the president by noting that there are only two countries that ha
 Further, Clinton argued that the antipathy from the current administration toward companies tackling renewable energy and climate change were making U.S. companies less competitive in global markets.
 “It’s a shame,” Clinton said, that these companies didn’t have the support of the U.S. government.
 
-Featured Image: Melina Mara/The Washington Post/Melina Mara/The Washington Post via Getty Images
+ Melina Mara/The Washington Post/Melina Mara/The Washington Post via Getty Images
 There’s always been talk about how drones could improve the emissions situation produced by our truck-based delivery infrastructure. But you have to look into these things. A new study from University of Washington researchers indicates that drone delivery may indeed lead to a lower carbon footprint — if it’s done properly.
 “I was amazed at how energy-efficient drones are in some contexts,” said Anne Goodchild, who led the research, in a UW news release. “Trucks compete better on heavier loads, but for really light packages, drones are awesome.”
 Her study examined the theoretical energy costs of a number of delivery scenarios in the Los Angeles area. Drones, as they are today, can only carry one item at a time, but they can fly over traffic in efficient straight lines. When was this style more efficient than a truck with dozens or hundreds of packages?
@@ -2559,4 +2555,4 @@ According to the researchers’ analysis, drones are more efficient for pretty m
 There’s much more to the question than simply which is more efficient, of course: How clean is the power used to recharge the drones? How reliable are these estimates? Is backyard delivery really what’s needed? What about electric trucks?
 Good questions all! And studies addressing them will surely be conducted over the years to come. Meanwhile, this one will appear in an upcoming issue of the journal Transportation Research.
 
-Featured Image: Matternet Inc.
+ Matternet Inc.

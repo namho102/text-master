@@ -1,13 +1,14 @@
 import string
 from collections import Counter
 
-file = open('techcrunch4.txt', 'r')
+file = open('techcrunch_.txt', 'r')
 text = file.read()
 out = text.translate(None, string.punctuation)
 # print out
 
 wordlist = out.split()
-print Counter(wordlist).most_common(200)
+for pair in Counter(wordlist).most_common(500):
+    print pair
 
 # wordfreq = []
 # for w in wordlist:

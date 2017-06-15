@@ -40,7 +40,7 @@ Instagram’s Menlo Park office features elaborate photo backdrops. Image via Ca
 Many employees at Facebook and Instagram I’ve spoken to loathe the commute, and some who have left for companies in the city like Uber or Twitter cite the shorter commute as a big draw. For younger, more extroverted tech workers, living in San Francisco offers a much more culturally rich experience than the hollow hills and office parks of the South Bay.
 Only a portion of Instagram’s 500 employees would fit in the new SF space, and our source didn’t know which team or projects would be centered there. But if Instagram does see its recruitment improve thanks to the office in SF, Facebook might consider expanding this “pilot” with more offices there. You can expect plenty of jockeying between Instagram employees for those few SF desks.
 
-Featured Image: Glassdoor.com
+ Glassdoor.com
 Here’s a surprise turn of events: SoftBank — maker of the friendly Pepper robot and a major M&A player in the tech world — has just announced that it is acquiring two more robotics companies from Google owner Alphabet as part of its own deeper move into the field: it is buying Big Dog developer Boston Dynamics and the secretive bipedal robotics firm Schaft.
 A spokesperson for SoftBank has confirmed to us that the terms of the deal are not being disclosed, but we will try to find out. In case you are wondering (we were), we have double-checked and these are the only two of Alphabet’s robotics companies getting acquired by SoftBank.
 There had been lots of murmurs about Google (and then Alphabet) wanting to offload Boston Dynamics for over a year now. Most recently, Toyota was apparently eyeing an acquisition of the two businesses.
@@ -231,7 +231,7 @@ I’ve had good conversations. I’ve learned certain things. I feel like I’ve
 I still believe in that sacred promise. And even though charges can be levied on how America perceives technology, we have to look inwards and fix what’s broken and confining us from understanding the rest of America first. We can examine the effect of automation, and be very earnest about the displacement it creates. We can make high-paying technology jobs and opportunities more accessible to all. We can use data for good.
 Fundamentally, the technology sector is an island of optimism that is looking to do good while doing well — this above all else is what will pave the way forward.
 
-Featured Image: Cheriss May/NurPhoto via Getty Images
+ Cheriss May/NurPhoto via Getty Images
 Techdirt is currently embroiled in a legal battle with Shiva Ayyadurai, a man who claims to have invented email. But regardless of the outcome, founder and CEO Mike Masnick said that the $15 million lawsuit has already had a big impact on his site — a 20-year-old, independent blog covering the intersection of law and technology.
 Masnick spoke today at the Personal Democracy Forum in New York City, and while most people at public events will beg off commenting directly on ongoing litigation, Masnick made the lawsuit his central topic.
 It’s a risky move to talk about his legal issues, Masnick admitted. He choked up repeatedly during his talk, but he said this wasn’t due to stage fright: “It’s the first time doing a talk like this that I am incredibly, painfully aware that every single word that I’m saying right here may be used against me in court.”
@@ -249,7 +249,7 @@ The marketplace will be powered by technology from AdsWizz. Acast’s Chief Reve
 As for Acast’s podcasters, Adams said many of them don’t have large enough audiences to either attract or make much money from custom sponsorships. With the programmatic marketplace, they don’t have to spend any time or resources dealing with advertising — the ads will just be placed automatically.
 “Just release your show and know that you’re starting to build a revenue stream,” Adams said.
 
-Featured Image: JaaakWorks/iStock/Getty Images
+ JaaakWorks/iStock/Getty Images
 Uber is in late-stage talks to acquire some technology and team members from Luxe, the on-demand car valet service, The Wall Street Journal and Recode first reported, citing sources. TechCrunch has since learned that the talks are indeed happening, but that the deal hasn’t closed and therefore could unravel.
 The plan is for Uber to acquire some of Luxe’s technology and engineering talent, which had been working on a service related to short-term car rentals, according to the WSJ. Uber also has reportedly been interviewing engineers from Luxe to determine who to keep from the company, according to the WSJ.
 Back in April, Luxe ended its door-to-door valet service, with CEO Curtis Lee saying that the company was changing directions. As part of the deal, however, Lee will reportedly not be joining Uber because he’s still going to work on some version of Luxe and retain the Luxe brand.
@@ -435,7 +435,7 @@ Ethereum offers the tantalizing promise of one chain to rule them all, or at lea
 
 
 
-Featured Image: Li-Anne Dias
+ Li-Anne Dias
 Pandora today is rolling out a new feature to its Premium tier that will allow subscribers to continue to listen to music, uninterrupted, when their current track, album or playlist ends. Called, simply, “AutoPlay,” the feature works by shifting users to a personalized radio station based on whatever it is you were listening to before.
 AutoPlay — a feature carried over from Rdio, which was bought by Pandora in 2015 for $75 million — was said to be in the works when Pandora first launched its Spotify competitor in March of this year.
 It’s now available to both iOS and Android users, and can be toggled on while listening to music or managed from the app’s Settings.
@@ -479,7 +479,7 @@ Unlike most research projects, Facebook’s AI Research (FAIR) and Applied Machi
 “This work throws out more questions than it answers,” said Pieter Noordhuis, a member of Facebook’s AML team. “There’s a tipping point beyond 8,000 images where error rates go up again and we don’t know why.”
 Facebook used Caffe2, its open source deep learning framework, and its Big Basin GPU servers for this experiment. Additional information from Facebook is available here if you want to dig more deeply into the details.
 
-Featured Image: Toast and Jam Films
+ Toast and Jam Films
 Yubico, the company behind the increasingly popular YubiKey two-factor authentication key, has raised a $30 million funding round. This marks the first major institutional funding round for Yubico, which had previously only raised $4.5 million from angel investors.
 New investors include New Enterprise Associates, the Valley Fund and Bure, a major growth equity firm from Sweden.
 Existing angel investors include the likes of Salesforce CEO Marc Benioff and Yubico chairman Ram Shriram. The team notes that half of the company is still owned by the founders and team (which is something few companies announce when they receive new funding).
@@ -507,7 +507,7 @@ Comey declined to answer a number of questions in a hearing open to the public, 
 
 While these revelations are noteworthy, Comey spent the bulk of his time laying out his timeline of events and dismissing some of President Trump’s claims as “lies, plain and simple.” Coming from a former director of the FBI with a distinguished career and bipartisan respect, that alone might be the most remarkable takeaway from Comey’s historic testimony.
 
-Featured Image: Drew Angerer/Getty Images
+ Drew Angerer/Getty Images
 Following allegations of the now-defunct job search startup WrkRiot scamming employees out of wages and its CEO Isaac Choi of misleading former employees about his credentials, the U.S. Department of Justice has announced that Choi has been indicted on charges of five counts of wire fraud.
 Choi allegedly lured several of WrkRiot’s former employees to work for him based on “false and misleading statements about his educational, professional and financial background, and by allegedly enticing them to continue working for his company by providing them with forged documents purportedly reflecting payments for unpaid stories,” the Department of Justice wrote in its announcement.
 The indictment alleges that Choi lied about his degree from business school and his time spent working as an analyst at a major financial institution, and lied that he was financially well-off and was investing his personal wealth into the company. After employees found out that WrkRiot’s bank accounts didn’t have the money Choi said he had invested, Choi lied and said that a lot of the money he said he would invest was tied up in accounts overseas, the indictment alleges.
@@ -515,7 +515,7 @@ Last August, the startup made its Facebook page private after former employee P
 “In reality, as alleged in the indictment, Choi sent forged wire transfer confirmations in order to induce WrkRiot employees to continue working for the company without being paid,” the DOJ’s announcement says.
 As noted in the announcement, an indictment is simply an allegation, and Choi is presumed innocent until proven otherwise.
 
-Featured Image: Bryce Durbin/TechCrunch
+ Bryce Durbin/TechCrunch
 The next version of Apple’s iOS operating system, iOS 11, is going to make it easier for you to log into your apps. The new mobile operating system’s software will introduce a new feature called “Password AutoFill for Apps,” which will offer easy access to your passwords right from the iOS keyboard when you’re on an app’s login screen.
 Password AutoFill was actually one of many new features teased onstage during Apple’s WWDC 2017 keynote address this week. A slide was briefly shown detailing iOS 11’s many other additions that the company wouldn’t have time to detail during its presentation.
 
@@ -583,7 +583,7 @@ Earlier today we reported that AOL-Yahoo will see job cuts of around 15 percent 
 Following closure of the sale of Yahoo’s operating business to Verizon, and as previously announced, the remainder of Yahoo will change its name to Altaba Inc., and register as an investment company — holding onto its 15 percent stake in Alibaba and its 35.5 per cent stake in Yahoo Japan.
 NB: Verizon is also the parent of AOL, TechCrunch’s parent company. 
 
-Featured Image: Justin Sullivan/Getty Images
+ Justin Sullivan/Getty Images
 Some consolidation is afoot in the world of virtual reality. MindMaze, a startup based out of Switzerland that has been building a VR platform to map and respond to brain activity for applications in healthcare and other fields, is making its first acquisition: Gait Up, a developer of motion analytics used in smart watches and other hardware.
 Terms of the deal are not being disclosed, MindMaze’s CEO and founder Tej Tadi said in an interview. Gait Up was bootstrapped and generating revenue and had an interesting list of customers and partners, including Logitech, the Swatch group, Hitachi, Philips, Salomon, PIQ, BNP Paribas group, Jaguar Land Rover and Pomoca.
 The company’s 10 or so employees will be joining MindMaze as part of the deal, and Gait Up will continue to serve its existing customers for the rest of this year before gradually working to integrate its tech with that of MindMaze’s to expand its platform to bring in more diagnostics and data.
@@ -627,7 +627,7 @@ The rapid growth of connected services and devices has gone hand-in-hand with a�
 This has led to an increasingly sophisticated landscape for security services, with companies covering every aspect of how we conduct business today and a huge amount of spending by organizations to try to prevent, stop, fix or mitigate damage. IDC estimates that enterprises will spend nearly $82 billion on security software this year.
 Hexadite had raised $10.5 million in funding, according to Crunchbase, with investors including HP Ventures, YL Ventures, TenEleven Ventures and Moshe Lichtman of Israel Venture Partners. As we pointed out before, Lichtman is a 10-year veteran of Microsoft, which could point to one connection between the startup and its acquirer. Hexadite’s last round, of $8 million, was raised last year.
 
-Featured Image: Getty Images
+ Getty Images
 Former FBI Director James Comey is set to give testimony in front of the Senate Intelligence Committee regarding his relationship with Trump during the Russia/Mike Flynn investigation.
 Yesterday, his prepared statement went public, blowing up the news cycle with a seven-page document that tells the story of Trump’s pressure for loyalty from the FBI.
 Needless to say, people are pretty anxious to watch the public testimony.
@@ -644,7 +644,7 @@ Periscope
 
 And there are at least three bars in SF that are opening doors early for folks to come watch the hearing.
 
-Featured Image: Drew Angerer/Getty Images
+ Drew Angerer/Getty Images
 Alexa can already control your Fire TV to help you launch Netflix or find your favorite show, among other things, but today Amazon is announcing a new tool for developers that will allow any cable and satellite TV company, streaming service or other content provider to add the same sort of voice control to their apps, as well. With the new Video Skill API, developers could allow Echo and Alexa device owners to change channels, seek out shows or movies, search across genres, play or pause content and more — just by speaking.
 For instance, you could say to one of your streaming video apps, “Alexa, find comedies,” or “Alexa, play episodes of Modern Family.” And cable TV providers could offer apps that let you change the channel without using a remote, by saying something like “Alexa, tune to HBO.”
 That doesn’t mean you’re instantly going to be able to use popular apps like Hulu, HBO or Netflix hands-free using your Echo speaker, of course. Developers actually have to update their apps to take advantage of the API first. And not all will.
@@ -724,7 +724,7 @@ Gracias is known for investing in most of Elon Musk’s companies, and serves as
 Data collection and visibility isn’t just going to be the purview of Addepar alone. And to ensure that the company’s tools can reach the widest audience, Addepar opened an API and has integrated its data mining and analytical toolkit into products for Salesforce, FolioDynamix, icapital Network, Citco Fund Services, RedBlack Software, Blas Portfolio, Quovo and others.
 “We’ve aligned Addepar’s business, product and technology strategy to enable a new level of innovation and connection across the financial services industry. We’re playing the long game,” said Poirier in a statement.
 
-Featured Image: CSA-Archive/Getty Images
+ CSA-Archive/Getty Images
 Rand Corporation reported in 2016 that autonomous cars would need to be tested over 11 billion miles in order to prove that they’re better drivers than humans. With a fleet of 100 cars running 24 hours a day, that would take 500 years, according to the report. That seems both improbable and impractical, so companies like Cognata are filling the autonomous vehicle testing void with virtual miles.
 The need to establish the reliability of autonomous vehicles in short order has prompted Emerge, Maniv Mobility and Airbus Ventures to invest $5 million in funding in Cognata. The company’s simulation system uses artificial intelligence, deep learning, and computer vision to create a virtual environment for testing cars without drivers — no roads required. It simulates the data collected by the vehicle’s sensors when encountering other vehicles and a variety of road conditions.
 Cognata recreates real cities in 3D, starting with San Francisco, with every building and tree in place. Then it layers in data, like traffic models from different cities, to understand how vehicles drive and react in each particular location. “We can see the difference between San Francisco, Bangalore, and London,” said CEO Danny Atsmon in a phone interview. The third layer of Cognata’s virtual test is the emulation of the 40 or so sensors that autonomous vehicles require, including cameras, lidar and GPS. These simulations are run using the computers provided by the auto manufacturer or Tier 1 supplier in a far safer environment than, say, the street you live on.
@@ -733,7 +733,7 @@ Because the tests are run using Cognata’s cloud platform, “we can drive mill
 Before founding Cognata, Atsmon was the director of ADAS and machine learning at Harman — now part of Samsung — which supplies manufacturers with connected car solutions. (You might know the company better for its Harman Kardon sound systems.) Atsmon’s goal in founding the autonomous vehicle testing company after leaving Harman was to create a scalable way to test cutting-edge technology in less time and for less money than deploying a fleet of vehicles on the road. It’s also far safer.
 “Because we are creating things virtually, we can recreate full cities — even the cities where autonomous driving is not allowed yet,” Atsmon said. “We can bridge that gap so that those cities will be more ready when they do allow it.”
 
-Featured Image: Cognata
+ Cognata
 London-based Trint, a startup co-founded by Emmy-winning journalist Jeff Kofman, is tackling a pain point I know all too well: the time it takes to transcribe an interview (or any audio) accurately.
 To solve this particular problem the company is employing machine learning and speech-to-text technology to automate transcribing, but — perhaps crucially — outputting the result in a user interface that recognizes that automation typically only gets the job partly done.
 Specifically, Trint integrates a web-based audio/video player and text editor, with the outputted automated transcription synced to the audio player’s playhead. It’s a deceptively simple idea but one that makes a ton of difference when checking (and editing) a transcription for accuracy.
@@ -768,14 +768,14 @@ Amazon says users in this position will have 180 days to either delete content t
 While Prime members don’t have to worry about their photo storage, which continues to be unlimited, non-photo content can be considered over-quota even for Prime members — so these Amazon customers may still need to take action to save some of their data.
 Amazon notes that Drive users can change their plan at any time. While files from Drive can be downloaded to a computer using the Amazon Drive Desktop Application.
 
-Featured Image: Paul Sakuma/AP
+ Paul Sakuma/AP
 MIT has received a donation that is notable for its size and the lack of strings attached to it. An anonymous alumnus gave the university $140 million designated as an “unrestricted” gift, which gives MIT a lot of leeway in deciding how it is spent.
 While the donors of restricted gifts usually have specific ideas for the money (like funding a department or study), MIT can use the $140 million donation on almost anything related to its educational and research mission, from its campus to early-stage research considered too risky for funding from other sources.
 The university gave some examples of the projects unrestricted funds have already supported, including “the work of faculty breaking new ground in such areas as Alzheimer’s disease, where research into a unique visual stimulation technique could herald a breakthrough in the understanding and treatment of the condition, and in physics, where MIT faculty have played a primary role in detecting the largest collection of antimatter particles recorded in space — helping to advance our fundamental knowledge about the universe.”
 Though they wish to remain unnamed, the donor said in MIT’s statement that they were a past recipient of MIT’s financial aid program. “I am also inspired by MIT’s vision in tackling global challenges, and I trust its leadership to take bold steps to make the world a better place. I am blessed to be able to give back to the Institute so other students can experience what I did, and so that the Institute can continue to excel in groundbreaking achievements.”
 One of MIT’s most ambitious initiatives is the $5 billion Campaign For A Better World, which has already raised $3.4 billion from 87,000 donors to support research into environmental and humanitarian issues.
 
-Featured Image: Chun-Teh Chen/Getty Images
+ Chun-Teh Chen/Getty Images
 Today’s Stories 
 
 Facebook will share anonymized location data with disaster relief organizations
@@ -861,7 +861,7 @@ But someday, “we want to do $500 million in revenue in a quarter,” McKinnon 
 Okta is part of a crowded marketplace, but they claim they are uniquely positioned to benefit customers. “All the companies that compete with us, whether it’s Salesforce or Microsoft, they have an agenda, they want a certain app to be used,” said McKinnon.
 Shares closed Wednesday at $25.69. The company has a market cap of $2.3 billion.
 
-Featured Image: Okta
+ Okta
 Advertisement		
 
 
@@ -990,7 +990,7 @@ For example, a retailer could send a message to a shopper asking if they meant t
 In order to get access to one-click checkout, the customers need to have previously provided their payment information to the retailer, or to another retailer in the Rebel network. (Customers who haven’t shared this information will be directed to a mobile checkout page, where they can save the info for future use.) This means consumers are never asked to share credit card information in the email itself. The company also says that its payments system is “fully PCI compliant.”
 Teplow suggested that email has become “the last owned channel” for retailers, where they have direct access to customers without having to worry about news feed algorithms or promoting themselves through ads. By adding one-click payments to the process, he’s hoping to offer “the most frictionless experience” possible.
 
-Featured Image: Mix3r/Shutterstock
+ Mix3r/Shutterstock
 In case a certain recent product unveiling got you hankering for a connected speaker with impressive, room-filling audio performance, you’re in luck: The Brookstone Big Blue Party Indoor-Outdoor Wireless Wi-Fi Speaker is exactly that, and you can buy one right now. Plus, it’s currently available for $249, which is less than the price of that other speaker — even when it does eventually go on sale.
 The Big Blue Party Speaker is not itself actually blue: It comes in two color options, including light gray and graphite, which roughly match up with Google’s silver and black Pixel phone colors. The speaker is large, standing almost a foot-and-a-half tall, and it’s relatively heavy at 12 lbs. But its size and weight are indicative of its quality in this case, because the solid speaker puts out sound in 360-degrees, and is built for durable use in all sorts of weather, with a water-resistant exterior housing.
 Given its sound quality and built-in battery, the Big Blue Party Speaker would be a good deal even if it only offered Bluetooth connectivity (hence the “blue” in the name, if you hadn’t guessed). But that’s actually not all that the speaker has in terms of connection options: There’s an auxiliary port for hardwired connections, of course, but there’s also Wi-Fi built-in, which makes it possible to connect with Chromecast devices for multi-room synced audio streaming.
@@ -1020,7 +1020,7 @@ That is likely why the IPO was so small, raising just over $30 million. They wil
 But they are optimistic they will expand to more cities, because clearly “gun violence is a fairly big problem in the U.S. and globally,” said Clark. “We want to continue to invest in customer success,” he said.
 The largest stakeholders are Lauder Partners, Motorola Solutions and Claremont Creek Ventures. The Mountain View, Calif.-based company previously raised at least $67 million in funding. 
 
-Featured Image: Craig Berg / EyeEm/Getty Images
+ Craig Berg / EyeEm/Getty Images
 In a Senate Select Intelligence Committee hearing that often veered off route, two of the nation’s most powerful intelligence figures made their case for extending a controversial portion of the Foreign Surveillance Intelligence Act (FISA) known as Section 702. Section 702, which allows the government to intercept the communications of foreign intelligence targets, is set to expire on December 31 unless it is reauthorized by Congress.
 NSA Director Michael Rogers broke down two scenarios in which the core controversy, namely the incidental violation of the right to privacy for U.S. citizens, comes up. He claimed that in 90 percent of cases, that form of collection is a result of two foreign targets who talk about a third person who is in the U.S. As Rogers tells it, 10 percent of the time a foreign target ends up talking to an American citizen. Because American citizens have Fourth Amendment rights, running into Americans in the course of foreign surveillance creates the sticky situation known as incidental collection, a major focus for privacy advocates seeking reform.
 In the course of justifying Section 702 as an invaluable tool for counterterrorism and counterproliferation efforts, Director of National Intelligence Dan Coats claimed that agencies have made “herculean” efforts to get a count on how many Americans have been affected, but in spite of those efforts it remains impossible. He went on to undermine his argument by implying that it probably would be possible, but that he chooses not to allocate resources to the task when the intelligence community could be focusing on imminent concerns in countries like Iran and North Korea. “I can’t justify such a diversion of critical resources,” Coats said.
@@ -1032,7 +1032,7 @@ Following the hearing, Wyden issued the following statement:
 “What the director said today is in my view a 180-degree retreat from what he said earlier and what his predecessor said earlier. It reflects a misunderstanding of what this is about. You can’t say that there’s no impact from sweeping up law-abiding Americans’ communications under this program, and then complain that counting the number of those calls and emails would violate their privacy. That just doesn’t pass the smell test. I won’t stop pushing for real transparency about this end-run around the Fourth Amendment.”
 While the hearing was explicitly intended to focus on FISA, its timing — a day before former FBI Director James Comey will testify for the first time since his firing — led Senators to frequently derail conversation around the intended topic. Seizing the opportunity, Senators from both sides of the aisle pressed the intelligence chiefs about reports that President Trump had approached them in order to influence the ongoing investigation into Russia’s interference in the 2016 presidential election. Rogers and Coats repeatedly declined to answer, even as Coats admitted that he was not sure he had a legal basis for doing so.
 
-Featured Image: SAUL LOEB/AFP/Getty Images
+ SAUL LOEB/AFP/Getty Images
 Project Wing, the X project from Google (now housed under mutual parent Alphabet) that focuses on drone delivery, just shared a key update in its efforts to make everyday drone delivery a reality: The company completed a series of tests organized by the FAA and NASA to help test air traffic management capabilities for Unmanned Aircraft Systems (UAS), which will be necessary if we’re ever going to get to a point where vehicles zip through the air without direct piloting, delivering packages and other goods as part of a largely automated network.
 Project Wing is preparing for a future in which it and others operate fleets of drones numbering in the thousands, delivering packages and serving other functions, while also intelligently navigating in and around buildings, weather and other UAVs. The resulting symphony will require sophisticated coordination, and the system that Wing tested on Tuesday this week at the test site operated by Virginia Tech showed exactly that: A single Wing operator controlled three Wing drones simultaneously for separate pickup and delivery missions, while also navigating with two Intel drones and a DJI Inspire, all sharing the same general airspace.
 
@@ -1057,7 +1057,7 @@ After hearing from counsel for Levandowski, Uber and Waymo, Alsup ruled from the
 Alsup implored those in court to consider what kind of mischief would arise if people working at private companies could claim the Fifth Amendment when party to any internal investigation and could remain employed while not complying with those investigations.
 “A private employer… can say to its employee, ‘Either you comply with this investigation or we can terminate you,’ ” Alsup said. As a result, he said he continues to stand behind the previous order and would not change anything about it.
 
-Featured Image: Bryce Durbin/TechCrunch
+ Bryce Durbin/TechCrunch
 WeWork, the seven-year-old, New York-based co-working juggernaut that more recently entered into the business of co-living, has been making a series of small acquisitions with some of the $1.8 billion that it has officially gathered from investors.
 Its latest acquisition: Fieldlens, a 5.5-year-old mobile communication system for the construction industry that aims to replace calls, texts, emails and all the other back and forth that’s typically sent between building owners, contractors, subcontractors, architects and everyone else involved in a construction project.
 WeWork was already one of Fieldlens’ biggest customers and, as an early adopter — says WeWork’s chief product officer, David Fano, in a new blog post about the acquisition — the company has “seen first-hand what connected front-line teams can accomplish.”
@@ -1079,7 +1079,7 @@ Some Uber staffers who were told about the medical report by them were disturbed
 Alexander is no longer with the company, an Uber spokesperson confirmed to TechCrunch.
 It’s unclear the exact timing of Alexander’s firing. Claims involving the incident with Alexander were among those involved in the recent independent Uber investigation into reports surrounding sexual harassment and other workplace malpractice, which resulted in the firing of 20 employees.
 
-Featured Image: Radiokafka/Shutterstock
+ Radiokafka/Shutterstock
 When you think of central Ohio, you might not think “hotbed of innovation.” But you’re going to want to rethink that. This summer, a 35-mile stretch of U.S. Route 33 outside of Marysville, Ohio, will be wired to test vehicle to infrastructure (V2I) communications.
 “A year ago, we had zero plan for all this,” said Eric Phillips in a phone interview. He’s the executive director for the Union County Community Improvement Corporation and the CEO of the Union County Chamber of Commerce. “It started as a fiber connectivity project.”
 Marysville is an exurb of Columbus, which won $50 million in funding for its Smart Columbus project. Columbus is also home to Ohio State University, which is working on a smart mobility initiative. Honda‘s manufacturing base for North America is just northwest of Marysville. And the Transportation Research Center and NHTSA Vehicle Research Test Center are at the opposite end of the corridor in East Liberty. Along this stretch of Route 33 between East Liberty and Dublin lies a cluster of about 50 other automotive businesses.
@@ -1091,7 +1091,7 @@ Wind River, for instance, announced today that it will be using the 33 Smart Cor
 “We can’t keep adding lanes to highways,” Phillips reiterated, noting that car sharing will play a role in traffic congestion in the future, as well. “All I’ve heard is positive; I have not heard anything negative about this,” he said of his community. “Businesses are very excited about the opportunity.”
 As Phillips pointed out, “We have a strong automotive industry, and we’ve got to support its growth. We’ve got to keep up. Electric vehicles are only one part [of the future of transportation]; the other is mobility and how to improve it. We have to accept it in order to not be way behind.”
 
-Featured Image: PRNewswire/Wind River
+ PRNewswire/Wind River
 Today in trademark news, Microsoft has filed for a trademark that may give us our first glimpse of the new Project Scorpio… logo.
 No, it’s not nearly as exciting as pre-E3 leaks/spottings could be, but it’s something.
 As first spotted by FragHero, Microsoft filed for a trademark with the European Union Intellectual Property Office for the below logo, describing it for use in computer game software and video game consoles.
@@ -1118,7 +1118,7 @@ What other kinds of population movements does Facebook track, perhaps to better 
 The company is under no formal obligation to explain itself, and I don’t want to suggest any ill purpose exactly. But it’s always troubling when, given a tool that can very easily be used for both humanitarian purposes and self-serving ones, we only hear about the former.
 As usual, unless Facebook and other major data hoarders like Google specifically say they aren’t using your data for something, it’s best to assume that they are.
 
-Featured Image: Facebook
+ Facebook
 In March, video game streaming site Twitch introduced a new way for its streamers to make money: by selling games directly to their fans. Initially, however, that feature was only available to Twitch’s Partners – that is, the site’s top-tier streamers with large audiences. Today, Twitch is adding game sales to its newly launched Twitch Affiliate program, as well.
 The affiliate program was introduced last month as a means of giving streamers who weren’t large enough to gain “Partner” status a way to make money from their efforts. At launch, Twitch Affiliates could generate revenue through Twitch’s virtual “tipping” option, Cheering with Bits. But the company promised that more tools would become available to Affiliates in time.
 Selling video games to fans will essentially work the same for Twitch Affiliates as it does for Twitch Partners. The idea is that streamers can showcase the titles they’re playing, giving fans the opportunity to purchase the games in question right from the site. That turns streamers into a crowdsourced advertising team of sorts for game publishers, while shifting Amazon-owned Twitch into more of an online retailer and game distributor, as well.
@@ -1199,7 +1199,7 @@ But Airbnb is finally stepping in with a helping hand. The company is today intr
 This way, hosts can set up comprehensive check-in instructions that are sent to guests automatically instead of all the back-and-forth, copy-and-paste messaging they used before.
 It’s a small update, but one that should make a big difference to hosts who use the home-sharing service frequently.
 
-Featured Image: Chesnot / Contributor/Getty Images UNDER A Chesnot / Contributor LICENSE
+ Chesnot / Contributor/Getty Images UNDER A Chesnot / Contributor LICENSE
 Pressboard is a native ad marketplace that brings together brands and publishers on a single, streamlined platform that allows them to go from commissioning content and getting it edited to tracking if it’s catching on with readers after it has been published. No matter whether you love or hate native content (and most writers and publishers I know have a complicated relationship with it), revenues from traditional display advertising continue to decline for most publishers, and native ads are one of the few new revenue opportunities for them.
 Pressboard, which launched in 2014, today announced that it has raised a $2 million funding round led by Vancouver Founder Fund, with participation from all of its existing investors, to help it expand its marketplace. The company’s CEO and co-founder Jerrid Grimm tells me that Pressboard currently has more than 300 publishers on its platform. These include the likes of Mashable, Vox Media, Business Insider, the Toronto Star and Thrillist. The brands the company works with include GE, Ford, General Mills and Chase, and the company says it has now helped these brands create more than 1,200 custom stories.
 
@@ -1232,7 +1232,7 @@ With the new funding, Pressboard plans to expand its marketing and partnership t
 As Grimm noted when I talked to him ahead of today’s announcement, the traditional method of buying native ads tends to be rather convoluted and manual. The idea behind Pressboard is to automate as much of this process as possible and streamline the sales process.
 “The hundreds of brand stories created through Pressboard’s Marketplace have already demonstrated the true power of branded content,” Grimm noted in today’s announcement. “With the space forecasted to grow from $12B last year to $50B by 2021, the technology required to make these campaigns efficient and measurable was missing. Pressboard fills that gap.”
 
-Featured Image: Sonia Martinez / EyeEm/Getty Images
+ Sonia Martinez / EyeEm/Getty Images
 Reedsy provides everything you need to turn your first draft into a book. And it turns out that ebooks aren’t overtaking good old paper books just yet. Reedsy partnered with Blurb so that you can send your finished book to Blurb, get it printed and sell it online.
 At heart, Reedsy remains a marketplace of professionals in the publishing industries. If you’re a writer, you can find editors, designers, marketing experts and more. And if you’re a freelancer in one of those fields, you can find clients.
 Last year, the company launched a book editor that tracks changes to collaborate with your partners. But the nice side effect is that your text is already ready to be exported. In just a few clicks, you can export your book to a format compatible with the Kindle Store and iBookstore. Reedsy’s book editor can also export a ready-to-print PDF.
@@ -1280,7 +1280,7 @@ The company has applied to rebrand itself as Klarna Bank, presumably as a precur
 The company applied for a banking license in 2015, and is reportedly looking at a shift into being more an all-in-one digital wallet rather than only used for the singular service of one-off payments and financing connected to specific purchases.
 According to Crunchbase, Klarna has raised just under $300 million in equity investment. Other backers include Atomico, Fabrice Grinda and FJ Labs, GP Bullhound, IVP, QED and Sequoia.
 
-Featured Image: klarna
+ klarna
 Shopify is taking Kit, the virtual assistant it acquired last year and making it free to all members on its platform, as a basic part of their merchant services. That’s a big deal for the previously premium service, both in terms of how far it can reach, and in terms of what it can do for Shopify’s user base.
 Kit bills itself as a “virtual employee” for Shopify merchants, which connects with their store, Facebook and various other customer vectors and can handle a lot of both inward and outward facing store and marketing management. There’s a skills library for the virtual assistant, which includes things like inventory management, dynamically adjusting Facebook ads, sending emails out to new customers, running reports on various aspects of a merchant’s shop and more, and all of this is controlled via Facebook Messenger, Telegram or SMS via a conversational interface.
 Shopify says that Kit is already enjoying strong adoption, with 800 percent growth in adoption since it came in-house, and 5x more customers drive to merchant stores via Facebook ads thanks to Kit compared to the same volume of inbound when compared year over year. Now, the company is hoping even more merchants will be able to find out what Kit can do, since it’s dropping the price barrier entirely.
@@ -1353,7 +1353,7 @@ It seems to me that the most interesting, and maybe most sustainable of these ef
 These include some of the interesting startups targeting young people, like China’s Yuanfudao, which just raised at a $1.1 billion valuation, and VIPKid, which last year came out of nowhere to raise $100 million, as well as Age of Learning out of the U.S., which also raised at a $1 billion valuation.
 Coursera, Levin tells me, sees itself in a similar vein, rather than as an all-out disruptor: “Our average MBA student is 37, married with children and a job,” he told me, “not someone who might have matriculated at the University of Illinois for this degree otherwise.” However, Coursera is only seeing through its first cohort in its masters programs, so it will be interesting to watch how its disruptive aspects evolve. 
 
-Featured Image: starmanseries/Flickr UNDER A CC BY 2.0 LICENSE
+ starmanseries/Flickr UNDER A CC BY 2.0 LICENSE
 While music streaming has become more and more commoditized, artists still have a wide array of places to distribute their songs like Spotify, YouTube and Apple Music — but getting paid properly can start to complicate things.
 That problem gets even more difficult when there are multiple people collaborating on the same song and it’s not clear who is getting how much of a cut from the revenue share from those services. That, on top of that the general unpredictability of an artist’s revenue, has left a hole that Stem co-founder Milana Rabkin thinks her and her co-founders startup Stem can fill. To do that, the company has raised $8 million in financing led by Evolution Media and Aspect Ventures, along with several other strategic investors and continuing participation from Upfront Ventures.
 Stem works to collect the revenue from those tracks in disparate platforms and sources it into a sort of escrow. It then pays out the artists based on a previously agreed level of involvement and revenue share. Rabkin said that each artist and collaborator has to sign off on the share. When a track is uploaded, the artist defines those share percentages, and then the revenue is distributed out more quickly than traditionally if it went through the typical channels. Rabkin said users should start getting data within the first 30 to 60 days of publishing.
@@ -1368,7 +1368,7 @@ The X-37B has been to space before; it actually just got back to Earth last mont
 Built by Boeing, the X-37B is also called the ‘Orbital Test Vehicle,’ and it launches vertically strapped to a rocket but then lands like a traditional plane, much like the original reusable Space Shuttle. It’s a lot smaller than the Space Shuttle, however, and can carry relatively small cargo loads in its 7×4-foot storage bay. An X-37C has been announced by Boeing, with a passenger capacity of up to six astronauts.
 This is SpaceX’s first launch of the X-37B, which has been sent into orbit aboard a United Launch Alliance Atlas V rocket for each of its prior missions. SpaceX’s role as a military launch provider is a huge boon to its ability to operate profitably, so scoring a secret spaceplane contract is a big deal for the private space company.
 
-Featured Image: U.S. Air Force courtesy photo
+ U.S. Air Force courtesy photo
 A day of protest over the FCC’s controversial proposal to eliminate net neutrality rules has been planned for July 12, with supporters of the online action including the likes of Amazon, Etsy, Github, Kickstarter, Reddit and Y Combinator.
 The protest website lists more than 60 participants who are planning to join in the day of action next month, and is soliciting more signs up.
 The action is being organized by three online rights organizations, Fight for the Future, freepress and Demand Progress — some of which were also involved in the 2012 online protests against the SOPA and PIPA bills. Those protests, five years ago, saw more than 50,000 websites blackout their homepages — and led to a rethink in Congress.
@@ -1431,7 +1431,7 @@ Murphy says Menlo invested in Scout because it’s unlike the competition. “It
 Scout will ultimately “bring visibility for tracking all the projects that are going on,” said Yakubovich. It’s efficient to have just “one system of record for procurement and sourcing.”
 Scout is headquartered in San Francisco and has 42 employees. The company previously raised about $12 million from NEA and Google Ventures (GV).
 
-Featured Image: Magictorch/Getty Images
+ Magictorch/Getty Images
 Another day, another major round of funding for a security startup, underscoring just how active the area of IT protection is right now — both in terms of business need and as an investment opportunity. Today, Illumio — a startup that provides data center and cloud security services, monitoring and protecting individual applications and processes within an enterprise network by segmenting them — is announcing that it has raised $125 million in a new round of funding. It plans to use the money to expand in three areas, business development, R&D and customer support.
 The Series D was led by J.P. Morgan Asset Management. (J.P. Morgan also happens to be a customer, although this deal was made independent of that, Andrew Rubin, the CEO and co-founder of Illumio, told me in an interview.) Other big names in this round included Andreessen Horowitz, General Catalyst, 8VC, Accel, Data Collective and Yahoo’s Jerry Yang — all previous investors — as well as unnamed new backers.
 It brings the total raised by Illumio to $267 million, at what Rubin described as an upround: “The pre-money on this was higher than on the last, no ambiguity about that,” he said in an interview.
@@ -1451,7 +1451,7 @@ In that regard, one of Illumio’s unique selling points is that it has stayed v
 That has also continued to have strong resonance with investors, and specifically customers who have become backers.
 “Given the exponential growth of cybersecurity risks, it’s clear that segmentation is now one of the largest market opportunities in enterprise software,” said Larry Unrein, Global Head of J.P. Morgan Asset Management’s Private Equity Group, in a statement. “Through our due diligence process, which included speaking with a number of Illumio’s key customers, we learned the company’s adaptive segmentation technology is designed to address these threats and offers a range of options without all of the manual work normally associated with traditional segmentation solutions.”
 
-Featured Image: Yuri Samoilov/Flickr UNDER A CCPL LICENSE (IMAGE HAS BEEN MODIFIED)
+ Yuri Samoilov/Flickr UNDER A CCPL LICENSE (IMAGE HAS BEEN MODIFIED)
 Roll up, roll up, there’s a new fintech VC fund in Southeast Asia town. Today, Thailand-based Kasikorn Bank announced its inaugural tech fund which is 1 billion THB, just shy of $30 million, in size.
 Kasikorn, which was founded in 1945 and is one of Thailand’s major banks, is calling the fund Beacon — think lights on top of lighthouses — and it is aimed at giving the firm first-mover advantage on global tech through startups based in Thailand and overseas. Thanapong Na Ranong, formerly with InVent, a VC affiliated with mobile operator AIS, will lead Beacon VC.
 The investment thesis is “to learn from startups and improve our go-to market strategy,” Na Ranong said in an interview, adding that the bank would not put shackles on its portfolio companies.
@@ -1466,7 +1466,7 @@ Kasikorn cites Beacon Interface, a startup offering bank services to visually im
 Kasikorn is one of a number of banks in Thailand to have taken an active interest in tech startups.
 Bangkok Bank partnered with Hong Kong-based Nest to offer an accelerator program, while Siam Commercial Bank (SCB) launched its Digital Ventures arm which covers startup/fund investments and an accelerator program. Digital Ventures is also a backer of the Dymon Asia fund, and its other investments include Singapore-based VC fund Golden Gate Ventures and Ripple, a blockchain startup based in San Francisco.
 
-Featured Image: @KBTGbuilding (Facebook) (IMAGE HAS BEEN MODIFIED)
+ @KBTGbuilding (Facebook) (IMAGE HAS BEEN MODIFIED)
 After months of trailing a move into original TV content, Apple yesterday pushed play on the first episode of Planet of the Apps, which can now be watched online via iTunes if you’re a subscriber of the company’s streaming music service, Apple Music.
 The 50-minute show combines a celebrity judging aesthetic familiar from the likes of The Voice, with entrepreneurs pitching their apps — a la Shark Tank.
 Meet the next icons.#PlanetOfTheApps begins tonight, only on @AppleMusic. applemusic.com/planetoftheapps https://t.co/9OLWtr4ip0— Planet of the Apps (@planetoftheapps) June 07, 2017
@@ -1504,7 +1504,7 @@ Right now, El Bassunie — who is one of four co-founders — said that the com
 The rapid growth the company has realized this year is down in a large part to its participation in YC, the WaystoCap CEO said.
 “They’re an accelerator program that really allows you to accelerate,” she said. “YC helps you to focus on your messaging and their help is invaluable.”
 
-Featured Image: appassionato fotografo viaggiatore/Getty Images
+ appassionato fotografo viaggiatore/Getty Images
 Victor Basta
 Contributor
 
@@ -1544,7 +1544,7 @@ Without specific actions, the industry will need 20-30 years to evolve toward U.
 Shortening this time horizon could perhaps create 10-20 more future tech unicorns, adding perhaps $50-100 billion of future aggregate economic value to European tech.
 Now that is an attractive return on investment.
 
-Featured Image: Bryce Durbin
+ Bryce Durbin
 Is there room for smaller, more focused Airbnb competitors? French startup Misterb&b thinks so as the startup just raised $8.5 million from Project A and Ventech to build an apartment renting platform focused on the LGBTQ community.
 As the name suggests, Misterb&b started with a focus on gay people, but the company says that it wants to become the inclusive platform for the LGBTQ community. While you’ll find plenty of apartments in gay areas on Airbnb, you don’t really know the person you’re dealing with.
 According to founder Matthieu Jost, this can be an issue as he had a bad experience with a host when he was traveling with his partner. And this can get even worse if you’re going to a country where homosexuality is still illegal.
@@ -1722,7 +1722,7 @@ But until SNAP is accepted online, Amazon has been going after lower-income hous
 “The ability to shop online has been limited – it’s an underserved audience,” explains an Amazon spokesperson. “E-commerce companies haven’t figured out how to help customers who may be uncomfortable paying with credit cards. The thinking at Amazon is that there’s so much value [with Amazon Prime] – there’s so much time, convenience, and savings…we felt like this was one small way to help a customer that’s temporarily in need.”
 Customers can learn more about the program and sign up for a 30-day free trial at amazon.com/qualify. Amazon says it will consider expanding the program to others on government assistance, outside EBD card holders, in the future.
 
-Featured Image: Ross D. Franklin/AP
+ Ross D. Franklin/AP
 Talking about sexual health makes folks squeamish. While sexuality and dating have, for the most part, been taken care of by technology there isn’t much talk of sexual health online. Until Biem.
 Biem is an app and service that makes it easy to talk to a sexual healthcare representative and get tests taken. It also lets you anonymously notify sexual partners if something is amiss and share your results with loved ones.
 Co-Founder Bryan Stacy has felt the fear of STD tests and created Biem to assuage it in others.
@@ -1741,7 +1741,7 @@ The team recently graduated from the Alchemist accelerator program, which focuse
 Access to shortlist is free for companies that need to have fewer than 100 users on the platform and manage fewer than 1,000 freelancers (and freelancers and vendors get free access anyway). Unsurprisingly, the paid enterprise product includes features like single sign-on support, custom branding and integrations, as well as access to Shortlist’s payments and tax forms.
 
 
-Featured Image: Lewis Mulatero/Getty Images
+ Lewis Mulatero/Getty Images
 Last week, ahead of WWDC, there was a ripple of news when Axios discovered that Bozoma Saint John — one of the more noticeable execs at the company for being a woman of color, who led an Apple Music demo at the previous year’s WWDC to some acclaim — was leaving Apple. Now TechCrunch has learned where she’s landing: she’s going to Uber.
 We received the news via a tip, and have confirmed the appointment through multiple sources at Uber. The company, we understand, views the appointment as important in helping “turn the tide on recent issues.”
 As for what role she will be taking, that’s something we’re still trying to figure out. We understand that Uber will be making more details public later. Saint John’s track record is in marketing — most recently at Apple but also with a long stint at Pepsi, among other places. [Update: she’s Uber’s new Chief Brand Officer, the company announced later.]
@@ -1765,7 +1765,7 @@ Beyond that, roadside assistance is a huge, fragmented market. According to the 
 Customers call for a tow directly from HONK via mobile web or the company’s app to find a nearby professional and track the location and estimated time of arrival of their tow truck in real-time. Insurance companies, auto OEMs, and fleets use the company’s transparent platform to reduce wait times by over 50%, improve customer satisfaction, harness their roadside assistance data and receive industry leading net promoter scores, according to a statement.
 “We’re very excited about the Farmers deal,” says Rasouli. “And it’s the first of many.”
 
-Featured Image: David Dennis/Flickr UNDER A CC BY-ND 2.0 LICENSE
+ David Dennis/Flickr UNDER A CC BY-ND 2.0 LICENSE
 Pokémon fans will have a lot to enjoy this coming fall; not only is Pokkén Tournament DX arriving as the first Pokémon Switch title, but Ultra Sun and Ultra Moon, follow-ups to Sun and Moon, are arriving on the 3DS family of systems on November 17. We don’t know much about the new games yet, but if they follow the pattern of past releases, they’ll add new story elements, characters, and Pokémon into the world established in the originals, which came out around the same time in 2016.
 The Sun and Moon series were themselves big departures for the series, rethinking a lot of the basic play elements. It’ll be very interesting to see what Nintendo has in store for the return visits to the new universe they created, which occupy a Hawaii-like archipelago of islands in the fictional universe.
 Finally, players will also be able to dive back into Pokémon Gold and Silver on virtual console on the 3DS family of systems, starting on September 22. That means whether you like the new style of Pokémon games, fighting franchises or the old school versions, you’ll have something to enjoy in the Poké way come fall.
@@ -1784,7 +1784,7 @@ In a note to MediaMath employees, CFO Stacey Bain said this doesn’t mean the c
 The company says it now has nearly 700 employees and works with all of the major ad holding companies.
 “We’re thrilled to work with Goldman Sachs and Santander, who are equally ambitious to support the growing scale of our business today, and motivated to support the needs of a reimagined and increasingly sophisticated supply chain in the future,” said CEO Joe Zawadzki in the funding release.
 
-Featured Image: Smartline/Shutterstock
+ Smartline/Shutterstock
 Nintendo hosted on of its Nintendo Direct streaming events today, just ahead of E3, and it had big news to share for one of its most popular and beloved game franchises: Pokémon is coming to Nintendo Switch, with its first appearance courtesy of Pokkén Tournament DX, the Pokémon fighting game.
 The news came via a dedicated Pokémon Direct edition of Nintendo’s direct show, which gives you an idea of how important the company thinks the news will be for the console and for gamers. It’s definitely something I saw crop up frequently among fan and enthusiast reaction when the Switch was originally announced, and Nintendo’s confirmation that Pokémon would appear in some form on the platform only stoked the flames of fandom.
 Switch launched with a relatively light game lineup, though the flagship Legend of Zelda: Breath of the Wild garnered rave critical reviews and player plaudits. The addition of another solid offering, in addition to the recently released Mario Kart 8 Deluxe and the forthcoming Super Mario Odyssey, should give Switch all the first-party hype juice it needs to continue to drive strong console sales.
@@ -1921,7 +1921,7 @@ With the $5 million in funding, Wahedna looks to scale up. “There’s a huge a
 Wahed’s seed round came from a mix of investors, including Afkar Holdings Managing Partner Khalid Al Jassim, former JPMorgan Chase Managing Director John Elkhair and former McKinsey & Company partner Nasr-Eddine Benaissa.
 For now, Wahed will focus on serving religious Muslims in the U.S., a community with plenty of wealth to invest. “This is just a completely ignored market,” Wahedna said. “We want to really show we can compete with the best.”
 
-Featured Image: Nattanitphoto/Shutterstock
+ Nattanitphoto/Shutterstock
 TechCrunch is excited to announce that representatives from China’s top on-demand startups will be speaking at our inaugural event in Shenzhen.
 Didi Chuxing, the company that beat Uber out of China, and red-hot bike-sharing startups Ofo and Mobike — which have pioneered a new kind of point-to-point transportation in China — are among the speakers confirmed for TechCrunch China in Shenzhen on June 19-20. Our China-based events attract thousands so go grab your tickets now — right here.
 Stay tuned for more announcements around other interviewees and panelists who will take part in the event.
@@ -1953,7 +1953,7 @@ Netskope is not yet profitable, nor is it revealing revenues, but Beri said that
 The company’s growth and the market opportunity is what has also attracted this latest round of funding and the continued interest of its existing investors.
  “The cloud has precipitated a tectonic shift in the enterprise that has led to broader implications for computing and security,” said Arif Janmohamed, Partner at Lightspeed Venture Partners, in a statement. “Since the beginning, Netskope has never shied away from addressing these implications and forging the path in one of the most important segments of security today. We are pleased to be a lead investor in this round of funding as Netskope continues to realize their vision of building an iconic, lasting cloud security company.” 
 
-Featured Image: Getty Images
+ Getty Images
 One of the ways companies fill their ranks with good employees is by scouting “passive talent,” or people who aren’t currently looking for new jobs but might be convinced with the right offer. This usually takes hours of networking, but a Tel Aviv-headquartered startup called Workey uses artificial intelligence to streamline the process by matching companies with potential candidates. Workey launched in the U.S. today and also announced that it has raised $8 million in Series A funding.
 The round was led by PICO Partners and Magma VC and brings the total Workey has raised so far to $9.6 million, including its earlier seed funding. Workey will use the new capital to expand in the U.S., open an office in New York City, and hire people for its research and development and data science teams.
 A LinkedIn study released last year found that recent college graduates are more likely to switch jobs at least twice before their early 30s than previous generations. Workey targets people who are interested in potential opportunities, but don’t want to broadcast their curiosity to everyone, including their current employers. Once they sign up for the site, they create an anonymous profile that is used to find positions their background and skills qualify them for.
@@ -1964,7 +1964,7 @@ Another benefit is “combatting the stigma associated with job seekers.”
 Once they do decide to interview for a new job, Workey lets candidates track the status of their application, so they don’t spend weeks in limbo waiting for an offer or rejection. The startup works mainly with tech companies right now, because it was “invented by engineers for engineers,” but can be adapted for other industries. It’s free for job candidates and monetizes by charging companies a fee, but its founders claim that they potentially save thousands of dollars by using Workey’s AI instead of headhunters or recruitment agencies.
 Workey isn’t the only career services startup that wants to use AI to streamline the recruitment process, which often takes months. Other companies that have developed AI tools to improve or replace headhunting, job searches, or interviews include Engage, FirstJob, Arya, and Mya. Though their services don’t necessarily overlap with Workey right now, it’s a sign that Workey’s competition is likely to increase soon. But its founders insist that “one of the most exciting aspects of business today is that there is no future-proofing. Workey will continue to evolve and grow, with a continued investment in R&D to ensure that we provide users with the best possible matches enhancing their careers.”
 
-Featured Image: Thomas Barwick/Getty Images
+ Thomas Barwick/Getty Images
 Shipt, the Birmingham, Ala.-based online grocery delivery marketplace, has raised another $40 million in its quest to rise above its southeastern roots to become the dominant grocery delivery brand in the U.S.
 From its home southeast, Shipt is challenging companies like Instacart, Amazon, and Google with a strategy that had, to date, ignored many of the biggest coastal cities in the U.S. (like New York and Los Angeles) in favor of large cities in the southeast and midwest.
 With the new $40 million in funding coming from the company’s previous backers, Greycroft Partners, e.ventures, and Harbert Venture Partners, Shipt is looking to aggressively expand beyond the 47 metro areas and 20 million families it currently serves to roughly 100 cities within the next year.
@@ -1998,7 +1998,7 @@ Asked by Bloomberg whether Apple is continually working to make encryption “ev
 Another area the UK government has been applying pressure to in the wake of the terror attacks is the spread of extremist content via online platforms. And social media firms have repeatedly found themselves in the firing line for not doing enough to promptly remove terrorist propaganda from their platforms.
 On this Cook noted that Apple already does “curate” the App Store — adding: “We don’t want hate speech on there. We don’t want these kind of recruiting things on there. We’ve tried to be very careful from the beginning about not having that stuff on there.”
 
-Featured Image: BERND THISSEN/AFP/Getty Images
+ BERND THISSEN/AFP/Getty Images
 Delivery Hero’s much-anticipated IPO is on. Today the European food delivery company officially announced that it plans to raise as much as €450 million ($506 million) from a public listing on the Frankfurt Stock Exchange in “the coming months”.
 It’s been a busy past year or so for Delivery Hero, and when you look back on its recent happenings and developments, all signs point to preparations for this initial public offering.
 Last year, the company got out of China — a tricky market for any international tech firm — and it reached an agreement to offload its UK business to rival Just Eat. (That deal is under review by the UK’s Competition and Markets Authority.) It also undertook a massive global expansion by snapping up Rocket Internet’s FoodPanda business to give it a presence in 20 new countries across Eastern Europe, the Middle East and Asia, and fortify its position in many others. On the financing side, prolific investment firm Naspers ploughed €387 million ($421.3 million) into the business last month — the final push before this IPO announcement — adding to the $110 million round that the firm closed nearly one year ago to this day.
@@ -2015,7 +2015,7 @@ Of its shareholders, Rocket Internet is currently sitting on 35 percent of the c
 “Going public and listing our shares on the stock market will further enable us to develop the company and provide us with additional capital to expand our leadership positions in the online food ordering and delivery market,” Delivery Hero CEO Niklas Östberg said in a statement.
 The original version of this article was updated to reflect that the sale of Delivery Hero’s UK business Hungryhouse to Just Eat is under review.
 
-Featured Image: Delivery Hero (Facebook) (IMAGE HAS BEEN MODIFIED)
+ Delivery Hero (Facebook) (IMAGE HAS BEEN MODIFIED)
 Advertisement		
 
 
@@ -2146,7 +2146,7 @@ Her other work includes a book titled “Uncommon Service: How to Win by Putting
 A 2015 interview from the Harvard Business Review about rating systems like the five-star scale Uber uses for both drivers and passengers gives insight into the kind of advice Frei might offer the company.
 When asked what the next generation of customer rating systems might look like, Frei said, “For both customer and employee ratings, organizations need to guard against process transcending purpose. The purpose of these systems is to understand what’s really going on, so we can improve it. But process transcends purpose when Joe the exterminator says, ‘I don’t get paid unless you give me a 10.’ It was a great idea to solicit what customers thought, and what employees think, but that doesn’t let you have the hook from having to manage.”
 
-Featured Image: Jaap Arriens/NurPhoto/Getty Images
+ Jaap Arriens/NurPhoto/Getty Images
 French startup Clustree just raised a $7.9 million Series A round (€7 million) from Creandum with Idinvest Partners and Alven Capital also participating. Clustree leverages machine learning to help both good employees who feel stuck in their jobs and HR departments who might not think to check their own companies for the perfect candidate.
 In order to do this, Clustree has structured more than 250 million career paths from various sources. Big French companies can then tap into this data to get recommendations about who they should hire next for this job opening. The service combines this data set with internal data as well as continuous feedback from HR managers.
 Internal candidates are sometimes better for new job positions, which helps when it comes to employee retention. Clustree can also help you with external recruitment.
@@ -2248,7 +2248,7 @@ While there are plenty of birth control delivery services out on the market, suc
 For instance, a little more than half of all pregnancies in Texas were unplanned in 2015, costing taxpayers $2.9 billion that year. However, according to a Guttmacher Institute report, the total gross public savings from preventing unintended pregnancies would have been $2.14 billion if women and couples could be empowered to prevent them. Couple that with the teen birth rate in Texas, which sharply declined by 56 percent over the last two decades, thanks in large part to contraceptives, according to the National Campaign to Prevent Teen and Unplanned Pregnancy.
 Couple that with an additional estimate of more than 19 million women living in these “contraceptive deserts” nationwide and it’s easy to see adding these types of services could save money at the state level by removing middlemen and increasing access, as well as provide a lucrative area for Nurx and other birth control delivery apps to tap.
 
-Featured Image: Ken Lund/Flickr UNDER A CC BY 2.0 LICENSE
+ Ken Lund/Flickr UNDER A CC BY 2.0 LICENSE
 Apple packed a lot of announcements into its WWDC keynote today, even with the long running time, so it’s understandable that the new Magic Keyboard with Numeric Keypad didn’t get any stage time. Understandable, but unforgivable, because this is truly the company’s greatest creation.
 Okay maybe not the greatest, but it is pretty great — it’s the same Magic Keyboard you know and love, with Lightning charging and Apple’s redesigned scissor key mechanisms, but it’s also got a dedicated numeric pad, additional function keys, the home and page up/page down buttons and four full-size navigation arrow keys given the space they deserve.
 Those arrow keys might be the most impressive part — they replace the half-size up and down arrows you’ll find on the Magic Keyboard of old, which means you can much more easily and comfortably navigate without looking down, when paging through files, scrolling webpages, driving through lines of code and more.
@@ -2445,7 +2445,7 @@ Apple Music user profiles are becoming more social. If you connect with a friend
 Image via Cody Crouch
 Apple appears to be taking Spotify’s platform and social playbook and making these features accessible in the layman’s streaming music app. While Spotify focuses its own algorithmic music discovery playlists like Discover Weekly, Apple is trying to convert former MP3 buyers into a new generation of streamers by focusing on simplicity and adaptability.
 
-Featured Image: Bryce Durbin
+ Bryce Durbin
 Apple’s Live Photos feature is becoming more powerful in iOS 11 with the introduction of a series of new editing tools and effects. In the new software, users will be able to trim their Live Photos and select their thumbnails, as well as apply a variety of effects like loops and long exposures to make their Live Photos more fun and engaging.
 As is often the case, Apple appears to have taken inspiration from third-party applications in deciding which features were in demand and should be part of the core experience.
 Apple introduced the Live Photos format back in 2015, allowing users to snap still images that animate with a press — sort of like a real-world version of the photographers you’d find in the Harry Potter universe. But sometimes Live Photos needed a little tweaking. For example, sometimes the video recorded needed to be trimmed, or the thumbnail selected wasn’t really the best shot.
@@ -2718,7 +2718,7 @@ This partnership, which was first announced at the Traction Conference in Vancou
 Victory Square Ventures uses a studio approach and provides early-stage funding to startups in the web, mobile, gaming and film industries. It has launched about 40 startups in 24 countries and the team says these companies have generated more than $100 million in sales so far.
 “Foxwoods is thrilled to partner with Victory Square Ventures, joining two of the most innovative minds in the gaming industry,” said Felix Rappaport, president and CEO of Foxwoods Resort Casino. “The Living Lab is an exciting enterprise that represents not only the next step in Foxwoods’ gaming evolution, but our commitment to leading the transformation of the industry as a whole and continuously giving guests unique experiences that excite. This is the future of gaming.”
 
-Featured Image: Bloomberg/Getty Images
+ Bloomberg/Getty Images
 In December, Amazon introduced a way to shop its site from the Apple TV through a dedicated app designed for tvOS. That same app, which lets you search and browse Amazon products and make purchases using your remote, has now officially launched on Amazon’s Fire TV, too.
 According to Amazon’s website, the app was released on May 24, 2017. However, news of its existence leaked out in April when what appeared to be a test version of the app briefly appeared online before being removed.
 Similar to the Apple TV version, Amazon’s shopping app for Fire TV lets you search across Amazon by typing in text, filter your search results (e.g. by department), as well as browse the product listings on your TV.

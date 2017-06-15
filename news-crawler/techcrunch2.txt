@@ -214,13 +214,13 @@ The next step is building out what FitzGerald calls an “opportunities marketpl
 The Series A comes from True Ventures, and it represents the firm’s first investment in Montana. FitzGerald acknowledged that starting a company outside the country’s main startup hubs has scared off some potential investors, but he said he’s hoping this investment is “breaking the ice a bit.” He also said Submittable didn’t have to raise the funding — it was already profitable, with more than 35 employees.
 “We’re really excited to invest in Submittable because of its great potential as a new kind of SaaS marketplace where both businesses and users benefit across many different verticals,” said True’s Puneet Agarwal in the funding release.
 
-Featured Image: Seth Sawyers/Flickr UNDER A CC BY 2.0 LICENSE
+ Seth Sawyers/Flickr UNDER A CC BY 2.0 LICENSE
 The National Highway Traffic Safety Administration has bestowed its highest ever SUV safety rating to Tesla’s Model X. The Model X earned a 5-star rating in every category and sub-category that NHTSA tests, using the government body’s own independent testing process. This also puts the Model X second only to the Model S in terms of overall injury probability to passengers per NHTSA’s ranking system.
 This safety performance owes a lot to the unique design of Tesla’s vehicle, due to its electric powertrain. The bottom mounted battery pack, which is spread out across the base of the vehicle, puts the Model X’s center of gravity far lower down and distributed when compared to traditional fuel injection engine SUVs. That lower center of gravity helps immensely in preventing rollovers, which is typically a big weak spot for SUVs, which sit higher up on the road.
 NHTSA’s rating system predicts around a 93 percent chance of a passenger in the Model X walking away from serious crashes, to put the high ratings in more relatable terms. That’s a high honor for Tesla, especially in tandem with the Model S reputation (despite some back-pedalling on that count at Consumer Reports related to the auto-braking feature on gen 2 hardware cars, which are getting that via update now).
 This means the Model 3 will have big shoes to fill, but if Tesla can pull off a NHTSA trifecta with that vehicle, which is set to start deliveries next month, it should really help secure Tesla’s overall safety reputation as a core competitive value.
 
-Featured Image: Darrell Etherington
+ Darrell Etherington
 Atlassian today announced the launch of Atlassian Stack, a new subscription service that bundles virtually all of the company’s self-hosted developer tools into a single offering. Starting at $186,875 per year for 1,000 licenses, this new bundle is meant to make the procurement process for enterprises easier and cheaper (despite what looks like an eye watering price at first). Instead of having to subscribe to individual products, enterprises can opt for the Atlassian Stack and get access to a full set of developer tools.
 Here is a full list of what’s included in the Stack:
 
@@ -236,7 +236,7 @@ That’s a pretty complete list of what you’d need to run a developer team on 
 At 1,000 licenses, the price per user comes out to $15,57 per month. For really large enterprises with more than 10,000 users on the platform, Atlassian drops the price to $6.74 per user per month.
 In addition to the Atlassian Stack, the company also today launched its DevOps Marketplace. This new store offers Atlassian’s users access to more than 200 add-ons and integrations. Current partners include the likes of AppDynamics, Splunk and Sauce Labs. Atlassian already runs a marketplace, of course, but this new offering focuses specifically on devops tools.
 
-Featured Image: William West/Getty Images
+ William West/Getty Images
 Europe’s data protection chiefs have fired a warning shot across the bows of the executive body of the Union ahead of the first annual review of the EU-US Privacy Shield.
 The data transfer framework, which was agreed in February 2016 and opened for sign-ups last August, is now used by more than 2,000 companies to transfer the personal data of EU citizens to the US for processing without risk of breaching fundamental European privacy rights.
 The core idea is a framework that bridges two very different legal regimes.
@@ -261,7 +261,7 @@ Update: In an emailed statement Commission spokesman told us: “As part of the
 Responding specifically to the WP29’s statement today, the spokesman added: “We will take this input into account in our preparations of the review. It is already foreseen by the Commission’s adequacy decision (Privacy Shield decision) that the data protection authorities will participate in the review.”
 We understand that areas the Commission is intending to cover as part of the review include: looking at how US companies comply with their data protection obligations and the mechanisms they have put in place to ensure a speedy handling of complaints; how the Department of Commerce and the FTC certify companies, monitor compliance and cooperate with EU Data Protection Authorities in the enforcement; the operation of the rules regarding access by public authorities, and rules and procedures to ensure the Ombudsperson mechanism functions well; and also issues identified already in the EC adequacy decision, such as dialogue on automated decision-making, as well as any developments in U.S. law that might raise questions concerning the EU-U.S. Privacy Shield.
 
-Featured Image: Sebastien Wiertz/Flickr UNDER A CC BY 2.0 LICENSE
+ Sebastien Wiertz/Flickr UNDER A CC BY 2.0 LICENSE
 Wireless networking startup Eero was founded on the premise of providing “WiFi that works.” With easy setup and the ability to boost your signal by just adding more WiFi stations, Eero introduced a new category of wireless mesh networking products to market.
 But since there are now multiple WiFi mesh competitors out there, Eero can’t afford to be left behind. With that in mind, the company is announcing two new hardware products for consumers and additional security features users can subscribe to.
 The Next-Gen Eero
@@ -297,7 +297,7 @@ This part of the interview could also confirm an earlier report that the company
 “Clearly, one purpose of autonomous systems is self-driving cars — there are others. And we sort of see it as the mother all AI projects,” Cook told Bloomberg. “It’s probably one of the most difficult AI projects to work on. So autonomy is something that is incredibly exciting for us. But we’ll see where it takes us — we’re not really saying from a product point of view what we’ll do. It’s a core technology that we view as very important.”
 More recently, Apple got an autonomous vehicle test permit so that the company can start testing self-driving cars on the roads of California. So far, Apple has been using a Lexus SUV with its own sensors and devices.
 
-Featured Image: BERND THISSEN/AFP/Getty Images
+ BERND THISSEN/AFP/Getty Images
 Yumi, the Los Angeles-based baby food delivery service co-created by former TechCrunch and Wall Street Journal reporter Evelyn Rusli and Angela Sutherland is finally open for business, with $4.1 million in seed investment from VC firms Brand Foundry, August Capital and NEA, as well as several angels, including early Dropbox investor Ali Partovi, WordPress’ Matt Mullenweg, and Philip Krim, co-founder of mattress company Casper.
 There are plenty of options in the baby food market for parents to choose from, but Sutherland, a new mom herself, wanted a healthier option for her little one without the hassle and clean up that comes with whipping up something in the food processor. She came up with Yumi to deliver perfectly pureed bites without all the sugar and preservatives found on the grocery store shelf.
 Like grownup meal delivery services, parents simply select a plan on the Yumi website, a chef prepares the food in the Yumi kitchen and then the meals arrive in an insulated container, along with ice packs to keep it fresh. Prices start at $50 per week for six meals and go from there (with discounts for subscription plans).
@@ -312,7 +312,7 @@ Joachim Damasky, managing director of Verband der Automobilindustrie in Germany,
 But if the human is taken out of the equation, who’s in charge? That’s the regulatory sticking point in the United States, according to David Strickland of the Self-Driving Coalition for Safer Streets (and a former NHTSA administrator). In the United States, the federal government has been in charge of safety standards for vehicles — rules for machines. Likewise, states have been in charge of how those vehicles are operated through laws — rules for humans.
 So if the machine takes over the duties of the human, is that the responsibility of the federal government to regulate or the states to regulate? NHTSA has produced guidelines, and the states are approaching autonomous testing piecemeal. Without a clear plan for moving forward, Strickland said, it’s difficult for auto manufacturers — and the startups that partner with them to supply cutting-edge technology — to move forward with confidence and efficiency.
 
-Featured Image: Kristen Hall-Geisler
+ Kristen Hall-Geisler
 Minard Hamilton
 Contributor
 
@@ -372,7 +372,7 @@ At the start of this month the European Commission said the firms have made “s
 Meanwhile, the efficacy of politicians focusing counterterrorism efforts on cracking down on online extremism remains doubtful. And following the recent terror attacks in the UK, May, who served as Home Secretary prior to being PM, faced criticism for making cuts to frontline policing.
 Speaking to the Washington Post last week in the wake of the latest terror attack in London, Peter Neumann, director of the London-based International Center for the Study of Radicalization, argued the Internet is not to blame for the recent UK attacks.  “In the case of the most recent attacks in Britain, it wasn’t about the Internet. Many of those involved were radicalized through face-to-face interactions,” he said.
 
-Featured Image: Twin Design/Shutterstock
+ Twin Design/Shutterstock
 If you heard venture investors were pouring tens of millions into storage, you might think it was cloud storage or flash storage. But that’s not the kind of storage we’re talking about with Clutter.
 The Los Angeles-based startup, which helps customers store their physical belongings like clothing and furniture, has closed a $64 million funding round from big name investors. The series C is led by UK-based Atomico with participation from Sequoia Capital, Google Ventures (GV) and Fifth Wall.
 Clutter picks up and delivers your items on demand and everything can be arranged online. They aim to make storing your belongings as convenient as possible.
@@ -417,7 +417,7 @@ In the end, it looks like a lot of those app owners are more likely, at least in
 But, he continued, “It will be fixed eventually. There is going to be a convergence of messaging and payments, and we are talking to all the leading messaging apps.”
 From what we understand, WorldRemit, which has raised just under $148 million in funding from backers that include Accel and TCV, could be raising another round to fuel that next level of growth.
 
-Featured Image: WorldRemit/Flickr UNDER A CC BY-SA 2.0 LICENSE
+ WorldRemit/Flickr UNDER A CC BY-SA 2.0 LICENSE
 When I gingerly held the little spring-loaded plastic device which would shortly be hurtling an extremely sharp needle towards my finger at a rate of knots, I wondered momentarily about Theranos. Here was a company led by a turtle-necked founder who’d promised angels would dance upon a pin, thus writing your future. Or, perhaps more accurately, the world upon a small spec of blood on a pin. It was a high-handed claim then. It still is. But the difference is this: I’d already undergone a long, detailed quiz by Thriva, the UK-based startup. They’d set my expectations. They’d already implied they could not (sorry) tell if I was going to die at 70. Just whether I should ease back on a few things and push hard on other, probably greener and crunchier, things. And maybe, just maybe, you ought to hit the gym more often, Mr Butcher?
 Admittedly I probably already knew that. But two things occur to me about monitoring your health. Firstly, lots of people do not believe the data this until someone genuinely medical tells them (and if it’s a convincing, scientific company, then all well and good). That’s good for Thriva.
 Secondly, the more educated amongst us genuinely love the scientific nature of the results. This is not a personal trainer or “wellness expert” sticking their finger in the air and telling you to do more press ups or eat more broccoli. This is bona-fide blood test results. So, eventually, when my results said I should watch the cholesterol levels and maybe cut out the butter and fried chicken, I believed it.
@@ -443,7 +443,7 @@ This is the stiffest punishment that Pakistan has handed down for online comment
 “The casual manner in which death sentences are handed in blasphemy cases coupled with the lack of orientation of Pakistani courts with technology makes this a very dangerous situation,” Human Rights Watch representative Saroop Ijaz told The Guardian in a statement.
 In years past, Pakistan has issued temporary blocks on Facebook, and then Twitter. A three-year ban on YouTube was lifted last year.
 
-Featured Image: TechCrunch
+ TechCrunch
 Ubisoft’s next Far Cry game is already surrounded by controversy, and it hasn’t even been released yet. The modern rural Montana setting maybe hits a little bit too close to home for some, but the game was still on display and playable for a short demo, specifically focusing on the companion recruitment system with NPC support characters.
 The system lets you select between three support characters in the demo, each with their own strengths and weaknesses. A dog, Boomer, is a stealthy pal, identifying enemies for you and also picking them off – provided he can get them alone and take them down without any witnesses. Grace, a long-range sniper, is a blend of deadliness and discretion, while Nick, a pilot, can rain down destruction with bombs from his biplane, in a decidedly open assault on your mutual enemies.
 I watched someone ahead of me use Boomer to painstakingly awesome effect, directing him to lure and then take down enemies embedded in a small town gameplay area one by one. My colleague Jordan also chose Boomer, but defeated the baddies mostly by more direct means. I, on the other hand, chose Nick, and mostly ran around throwing dynamite and blowing up as much as I could.
@@ -572,7 +572,7 @@ Inevitably, though, these kinds of bedside hardware products face an existential
 And hardware is a different beast than just creating an app that builds better sleeping habits. In August last year, the company said it would begin selling Sense at Best Buy and Target. That means that a startup like Hello suddenly has to grapple with complex problems like supply chain management and distribution, as well as the right marketing to ensure that people actually end up buying the tracker off the shelves. The company hired a new CMO from DoorDash in September last year.
 I’ve reached out to CEO James Proud, an early Thiel fellow, for some additional detail and haven’t heard back yet. We reached out to Casper, which also hasn’t responded to a request for comment yet.
 
-Featured Image: Hello
+ Hello
 In May, SoFi CEO Michael Cagney told TechCrunch the company would be applying for a bank charter “in the next month.” Well, it’s about a month later, and — surprise! — the company has actually done so.
 On June 6, SoFi applied for a de novo (or “new”) bank charter, according to a filing notice on the FDIC website. There will be an open comment period on the application for the next month, which will close July 6. The company confirmed it submitted the application, which TechCrunch has received a copy of.
 The company is applying for an industrial loan charter under the name SoFi Bank in Utah, listing a Salt Lake City location as its proposed depositary address. However, the company makes clear in the application that SoFi Bank will operate as an online-only institution, with no branches or deposit-taking ATMs.
@@ -632,7 +632,7 @@ For now, Inflect focuses on companies that are coming from Amazon’s AWS platfo
 So far, the Inflect team has raised $2 million in seed money. The plan is to use this to launch the service into general availability by the end of the third quarter of this year and then raise more money to expand its service.
 
 
-Featured Image: Thomas Trutschel/Getty Images
+ Thomas Trutschel/Getty Images
 There are a lot of headlines today about tech getting a slap in the face on Wall Street — particularly Apple which is down more than 3%. These guys are actually down only a few percentage points but for the largest companies in the world, that translates to billions of dollars.
 But while we wring our hands around a bit of a sell-off today in some of the largest companies in the world, here’s a not-so-subtle reminder that there’s at least another company that’s decided to go on a rapid rise in the past two years:
 
@@ -705,7 +705,7 @@ The Uber board unanimously agreed to adopt all of the recommendations contained 
 The controversy that has swirled around Uber since Susan Fowler published a blog post detailing systemic sexual misconduct at the company has already claimed a number of staff members.
 The company had no further comment.
 
-Featured Image: Chris Goodney/Bloomberg via Getty Images
+ Chris Goodney/Bloomberg via Getty Images
 E3 is well underway, and Ubisoft is gearing up to share what they’ve been toiling over all year.
 The Ubisoft E3 press conference comes to us live at 1pm PT, and you can watch the whole thing on Twitch or in the embed below.
 Look out for Far Cry 5, Assassin’s Creed: Origins, an update to that South Park game we heard about last year, and the long-awaited Mario + Rabbids crossover.
@@ -713,7 +713,7 @@ Look out for Far Cry 5, Assassin’s Creed: Origins, an update to that South Par
 
 
 
-Featured Image: The Community/Flickr UNDER A CC BY 2.0 LICENSE
+ The Community/Flickr UNDER A CC BY 2.0 LICENSE
 In case you missed the reveal of the Xbox One X, we have a recap for you that should inform you on all that you need to know about the console.
 We’ll be hitting you with initial impressions later in the day, once we’ve gotten the chance to go hands-on with the hardware and some of the games.
 If there is any indication of the cultural import and effect of the “millennials” – a term I dislike for reasons I will explain later – look no further than America’s malls. The Baby Boomer hubris and NIMBYism that sent malls into further and further orbits from city centers has come home to roost and it promises to change the face of retail in a big way.
@@ -757,7 +757,7 @@ It’s not yet clear when the incubator will begin accepting applications from s
 Startups interested in applying for the Better Futures incubator can register their interest here.
 As well as seeking to spark clean tech startup activity directly, the Better Futures project will also target enterprises with support for 50 to develop innovations that have the potential to save green-house gas emissions, and support for 25 enterprises to design, develop and introduce new products to the firm — with up to 10 “new innovations” set to be trialled as part of the program.
 
-Featured Image: Stròlic Furlàn - Davide Gabino/Flickr UNDER A CC BY-ND 2.0 LICENSE
+ Stròlic Furlàn - Davide Gabino/Flickr UNDER A CC BY-ND 2.0 LICENSE
 To beat Facebook and Google’s duopoly, Snapchat needs advertisers to build and buy campaigns with confidence. So today it’s announcing the Snap Publisher tool for building vertical video creative, it’s rolling out its self-serve Ad Manager, and its launching a Snapchat Certified Partners program to connect advertisers to trained third-party ad tech tool providers.
 Together, these will make it easier for advertisers to handle their own campaigns start to finish, or have their hands held.
 Snap needs to attract more spend from advertisers after it disappointed Wall Street in its first earnings report last month where it revealed $149.6 million in revenue compared to the $158 million expectations. Losses also mounted to $2.2 billion in Q1, up from $104 million a year earlier, which looked bad even without the $2 billion in stock compensation it paid out.
@@ -1008,7 +1008,7 @@ Despite this potential pipeline of differentiated hardware, our source suggeste
 Snap first began selling Spectacles last November via a single ‘Snapbot’ vending machine in its native Venice, California, and with precious little publicity. It expanded the Snapbots over the following months and made the glasses available to buy online in the U.S. in February.
 While the device has captured the imagination of many, it hasn’t made a huge difference to Snap’s bottom line. The company hasn’t said how many it sold, but reading the tea leaves of its financials, we estimated that it shifted something in the region of 34,600 pairs in Q4 2016 and 63,800 pairs in the first quarter of 2017. That’s around $4.5 million and $8.3 million per quarter, respectively. Considering Snap’s business did $149.6 million in revenue in Q1 — with an overall loss of $2.2 billion — it isn’t all that much to shout about. Yet.
 
-Featured Image: Snap
+ Snap
 Timeular, the Austrian startup behind the neat Zei time-tracking device that we wrote about last year, has raised €1 million ($1.1 million) in funding to develop new productivity coaching tools to help you work smarter.
 The company is best known for the Zei, its eight-sided device that is Bluetooth-enabled and acts as a timer. You simply program each side to a different task and tip it when you’re working on a particular task or change to another.
 The device blew past its €75,000 goal on Kickstarter, going on to raise €313,637 from over 3,000 backers. It caught the eyes of others, too. Timeular was named Austrian startup of the year for 2016, which, in turn, put it on the radar of domestic VC Speedinvest which is financing the €1 million round.
@@ -1041,7 +1041,7 @@ Uber has been leaking pretty consistently since the report approached its conclu
 Another report claims that Kalanick is considering at least a temporary departure from the company in the wake of these recent revelations. The board reportedly considered this option during their meeting on Sunday, alongside the recommendations in Holder’s report.
 The company will learn the specifics of the recommendations to be adopted Tuesday, and it’s very likely those will also be made public at that time, either through official channels or through the network of leaks that have been providing much of the information regarding the report thus far.
 
-Featured Image: Rob Kim/Getty Images
+ Rob Kim/Getty Images
 Microsoft revealed the Xbox One X to the world today, proving that it thinks X is just the best letter. The new console is mostly an Xbox One, but with 4K HDR output capabilities and Dolby Atmos surround sound on board. From an exterior design perspective, however, what’s interesting about the Xbox One X is that it’s the smallest Xbox One Microsoft has ever made, despite also being the most powerful.
 After the reveal we got some time to get up close and personal with the One X, to peek at its finishes, ports and angles. It was conveniently seated next to an Xbox One S, which meant you could easily see how it was more compact than its sibling. The design is even more conservative, too – it’s basically a no-nonsense black box that contains the most ambitious of console gaming power within.
 
@@ -1165,7 +1165,7 @@ Focus on the customer experience and strive to make it a magical one. Leverage a
 Keep in mind that this overview is just that — an overview (it’s a lot in some places and over-simplified in others). How you will digest all of this information will, in part, depend upon your expertise. If you’re just starting out, take it slow and don’t get overwhelmed. If you’re an expert, send along some feedback on how this can be improved (there’s an interactive version coming!). 
 What’s important to remember is that there has never been a more exciting time to be a marketer — and technology is playing a pivotal part in fostering better relationships with customers.
 
-Featured Image: FeelPic/Getty Images
+ FeelPic/Getty Images
 According to a variety of media reports, Uber’s board is meeting in Los Angeles today in what may be the most critical sit-down in the company’s eight-year history.
 The biggest item on the agenda, according to the New York Times, is whether or not cofounder and embattled CEO Travis Kalanick should take a leave of absence. How strongly the board pushes for this will likely depend on the findings of a months-long investigation spearheaded by former U.S. attorney general Eric Holder.
 In recent months, on Uber’s dime, Holder’s current employer, the white-shoe firm Covington and Burling, has interviewed hundreds of employees to obtain a picture of Uber’s culture; they were hired after the publication of a widely read account by former Uber engineer Susan Fowler Rigetti, who blogged in February about the company’s rampant sexual discrimination and harassment issues.
@@ -1283,7 +1283,7 @@ Ravel, based in San Francisco, will continue to operate out of its current offic
 Ravel was originally founded in a dorm room at Stanford Law School and it had raised $14 million in funding over the years, including from X Fund, New Enterprise Associates, North Bridge Venture Partners, Work-Bench and Ulu Ventures.
 Cofounder Daniel Lewis has more on the deal and what he’s hoping the merger will mean for Ravel — including far reach among legal professionals — here.
 
-Featured Image: Tori Rector/Flickr UNDER A CC BY-SA 2.0 LICENSE
+ Tori Rector/Flickr UNDER A CC BY-SA 2.0 LICENSE
 The Gillmor Gang — Keith Teare, Doc Searls, Denis Pombriant, and Steve Gillmor. Recorded live Friday, June 9, 2017. Enterprise Gang’s Denis Pombriant joins the Keith Gang for a vigorous rubdown of fake views and Comey’s smackdown of the Obstructor in Chief. Doc offers a biting indictment of tracking and kudos to Apple for its Safari fix for adtech fatigue. Is Google listening?
 @stevegillmor, @dsearls, @DenisPombriant, @kteare
 Produced and directed by Tina Chase Gillmor @tinagillmor
@@ -1332,7 +1332,7 @@ We’ll find out at Noon PT / 3pm ET, and you can too by following along on the 
 You can also watch on Twitch.
 Check out our full coverage here.
 
-Featured Image: Jean Chung/Getty Images
+ Jean Chung/Getty Images
 The founder of one of Silicon Valley’s most famous flameouts, anonymous social app Secret, is the new product lead for Postmates’ app. After Secret shut down and gave investors back their money, David Byttow went on to raise a $1 million seed round from Index to launch a blog publishing tool for enterprises called Bold.
 Today Bold was acqhired by Postmates, Byttow confirmed to TechCrunch, with he and co-founder Ben South Lee (also formerly of Secret) joining the delivery startup. Bold will shut down, killing off its enterprise blogging tool and writing assistant, plus the anonymous publishing space IO.
 
@@ -1625,7 +1625,7 @@ It makes money mostly through paid listings for local home professionals and ser
 Last fall it introduced a deep learning tool that analyzes home photos added to the site and enables users to search for and purchase comparable products directly from the page. It also added an AR feature to its mobile app that enables users to preview what new pieces of furniture might look like in a certain place in their home.
 The newest funding round, which Recode reported is being led by Iconiq, comes on top of more than $200 million that Houzz had raised from investors that include Sequoia, New Enterprise Associates, GGV Capital and others.
 
-Featured Image: Steve Jennings/Getty Images
+ Steve Jennings/Getty Images
 If you’re into the booming eSports scene, you’ve heard of HyperX. Their prevalence at professional gaming tournaments as the de facto gaming headphones for pros is difficult to deny, especially if you actually watch eSports.
 My interest grew, but I was still surprised that the Revolver S, a Dolby 7.1 surround sound gaming headset, made such a positive impression on me. As soon as I started playing online, sounds produced by sense of immersion are easy to identify, but aren’t overwhelming at higher or lower volumes.
 Dolby (and gaming headsets) done right
@@ -1663,7 +1663,7 @@ Her comments back in March suggested the EC might be preparing some kind of decr
 Asked for its current position on the technology, the EC spokesman said: “The Commission is working with experts and stakeholders at all levels to better define the challenges regarding encryption in criminal investigations and explore the possible options.”
 He added that it “supports the importance of encryption for the protection of confidentiality of communication and as an essential tool for security and trust in the digital economy.”
 
-Featured Image: Shutterstock UNDER A CC BY 2.0 LICENSE
+ Shutterstock UNDER A CC BY 2.0 LICENSE
 Apple has activated a new revenue stream that could foster communities of digital content creators around the world like those already thriving in China. Apple’s newly published update to its App Store policies officially designates voluntary tipping via virtual currency as in-app purchases that Apple taxes 30 percent. By taking tipping out of the grey area, more app developers might institute digital tip jars as an alternative way to get creators paid without having to offer ad revenue sharing.
 Chinese live-streaming video apps like Yinke and Yizhibo have long embraced tipping, allowing viewers to tip or give virtual gifts to the stars they watch in exchange for extra attention from the performer or just as a show of gratitude. American live-streaming apps like Facebook Live and Periscope don’t offer tipping; instead, Facebook has begun letting broadcasters show ads in their streams and keep 55 percent of the revenue.
 Yinke users can buy expensive virtual goods and send them to content creators, who cash out a portion of the gift’s cost. Image via A16Z
@@ -1678,7 +1678,7 @@ The developers will have to determine whether they themselves take a cut of the 
 On some platforms where 100 percent of the tips were passed through, creators might be a bit bitter about the change that will dock their earnings 30 percent. That’s a big deal for stars who can pull in hundreds or even thousands of dollars per stream. But the institutionalization and potential explosion in popularity of in-app tipping could grow the pie of donations.
 Thanks to tipping, musicians, comedians, artists, e-sports athletes and more risqué creators outside of China could be incentivized to make higher-quality digital content. And even if they don’t take a cut, platforms that adopt tipping could see users flock to consume it.
 
-Featured Image: Nan Palmero UNDER A Wikicommons LICENSE
+ Nan Palmero UNDER A Wikicommons LICENSE
 If you’ve ever contributed to a charitable fundraising campaign online in the last seven years, chances are that one of those campaigns (if not all of them) have been through GoFundMe, a web platform where people can set up and donate to campaigns for charitable causes.
 The popular site and the company that created it have been on a long-term growth tear: earlier this year the company passed 40 million individual donors who have made a total of $4 billion in donations, up from 30 million and $3 billion eight months ago.
 And now it’s gearing up for the next step. As part of a bigger plan to become, in CEO Rob Solomon’s words, “the giving layer for the internet,” GoFundMe is expanding its operations to France and Spain, part of a bigger plan to create localized services across Europe. By the end of the summer, GoFundMe plans to be in 18 countries, up from six currently, including the U.S., Canada, Australia and the U.K.
@@ -1779,7 +1779,7 @@ The reputational damage to Yahoo from the revelations of the data breaches ended
 As we reported earlier this week, around 15 percent of global headcount across AOL and Yahoo is being culled as a result of the integration by parent company Verizon.
 NB: AOL is also TechCrunch’s parent company.
 
-Featured Image: TechCrunch
+ TechCrunch
 TechCrunch Sessions: Robotics will feature the industry’s best roboticists, technologists and investors. But what about the next generation? Everyone knows that there are not enough robotics engineers to go around, and the demand will only increase. We’ve enlisted the help of three amazing educators at the forefront of STEM and engineering education who will discuss their views on the best way to train the next generation of roboticists.
 We’re excited to have David Barrett, a professor of mechanical engineering at Olin College, Ryan Keenan, curriculum lead for Udacity, and Dr. Robert McMahan, President of Kettering University, join us at TC Sessions: Robotics at MIT on July 17.
 Each of these educators leads vastly different programs, but the aim is universal: to train the next generation of globally competitive engineers. It’s important that these students learn through hands-on experience how to not only write code, but deploy code in a viable manner that results in a sustainable product. And since the global robotics industry is set to expand from $34.1B to $226.2B by 2021, the need for such graduates will follow suit.
@@ -1893,7 +1893,7 @@ You can see how Pinterest could be called overvalued at its current price. But i
 So with a slightly odd $150 million in new cash, Pinterest is rapidly maturing its ratios as it heads for a liquidity event.
 Homework: If Snap’s declines continue, at what point does its weakness harm Pinterest’s own path to the public markets?
 
-Featured Image: Li-Anne Dias
+ Li-Anne Dias
 Microsoft announced today it will retire its older file-sharing site Docs.com on December 15, 2017, as a result of its LinkedIn acquisition. With LinkedIn, Microsoft also gained access to SlideShare, a top file-sharing network on the web – and one’s that’s now far more heavily used than Microsoft’s own Docs.com.
 SlideShare “represents the ideal platform for publishing your Word, PowerPoint, and PDF content with its audience of 70 million professionals, and vast content library,” wrote Microsoft, in a message posted to users on the Microsoft Office website.
 The shutdown was first spotted by ZDNet.
@@ -1983,7 +1983,7 @@ However, officials were not satisfied that many links remained, and the ruling j
 All of this, and more, explains why online freedom groups are increasingly concerned about Thailand. In its 2016 report, U.S.-based Freedom House concluded that Thailand’s internet and media are “not free.”
 “Internet freedom declined in 2016 as the military leadership continued its efforts to codify censorship and surveillance powers through legislation,” the group wrote.
 
-Featured Image: TechCrunch
+ TechCrunch
 There’s good news for Airbnb in Japan where the government has approved legislation that legalizes its service, and others like it, in the country.
 The law, which was passed by Japan’s upper house on Friday, will allow home-owners to let out their property to paying guests for up to 180 days per year. They are subject to registering with local authorities who, in turn, have license to implement their own restrictions, Bloomberg reported.
 Airbnb said Japan is one of its top ten markets worldwide with five million people using its service in the country over the past 12 months. The company claims its community “generated $8.3 billion of economic impact” during 2016. That figure is only likely to raise as the country’s tourism industry gears up for a boom around the 2020 Olympic games and, before then, Rugby World Cup in 2019.
@@ -1991,7 +1991,7 @@ Airbnb said Japan is one of its top ten markets worldwide with five million peo
 The so-called ‘Airbnb Law’ has been in progress for more than a year, and it gives the U.S. company — which was valued at $31 billion as recently as March — a much-coveted legal footing in Japan. There are still issues, however, and some Airbnb hosts may see 180 days as a limitation on their potential income.
 Despite that, today’s news presents a welcome respite from challenges that Airbnb has faced with its operations in other major countries, including the U.S., where it often sits in a grey area. In New York, for example, it is banned from offering short-term lettings, while it has battled local government in cities like San Francisco, Seattle and overseas destinations such as Barcelona in Spain.
 
-Featured Image: Thomas Trutschel/Getty Images
+ Thomas Trutschel/Getty Images
 Milk deliveries may not sound like an industry in need of disruption, but that’s exactly what one startup in India is working to do. Supr Daily — the company in question — graduated the Y Combinator accelerator program this year and now it has raised $1.5 million from a range of investors to expand its service.
 The Supr Daily service is designed to bring formality and order to India’s chaotic system of morning milk deliveries, while it also combats quality issues around milk, as we wrote when we covered the company in February.
 Government reports suggest that as much as 68 percent of milk is ‘tainted’ as delivery people will water their milk down in order to get more bags and income for their lot. The milk can include additives like detergent, caustic soda, glucose, white paint and refined oil to mask coloration, according to Times Internet. Supr Daily sources fresh milk directly and pays delivery staff higher wages to provide genuine milk, while it also includes tester kits for customers.

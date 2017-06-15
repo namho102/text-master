@@ -92,7 +92,7 @@ LISNR is already being used in non-automotive applications, like the Cincinnati 
 PILOT promises to make any car autonomous. A sensor plugin is installed on your car’s roof to take in data. (The sensor is mounted on a roof rack in the image above.) You can use that data to help you improve your driving, like many OBD-II port plug-in devices do, or you can connect it to your steering and braking systems and let it take over some simple driving tasks. It also connects to the cloud to learn of traffic situations and share its data.
 PILOT brings some of the current advanced driver assistance systems (ADAS) to any car, like road sign recognition, lane keep assist, and blind spot monitoring. So using the term “autonomous,” as the startup does on its website, might be a bit premature. This is SAE Level 2 at best. But it is a step toward bringing life-saving collision mitigation technology to cars already on the road.
 
-Featured Image: PILOT
+ PILOT
 The potential for VR truly boggles the mind. In the future, it’s easy to imagine the various use-cases in education, entertainment, business, and social.
 But like any new technology, VR needs a ‘gateway drug’, and thus far that initial use-case has been gaming. Sony is pushing PlayStation VR hard with a handful of new games, some existing and others brand new. Nintendo is making a VR push by bringing Mario Kart to VR. Meanwhile, Microsoft held off on any VR announcements at E3 this year.
 But what do the members of the gaming community — from developers to streamers to the folks who are actually building VR — actually think of VR?
@@ -115,7 +115,7 @@ But the kinds of IPOs happening ahead of Blue Apron have a sometimes weird array
 CompuLab’s kinds of mini PCs may become increasingly important as more and more computing gets distributed. Oddly it doesn’t appear that this company is breaking out its most recent quarters, but it’ll be a wait and see for now. Some of these companies are ancient, with CompuLab starting in 1992.
 So, in the next couple weeks we should see more details about this one, but it’s going to be another blip on the radar as all eyes look toward Blue Apron.
 
-Featured Image: Science Picture Co/Getty Images
+ Science Picture Co/Getty Images
 Though Facebook is rarely mentioned alongside Apple, Microsoft and Amazon in discussions about conversational AI, the company has published a hoard of papers that underscore a deep interest in dialog systems. As has become clear with Siri, Cortana and Alexa, dialog is hard — it requires more than just good speech recognition to deliver a killer experience to users. From the sidelines Facebook has been tinkering with big challenges like natural language understanding and text generation. And today the Facebook AI Research team added to its portfolio with a paper bringing negotiation into the conversation (all puns intended).
 Facebook’s team smashed game theory together with deep learning to equip machines to negotiate with humans. By applying rollout techniques more commonly used in game-playing AIs to a dialog scenario, Facebook was able to create machines capable of complex bargaining.
 To start, Facebook dreamed up an imaginary negotiation scenario. Humans on Amazon’s Mechanical Turk were given an explicit value function and told to negotiate in natural language to maximize reward by splitting up a pot of random objects — five books, three hats and two balls. The game was capped at ten rounds of dialog, the rules stated that nobody would receive any reward if that limit was exceeded.
@@ -519,7 +519,7 @@ It’s especially useful in industries like fashion, where “the value of the a
 Inturn makes money from subscriptions and also takes a cut of processed transactions. “The ROI is kind of a no-brainer,” Lazar says of the value they provide their clients. 
 The startup was launched in 2013 and is based in New York.
 
-Featured Image: Catwalking/Getty Images
+ Catwalking/Getty Images
 The race for artificial intelligence technology is on, and while tech giants like Google and Facebook snap up top talent to build out their own AI-powered products, a new startup has just raised a huge round of funding to help the rest of us.
 Element AI — a Montreal-based platform and incubator that wants to be the go-to place for any and all companies (big or small) that are building or want to include AI solutions in their businesses, but lack the talent and other resources to get started — is announcing a mammoth Series A round of $102 million. It plans to use the funding for hiring talent, for business development, and also, to put some money where its mouth is, by selectively investing in some of the solutions that will be built within its doors.
 “Our goal remains to lower the barrier for entry for commercial applications in AI,” said Jean-François Gagné, the CEO of Element AI, in an interview. “Everyone wants to have these capabilities, it’s hard for most companies to pull it off because of the lack of talent or access to AI technology. That is the opportunity.” The company currently has 105 employees and the plan is to ramp that up to 250 in the next couple of months, he said.
@@ -539,7 +539,7 @@ The same is happening here. Element AI says that initial products that can be p
 I asked, and I was told multiple times, that essentially colocating their R&D next to other first, for now, is not posing a problem for the companies who are getting involved. If anything, for those who understand the big-data aspect of AI intelligence, they can see that the benefit for one will indirectly benefit the rest, and speed everything up.
 “That model is what made Yoshua Bengio” — “the godfather of machine learning” — “so excited about co-founding this company,” Ocko said. “That massive research advantage leads Element AI to be able to deliver technically advantaged, increasingly cost effective solutions. It means they don’t have to treat AI decision making capability as a scare resource, wielded like a club on everyone else.”
 
-Featured Image: mennovandijk/Getty Images
+ mennovandijk/Getty Images
 Long time UK-based health-focused social network HealthUnlocked has flipped the switch to make its mobile app globally available, aiming to boost access to its network and feed more data into machine learning matching algorithms it began applying to the platform earlier this year — idea being to help people with the same health condition find each other so they can share information and support.
 “The new app makes the HealthUnlocked network more accessible than ever before and we expect more people to use the platform as a result, meaning more data is collected and users receive highly tailored recommendations,” is its concise take on broadening the app’s reach.
 While it launched the app back in February, HealthUnlocked’s website launched in 2012 and now has more than 700,000 registered users and around 40 million visitors annually to ~700 online support groups. The majority of group offer support for people with long term conditions, but the platform also offers general wellness communities, with groups focused on topics such as healthy eating and fitness.
@@ -560,7 +560,7 @@ Teachers can either make their textbooks available for free, which the vast majo
 As Silagadze told me, the company had some early discussions with textbook publishers who were looking to bring their books to its platform, but what they basically wanted to do was to bring their PDFs onto the platform (and ideally with the help of a DRM-protected Flash player). “It was a terrible experience,” Silagadze said and noted that the company quickly broke off those discussions. He believes that as long as the marketplace remains small, publishers aren’t likely to take too much notice of it. But he obviously thinks that will soon change. “I think at this point they are mostly confused and they don’t know what to make of us,” Silagadze said. “Probably by next year, there will be the realization that we are an existential threat to their business.”
 
 
-Featured Image: Dorling Kindersley/Getty Images
+ Dorling Kindersley/Getty Images
 Heresy, a startup co-founded by Dimitar Stanimiroff, who was previously MD Europe at Stack Overflow, is a new sales tool designed to increase collaboration between sales team members, and help them make better data-driven decisions, collectively and individually, and ultimately close more sales.
 The Software-as-a-Service isn’t a CRM replacement as such — in fact, it painstakingly syncs with Salesforce — but, Stanimiroff tells me, takes its inspiration from agile software development with a front end that includes a simple to use Kanban board (similar to something like Trello) for inputting data and tracking where each potential sale is in the sales pipeline.
 Under the hood, data entered by individual sales people is then crunched and analysed to let sales teams and their managers know how likely they are to close a particular deal or meet a sales target overall. Crucially, the software intervenes to let individuals or teams know if they are likely to lose a deal or miss a target and what they should do to prevent this.
@@ -650,7 +650,7 @@ For entrepreneurs in the advertising space, market opportunities do and will con
 It’s no wonder that, at least for now, VCs are increasingly shying away from advertising technology investments. The moat just keeps growing wider.
 
 
-Featured Image: Li-Anne Dias
+ Li-Anne Dias
 Microsoft today announced that it is joining the Cloud Foundry Foundation, the non-profit behind the open source Cloud Foundry platform-as-a-service project that’s currently in use by about half of the Fortune 500 companies.
 Microsoft is joining at the Gold Member tier where it joins the likes of Google (which joined last December and also hired the foundation’s former CEO Sam Ramji), Huawei, Ford, GE Digital, NTT, Philips and Swisscom in supporting the project.
 When I talked to him about this announcement last week, Cloud Foundry Foundation CTO Chip Childers noted that the addition of Microsoft to the roster of formal project supporters means that the project now has the support of two of the largest hyper-scale clouds — Google and Microsoft (which means that they must be seeing some clear demand from enterprises on their platforms for this as well).
@@ -750,7 +750,7 @@ The ultimate “conversational UI” won’t be an app or a bot that you need to
 The personalized lock screen creates a unique interface connecting you and your personal AI running on your most personal device. This opens up completely new opportunities for designing next-generation human-machine communication methods and interfaces that can be applied from mobile devices to AR and VR environments. Simultaneously it is the next step to augment human and machine thinking in an inseparable way.
 
 
-Featured Image: milindri/Getty Images
+ milindri/Getty Images
 Uber has bucked convention from the outset, so it wasn’t entirely surprising when, earlier today, company cofounder and CEO Travis Kalanick announced that he’s taking a leave of absence from his San Francisco-based ride-hailing juggernaut —  without naming an interim CEO or disclosing a return date.
 Instead, Kalanick told employees, the company will be run by his direct reports. Meanwhile, owing to the results of a probe led by former U.S. attorney general Eric Holder — who was hired to look into allegations of harassment, bullying, and discrimination at the company — some of Kalanick’s responsibilities will be shared or given outright to other senior executives when he does return.
 Of course, it all begs the question of how long a 12,000-person company that’s valued at between $60 billion and $70 billion can operate without an active CEO.
