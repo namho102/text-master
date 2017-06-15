@@ -8,4 +8,9 @@ soup = BeautifulSoup(r.text, 'lxml')
 # for link in soup.find_all('a'):
 #     print(link.get('href'))
 
-print(soup.select('.article-entry')[0].text)    
+text = soup.select('.article-entry')[0].text
+text = text.encode('utf-8').strip()
+
+file = open('techcrunch.txt', 'a')
+
+file.write(text)

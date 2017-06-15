@@ -6,7 +6,6 @@ import time
 URL = "https://techcrunch.com/page/%d"
 
 
-
 class NewsSpider(scrapy.Spider):
     name = 'tablespider'
     start_urls = [URL % 1]
