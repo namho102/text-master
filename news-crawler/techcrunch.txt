@@ -22,7 +22,6 @@ With relatively few investors, and fewer still with links outside of Japan, 500 
 “We’re particularly bullish on legacy industries that have been very consumer facing,” he said.
 Riney is assisted by a team of five in Japan, which includes former investment banker Yohei Sawayama who serves as the fund’s second partner.
 
-Featured Image: Jiri Flogel/Shutterstock
 Amid ongoing struggles at Uber, one of its stronger regional rivals in transportation on demand has raised a significant round of funding, picking up a significant strategic investor in the process. Careem, a transportation startup currently in 80 cities across the Middle East, has raised another $150 million — closing out a $500 million Series E round that it confirmed in December when it announced the first $350 million tranche. With the new funds, Mudassir Sheikha, Careem’s co-founder and CEO, confirmed that Careem’s valuation is now over $1 billion. A separate source tells us more precisely that the funding is now $1.2 billion.
 This latest tranche is being led by Saudi-based Kingdom Holding, the VC that also backs Lyft and invested in Twitter and Snap before they went public. German automaker Daimler (which itself has acquired Hailo in the UK, Taxibeat in Greece and MyTaxi in Germany), and VCs DCM Ventures and Coatue Management also participated. (A source confirms to us that the overall $500 million is being led by Rakuten, which invested in the first tranche.)
 “With our investment in Careem, we are now taking the strategic step to becoming the world’s leading provider of mobility services,” Klaus Entenmann, CEO, Daimler Financial Services AG, said in a statement. “Careem has quickly leapt to the leadership of ridesharing within the MENA regions by delivering rapid innovation and customer growth, and it is spearheading new ways to transport people from point A to point B.”
@@ -44,7 +43,7 @@ There has been a lot of talk about how non-Uber car startups can collaborate mor
 Interestingly, having DCM and Coatue participate in this round marks the first time that Careem has had Silicon Valley investors backing it. It’s part of a larger trend of investors and tech companies starting to pay a lot more attention to the region as a new growth area. Big deals like Amazon’s acquisition of Souq, and the acquisitions that retail and real estate giant Emaar is making to consolidate regional e-commerce and logistics players, are also both signs of how the strongest startups in the Middle East are sprouting.
 “Overall, I feel the Middle East is more on the map than ever before,” Sheikha said. “We always knew the opportunity: 700 million people, 10 percent of global population are here. But the opportunity is so fragmented. There is no one Brazil or India, and infrastructure is still lacking and wealth is unbalanced, but it’s still a big, exciting opportunity.”
 
-Featured Image: Careem (IMAGE HAS BEEN MODIFIED)
+
 Reply threads on Facebook are about to get a lot more animated. To mark the 30th anniversary of the GIF format, all users will get the new GIF comment button that Facebook began testing three months ago. Facebook also announced that almost 13 billion GIFs were sent on Messenger over the past year, with 400 million GIFs sent just on New Year’s Day 2017.
 The GIF button lets people search and post GIFs from different services, like Giphy and Tenor, directly in the comments box (on desktop browsers, the GIF button also displays trending GIFs, just like in Facebook Messenger).
 
@@ -132,7 +131,7 @@ As with a lot of research, the application of this technology isn’t necessaril
 Semi-cooperative, semi adversarial relationships, like the relationship between a coach and an athlete, could be an interesting next frontier — further connecting game theory and machine learning.
 Facebook has open sourced its code from this research project. If you’re interested, you can read additional details about the work in the full paper here.
 
-Featured Image: Bryce Durbin/TechCrunch
+
 Personal media player software maker Plex says it’s now easier for mobile users on Android to play any video file saved on their device within its app. The move will enable it to better challenge VLC, an app users have historically turned to in order play a wider variety of video file formats. The new feature is entering a public beta today, and will support local playback of a number of file types, says Plex, including MKV, MP4, AVI, and WMV.
 The expanded support arrives at a time when Plex is trying to reinvent itself as a DIY alternative to streaming TV services. It recently rolled out options to record live TV using a DVR-like function, as well as watching local channels by connecting Plex with an antenna.
 However, many Plex users already have a robust video library with TV shows and movies from a variety of sources (cough, torrents) – some of which may be more difficult to play on mobile. This new option means you can load up those files on an SD card, or just sync them over to your device, then use Plex’s Android app to watch them while on the go.
@@ -186,56 +185,18 @@ The only sane response to that is: Facebook Safety Check, close your account.
 Advertisement		
 
 
-
-
-/* <![CDATA[ */
-if (!ads.isMobile()) {
-	(function(window,$){
-		window.TechCrunch.loader.on('tc_ads_wrapper_omniture', function(){
-			if ( !window.ads.isAdPageSet ){
-				if ( typeof window.adSetAdURL == 'function' ) {
-					window.adSetAdURL('/wp-content/themes/vip/techcrunch-2013/_uac/adpage.html');
-					window.ads.isAdPageSet = true;
-				}
-				if ( typeof window.adsResizePortrait === 'function' ) {
-					window.adsResizePortrait('1');
-				}
-				window.console.log('ADS WIDTH:');
-				window.console.log(ads);
-			}
-			window.htmlAdWH('93484976', "RR", "RR", 'f', 'adsDivffeb541c70');
-		});
-	}(this,this.jQuery));
-}
-/* ]]> */
- 
-
-
-
-
 Peter Thiel has some wild ideas, but transfusing teen blood into his own body might not be his bag.
 Correction below
 Stories of countesses bathing in virgin blood, or vampiric nobles sucking the juice out of the young, have captured our attention for centuries. But when stories started coming out that tech billionaire Peter Thiel was interested in transfusing teen blood into his own body, it sent Silicon Valley into a fever dream. Peter Thiel, the vampire!
 Thiel has been alleged to have a lot of crazy ideas — like that women shouldn’t have been given the vote or that we should create lawless floating nations to solve society’s problems. The coup de grâce appeared to be Thiel’s role in toppling Gawker 10 years after the media company wrote openly about his sexuality.
 Then, of course, he joined Trump, a pariah in the tech world. No wonder everyone was quick to believe that Thiel would be willing to suck the blood of the young if it added a few more years to his own life.
-Inc. wrote that Thiel was so afraid of dying that he was looking at “having younger people’s blood transfused into his own veins.” The story reported that Thiel Capital medical director Jason Camm (who is also an angel investor) had even contacted a startup called Ambrosia that was harvesting the blood of teens..text .crunchreport h3 {color:#fff}
+Inc. wrote that Thiel was so afraid of dying that he was looking at “having younger people’s blood transfused into his own veins.” The story reported that Thiel Capital medical director Jason Camm (who is also an angel investor) had even contacted a startup called Ambrosia that was harvesting the blood of teens..text
 
 		Latest Crunch Report 
 
-
-
-
-
-
-
 Element Raises $102 Million | Crunch Report
 
-
-
-
-
 Watch More Episodes
-
 
 
 In short order, Vanity Fair, Gawker and numerous other media sites repeated the story. Ambrosia received so much press attention that founder Jesse Karmazin was even invited to talk about his work at Recode’s recent Code Conference. Meanwhile, an episode of HBO’s “Silicon Valley” poked fun at the unsettling idea.
@@ -248,29 +209,9 @@ Contrary to the depiction in “Silicon Valley,” however, Ambrosia cannot dire
 
 Crunchbase
 
-
-
-
-
-
-				Peter Thiel			
-
-
  
 Bio
 Peter Thiel is a technology entrepreneur and investor.He first gained attention for innovations in banking and startup finance. Today he is known as the mentor of the PayPal mafia of entrepreneurs, as well as for his warnings of a coming technology deficit with severe economic consequences. He works to accelerate innovation to prevent such a crisis by identifying and funding promising technology ideas …
-
-
-Full profile for Peter Thiel 
-
-
-
- 
-
-
-
-				Thiel Capital			
-
 
  
 Overview
@@ -366,54 +307,8 @@ Still, Karmazin is hopeful he’ll have some good results from a preliminary hu
 “It’s amazing how many journalists just repeat what they’ve read,” he says.
 Correction: An earlier version of this story misrepresented reporting of Inc. by stating that it said Thiel Capital was looking to invest in Ambrosia. In a story titled, “Peter Thiel Is Very, Very Interested in Young People’s Blood,” Inc. reported instead that a Thiel associate expressed interest in what the company was doing. We regret the error.
 
-Featured Image: Bryce Durbin/TechCrunch
 
 
-
-0
-SHARES
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-if( !ads.isMobile() ){ window.TechCrunch.loader.on( 'gravity-beacon', function(){ window.tc_loadGravityScript( 'recirculation' ); } ); }
-
-
-	(function($) {
-		window._taboola = window._taboola || [];
-
-		if ($('body').hasClass('single-post-mobile-collapse') && $(window).width() < 637) {
-			$('.article-entry').append($(document.getElementById('taboola-below-article-thumbnails')).detach());
-		}
-
-		_taboola.push(
-			{ mode: 'thumbnails-a', container: 'taboola-below-article-thumbnails', placement: 'Below Article Thumbnails', target_type: 'mix' }
-		);
-	})(window.jQuery);
 The majority of consumers in the U.S. and Canada are no longer interested in hefty pay TV packages filled with channels they don’t watch. According to a new study from TiVo out this morning, 77.3 percent now want “a la carte” TV service – meaning, they want to only pay for the channels they actually watch. And they’re not willing to pay too much for this so-called “skinny bundle,” TiVo found. The average price a U.S. consumer will pay for access to the top 20 channels is $28.31 – a figure that’s dropped by 14 percent over the past two quarters.
 In Canada, the average price consumers will pay is $25.56, which is down by 20.1 percent over the past two quarters.
 TiVo’s findings are based on larger study of video trends across North America, which involved a survey of 3,081 respondents over the age of 18 in Q1 2017. The majority of respondents in the study (84.8%) reported they still had pay TV service, but the number of those who said they had cut the cord (21.8%) had grown by 4.4 percent from TiVo’s report a year ago.
@@ -468,66 +363,6 @@ One of the best features, however, is an inset pocket that has an integrated USB
 
 There’s also a back zippered laptop compartment, which is padded front and back and can hold up to a 15-inch notebook. Two handles, top and side, make it easy to grab and lift, and that camera bag mentioned earlier can also easily act as a small shoulder messenger back thanks to removable divider inserts. It also expands via a zipper release to gain a couple of inches of depth.
 The Transformer A is a great all-around city bag from a Toronto-based company that has already proven it can ship quality bags at scale. It’s currently up for pre-order for $175, in two colours, though it’ll retail for $100 more once the campaign finishes up. After using it for a few weeks, I can vouch for its quality and the intelligence of its design: This is a multi-purpose bag that can handle just about anything you throw at it.
-
-
-
-LaneandAve_VENQUE_0517_136
-
-
-
-
-LaneandAve_VENQUE_0517_114
-
-
-
-
-LaneandAve_VENQUE_0517_107
-
-
-
-
-LaneandAve_VENQUE_0517_103
-
-
-
-
-LaneandAve_VENQUE_0517_074
-
-
-
-
-LaneandAve_VENQUE_0517_063
-
-
-
-
-LaneandAve_VENQUE_0517_054
-
-
-
-
-LaneandAve_VENQUE_0517_041
-
-
-
-
-LaneandAve_VENQUE_0517_039
-
-
-
-
-LaneandAve_VENQUE_0517_018
-
-
-
-
-LaneandAve_VENQUE_0517_004
-
-
-
-
- View Slideshow
-
 
 Previous
 Next
@@ -771,14 +606,6 @@ Notes:
 
 I don’t know what to wear on Crunch Report (It’s a hard decision and I suck at dressing myself). If you are a startup and want to me to wear something mail me an XL T-shirt and I’ll wear it in an episode. I’m not going to mention the company on the shirt in the episode but it will be there. No offensive stuff, it’s totally at my discretion if I wear it. Mail it to me. Thanks <3 Ok, bye.
 
-TechCrunch C/O Tito Hamze
-410 Townsend street
-Suite 100
-San Francisco Ca. 94107
-Jason Rowley
-Contributor
-
-
 
 Jason Rowley is a venture capital and technology reporter for Crunchbase News. 
 
@@ -835,12 +662,6 @@ It’s worth noting that Microsoft was already active in a number of Cloud Found
 Within a few minutes, I’ve got one hand grasped gingerly on the zipper. The other is holding the bag’s handle in place. I unzip it slowly, as if performing surgery. There’s none of the pressure of a real life battlefield, but the potential humiliation of having to start all over again in front of the film crew is enough motivation to it right this time. 
 RE2 Robotics’ (pronounced “Re-Squared”) control scheme takes some getting used to. Each arm serves as an analog to the limbs on the military robot a few feet in front of me, but the control scheme and the exacting nature of every arm movement present a bit of a learning curve. After a few frustrating misses, however, I manage to save face in front of a room full of onlookers silently judging my robotic manipulation skills. 
 The Pittsburgh-based Carnegie Mellon spinoff has been developing the control scheme for about a decade now — around two-thirds of its existence. It’s the result of the growing movement of biomimicry in the robotics field, as more and more engineers look toward nature for inspiration. In the case of Re2’s Robotic Manipulation System, it was right in front of them the whole time. What better scheme could there be for controlling robotic grippers than our own arms?
-
-
-
-
-
-
 
 
 The  control system sits atop a tripod, with two grips mounted on bars that curl over top like bicycle racing handlebars. Each grip has series of buttons controlled by the thumb. It’s those last few, which control the robot’s motion and camera position, that take the most getting used to. But the RE2 employee who operates the robot for the sake of our video demo assures us that within a couple of hours, the whole thing becomes second nature. 
@@ -952,7 +773,7 @@ That kind of foresight is what’s turned Uber into such a valuable company; it 
 “Ever since the Steve Jobs saga at Apple, Silicon Valley founders have tried to make sure they won’t have a similar experience,” Pfeffer notes, “and for the most part, they’ve done exceptionally well at that.
 The idea that a strong founder like Kalanick would be be pushed aside? It was always far-fetched, says Pfeffer, adding: “Ms. Holmes still runs Theranos, in case you didn’t notice.”
 
-Featured Image: Bryce Durbin/TechCrunch
+
 At least one Uber board member didn’t seem to get the memo about sex discrimination and the changes Uber is trying to make from within. In an audio taping of the company all-hands meeting today about sex discrimination, board member David Bonderman said adding more women to the board meant more talking. Yes, he really said that!
 Board member Arianna Huffington can be heard at 6:40 on an audio recording of the meeting recovered by Yahoo Finance discussing the bonus of adding a woman to the board.
 Huffington: “There’s a lot of data that shows when there’s one woman on the board, it’s much more likely that there will be a second woman on the board.”
@@ -962,9 +783,7 @@ David should not be talking. At all.
 Bonderman has allegedly issued a statement of apology to Uber employees. According to New York Times reporter Mike Isaac, the statement, forwarded by HR head Liane Hornsey reads, “I want to apologize to my fellow board member for a disrespectful comment that was directed at her during today’s discussion. It was inappropriate. I also want to apologize to all Uber employees who were offended by the remark. I deeply regret it.”
 
 
-from a source, this is Bonderman's apology, fwded from Liane Hornsey to all employees. pic.twitter.com/a3YhbvaRqs
-— ಠ_ಠ (@MikeIsaac) June 13, 2017
-
+from a source, this is Bonderman's apology, fwded from Liane Hornsey to all employees. 
 
 
 Huffington also addressed CEO Travis Kalanick’s absence, telling employees he would be taking some time off due to the “confluence of recent events, the death of his mother, whom he buried on Friday, and all that the company has been going through in the last few months.”
@@ -972,5 +791,3 @@ Uber’s board agreed on Sunday to adopt all 10 recommendations given by law fi
 Uber, which is now supposedly implementing all of the recommendations approved by the board and handed to the company today, clearly has a long way to go before everyone gets it.
 Update: Bonderman has resigned in response to his sexist remarks. 
 “I appreciate David doing the right thing for Uber at this time of critical cultural changes at the company,” Huffington said in a statement.
-
-Featured Image: REUTERS/Shu Zhang
