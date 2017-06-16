@@ -2,7 +2,7 @@ import string
 from collections import Counter
 
 
-file = open('techcrunch_.txt', 'r')
+file = open('theverge1.txt', 'r')
 text = file.read().decode('utf-8').encode("ascii","ignore")
 out = text.translate(None, string.punctuation)
 # print out
