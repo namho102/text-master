@@ -4,10 +4,10 @@ import requests
 
 URL = "https://www.theverge.com/archives/%d"
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-file = open('theverge2.txt', 'a')
+file = open('theverge3.txt', 'a')
 
 
-for i in range(81, 90):
+for i in range(100, 120):
     print URL %i
     r = requests.get(URL % i, headers = headers)
     # print r.text

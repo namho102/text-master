@@ -11,6 +11,6 @@ soup = BeautifulSoup(r.text, 'lxml')
 text = soup.select('.article-entry')[0].text
 text = text.encode('utf-8').strip()
 
-file = open('techcrunch.txt', 'a')
+file = open('techcrunch1.txt', 'a')
 
 file.write(text)
