@@ -7,7 +7,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleW
 file = open('theverge3.txt', 'a')
 
 
-for i in range(100, 120):
+for i in range(132, 150):
     print URL %i
     r = requests.get(URL % i, headers = headers)
     # print r.text

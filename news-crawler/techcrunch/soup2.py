@@ -7,8 +7,6 @@ file = open('techcrunch5.txt', 'a')
 
 # r  = requests.get("https://techcrunch.com/page/2")
 
-
-
 for i in range(100, 120):
     r = requests.get(URL % i)
     soup = BeautifulSoup(r.text, 'lxml')
