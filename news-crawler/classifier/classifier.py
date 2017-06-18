@@ -1,4 +1,6 @@
 import random
+import time
+
 
 from textblob.classifiers import NaiveBayesClassifier
 
@@ -19,13 +21,13 @@ for i in range(0, 5000):
 
 sample = random.sample(arr, 2000)
 
-train = sample[0:1500]
+train = sample[0:1899]
 test = sample[1900:2000]
 
 # print len(train)
-
+start_time = time.time()
 cl = NaiveBayesClassifier(train)
-
+print("--- %s seconds ---" % (time.time() - start_time))
 cl.show_informative_features(5)
 
 print(cl.classify("Reply threads on Facebook are about to get a lot more animated."))
