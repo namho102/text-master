@@ -19,12 +19,15 @@ for i in range(0, 5000):
 
 sample = random.sample(arr, 2000)
 
-train = sample[0:1000]
+train = sample[0:1500]
 test = sample[1900:2000]
 
 # print len(train)
 
 cl = NaiveBayesClassifier(train)
-print cl.classify("Reply threads on Facebook are about to get a lot more animated.")
-print cl.classify("Russia can build on opening day win")
-print cl.accuracy(test)
+
+cl.show_informative_features(5)
+
+print(cl.classify("Reply threads on Facebook are about to get a lot more animated."))
+print(cl.classify("Russia can build on opening day win"))
+print(cl.accuracy(test)) # 93%
