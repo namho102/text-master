@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/classifier/classifier3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/classifier/preprocess2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/sports/reuters_sport.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/techcrunch/soup2.py" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch/soup2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/techcrunch/techcrunch.csv" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch/techcrunch.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/techcrunch/techcrunch1.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch/techcrunch1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/techcrunch/techcrunch2.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch/techcrunch2.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/techcrunch/techcrunch3.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch/techcrunch3.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/techcrunch/techcrunch4.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch/techcrunch4.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/techcrunch/techcrunch5.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch/techcrunch5.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/techcrunch/techcrunch_.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch/techcrunch_.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/techcrunch/theguardian.csv" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch/theguardian.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/theverge/soup3.py" afterPath="$PROJECT_DIR$/news-crawler/tech/theverge/soup3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/theverge/theverge1.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/theverge/theverge1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/theverge/theverge2.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/theverge/theverge2.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/theverge/theverge3.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/theverge/theverge3.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/theverge/wordcloud.png" afterPath="$PROJECT_DIR$/news-crawler/tech/theverge/wordcloud.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/classifier/classifier2.py" afterPath="$PROJECT_DIR$/news-crawler/classifier/classifier2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/sports/theguardian.py" afterPath="$PROJECT_DIR$/news-crawler/sports/theguardian.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/sports/theguardian.txt" afterPath="$PROJECT_DIR$/news-crawler/sports/theguardian.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/classifier/preprocess2.py" afterPath="$PROJECT_DIR$/news-crawler/classifier/preprocess2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,8 +41,8 @@
       <file leaf-file-name="preprocess.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news-crawler/classifier/preprocess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="64" />
+            <state relative-caret-position="108">
+              <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="39" />
               <folding>
                 <element signature="e#66#3417#0" expanded="false" />
               </folding>
@@ -84,11 +65,21 @@
       <file leaf-file-name="preprocess2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/news-crawler/classifier/preprocess2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            <state relative-caret-position="414">
+              <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="classifier2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-crawler/classifier/classifier2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-291">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="55" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,18 +102,6 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theguardian.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/sports/theguardian.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -240,7 +219,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="NB" />
+              <option name="myItemId" value="news-crawler" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -254,11 +233,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="NB" />
+              <option name="myItemId" value="news-crawler" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MLDocs" />
+              <option name="myItemId" value="classifier" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -285,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reuters_sport">
+  <component name="RunManager" selected="Python.preprocess2">
     <configuration default="false" name="classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,24 +278,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/classifier/classifier.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/classifier" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/classifier/preprocess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,6 +332,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/sports/reuters_sport.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="preprocess2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/classifier" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/classifier/preprocess2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -442,18 +421,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.classifier" />
-      <item index="1" class="java.lang.String" itemvalue="Python.preprocess" />
-      <item index="2" class="java.lang.String" itemvalue="Python.classifier2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.theguardian" />
-      <item index="4" class="java.lang.String" itemvalue="Python.reuters_sport" />
+      <item index="1" class="java.lang.String" itemvalue="Python.classifier2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.theguardian" />
+      <item index="3" class="java.lang.String" itemvalue="Python.reuters_sport" />
+      <item index="4" class="java.lang.String" itemvalue="Python.preprocess2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reuters_sport" />
-        <item index="1" class="java.lang.String" itemvalue="Python.theguardian" />
-        <item index="2" class="java.lang.String" itemvalue="Python.classifier2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.classifier" />
-        <item index="4" class="java.lang.String" itemvalue="Python.preprocess" />
+        <item index="0" class="java.lang.String" itemvalue="Python.preprocess2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reuters_sport" />
+        <item index="2" class="java.lang.String" itemvalue="Python.theguardian" />
+        <item index="3" class="java.lang.String" itemvalue="Python.classifier2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.classifier" />
       </list>
     </recent_temporary>
   </component>
@@ -472,8 +451,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="-11" width="1922" height="1039" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19316968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19316968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -501,16 +481,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news-crawler/fre.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news-crawler/fre_res.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -650,7 +620,7 @@
         <state relative-caret-position="162">
           <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -660,17 +630,7 @@
         <state relative-caret-position="126">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/classifier/classifier2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -753,24 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/classifier/preprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="64" />
-          <folding>
-            <element signature="e#66#3417#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/classifier/classifier3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NB/MLDocs/cryptography.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-432">
@@ -789,10 +731,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/classifier/classifier3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/classifier/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="e#66#3417#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/classifier/sport.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/classifier/classifier2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/news-crawler/classifier/preprocess2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        <state relative-caret-position="414">
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
