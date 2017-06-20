@@ -6,7 +6,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleW
 file = open('theguardian.txt', 'a')
 
 
-for i in range(18, 20):
+for i in range(63, 70):
     print URL %i
     r = requests.get(URL % i, headers = headers)
     # print r.text
@@ -24,6 +24,9 @@ for i in range(18, 20):
                 or link.startswith('https://www.theguardian.com/politics')
                 or link.startswith('https://www.theguardian.com/uk-news')
                 or link.startswith('https://www.theguardian.com/football/video')
+                or link.startswith('https://www.theguardian.com/football/audio')
+                or link.startswith('https://www.theguardian.com/football/blog/audio')
+                or link.startswith('https://www.theguardian.com/artanddesign')
                 or link.startswith('https://www.theguardian.com/football/ng-interactive')):
             article = requests.get(link, headers = headers)
             article_soup = BeautifulSoup(article.text, 'lxml')

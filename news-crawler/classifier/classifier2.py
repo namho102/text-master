@@ -12,9 +12,11 @@ text1 = file1.read().decode('utf-8').encode("ascii", "ignore")
 file2 = open('tech.txt', 'r')
 text2 = file2.read().decode('utf-8').encode("ascii", "ignore")
 
-sport_list = text1.strip().split('.')
-tech_list = text2.strip().split('.')
 
+sport_list = text1.strip().replace('\n', '').split('.')
+tech_list = text2.strip().replace('\n', ' ').split('.')
+
+# print(sport_list[15:100])
 # print(len(sport_list))
 # print(len(tech_list))
 
@@ -22,9 +24,20 @@ arr = []
 for i in range(0, 5000, 3):
     arr.append((sport_list[i] + sport_list[i + 1] + sport_list[i + 2], 'Sport'))
     arr.append((tech_list[i] + tech_list[i + 1] + tech_list[i + 2], 'Tech'))
-
+#
+# arr = []
+# for i in range(0, 5000, 2):
+#     arr.append((sport_list[i] + sport_list[i + 1], 'Sport'))
+#     arr.append((tech_list[i] + tech_list[i + 1], 'Tech'))
 
 sample = random.sample(arr, 2000)
+train = sample[0:300]
+test = sample[1900:2000]
+
+# test = []
+# for i in range(4000, 4300, 3):
+#     test.append((sport_list[i], 'Sport'))
+#     test.append((tech_list[i], 'Tech'))
 
 # train = sample[0:1500]
 # test = sample[1900:2000]
@@ -32,11 +45,9 @@ sample = random.sample(arr, 2000)
 # train = sample[0:500]
 # test = sample[1900:2000]
 
-train = sample[0:300]
-test = sample[1800:2000]
 
 # print len(train)
-print('Training . . .')
+print('Modelling . . .')
 
 cl = NaiveBayesClassifier(train)
 

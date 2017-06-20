@@ -1,0 +1,793 @@
+
+E-book sales may be declining in the U.S. and U.K., but in South Korea, many people still enjoy swiping instead of leafing through their reading material. E-book sales there are growing steadily each year, driven in part by the popularity of web comics. Ridibooks, which claims to be Korea’s largest e-book provider, has raised a $20 million Series C to take advantage of the market.
+Investors in the round include Praxis Capital Partners, ShinHan Finance Investment, and Company K Partners. The capital will be used to improve the user experience of Ridibooks’ products, which now include Ridibooks, its main bookstore, an e-reader called Ridipaper, and Ridistory, a platform it launched in January for serialized novels and web comics.
+TaeWoo Kim, Ridibooks’ business manager, says e-book sales in Korea are increasing about 25 percent to 30 percent every year. Ridistory was launched in response to user demand for serialized novels and comics and its top-selling title, a romance novel called “Under the Oak Tree,” has already hit one million views.
+Ridibooks made $50 million in revenue last year and currently has more than 2.5 million users who have downloaded a total of 175 million e-books. Its stores have 784,000 titles from 2,000 publishers. Along with its previous rounds, including an $8 million Series B closed at the end of 2014, Ridibooks has raised $35 million to date.
+500 Startups has announced the close of its fund for Japan, more than 18 months after it was first unveiled. The effort is backed by the Japanese government, which has chipped in as an LP via its Cool Japan Fund. (Yes, that really is the name of the fund, which is aiming to use about $1 billion in public money over its lifecycle.)
+Initially U.S.-based 500 Startups targeted a $30 million close, but it has reached a total of $35 million thanks to strong interest from investment partners, so says James Riney, its Japan-based partner who runs the fund. CJF, as the government fund is known, is committing $10 million, but beyond a large check it adds gravitas, too.
+“[Cool Japan’s involvement] is symbolic in a way because there been a lot of top down influence in the startup ecosystem in Japan,” Riney told TechCrunch in an interview. “As an outsider coming in, having the government’s investment is a validation.”
+In particular, Riney said that 500 Startups will work with CJF to open up opportunities for its portfolio companies further down the line: that chiefly means funding.
+“We’ll be sourcing and supporting startups at the seed stage, and inviting CJF to look at later $10 million-$20 millions rounds to give startups the firing power to expand,” Riney said.
+“CJF has capital to invest outside of Japan but doesn’t necessary have the network. We’ve been extremely aggressive expanding outside of the U.S.,” he added. “No matter where they want to expand to, we have someone locally who is well connected to help them hit the ground running.”
+Other investors in the fund include camera-maker Nikon, Meizhou Bank, Mitsubishi Estate and Japanese social network Mixi.
+The 500 Startups Japan fund is looking to co-invest in early-stage deals, offering $100,000-$500,000 checks per round. In some cases, it may stretch to $1 million, Riney said, while around half of the total fund is allocated to follow-on investments. Over the past year, the fund has done 21 deals, and that’s a pace that it is expected to continue with now that the fund is fully closed.
+
+The 500 Startups Japan team
+While CPF’s involvement is particularly strategic — and headline-worthy — 500 Startups doesn’t need much help finding partners who operate at later stage investment phases. The U.S. firm has struck up relationships worldwide after making investments in more than 1,500 startups across 60 countries, while, operationally, it has people on the ground in 20 countries.
+LPs in its central fund include corporates in places like East Asia and the Middle East, and its sprawling collection of micro-funds for specific makets is too numerous to detail in full. In Asia they include 500 Durians in Southeast Asia, 500 Tuktuks in Thailand, 500 Kimchi in Korea and a less-catchy-named investment vehicle in Vietnam. Riney, for what it’s worth, said he chose ‘500 Startups Japan’ as a more conservative fund name to adhere to Japanese business culture and avoid alienating potential investors.
+Despite a nod to the nation’s conservatism, Riney said that startups are beginning to break out in Japan. Our sister site in Japan reported that startup investment in the country’s surpassed JPY 200 billion (around $2 billion) for the first time last year. Riney believes that the ambition to take risk is also changing the mindset of founders and investors, who in the past would push for an exit via IPO as a risk-averse way to ensure a return on investment.
+“Historically if you wanted to do a $20 million-$30 million round you didn’t have options and had to do IPO,” he explained. “Now we’re seeing many more later rounds, more companies choosing to stay private and raise a lot more capital so that they can aim for growth — investors are starting to feel more comfortable, too.”
+“The Japanese government has gotten more involved in supporting and it has really shown in the investment outlay,” Riney added.
+With relatively few investors, and fewer still with links outside of Japan, 500 Startups has a unique position that will likely help it secure significant deal flow. The investment focus is vertical agnostic, Riney said, but he’s keen on industries such as bioinformatics, space, logistics and other areas that have been disrupted globally but not touched on by startups in Japan yet.
+“We’re particularly bullish on legacy industries that have been very consumer facing,” he said.
+Riney is assisted by a team of five in Japan, which includes former investment banker Yohei Sawayama who serves as the fund’s second partner.
+
+Amid ongoing struggles at Uber, one of its stronger regional rivals in transportation on demand has raised a significant round of funding, picking up a significant strategic investor in the process. Careem, a transportation startup currently in 80 cities across the Middle East, has raised another $150 million — closing out a $500 million Series E round that it confirmed in December when it announced the first $350 million tranche. With the new funds, Mudassir Sheikha, Careem’s co-founder and CEO, confirmed that Careem’s valuation is now over $1 billion. A separate source tells us more precisely that the funding is now $1.2 billion.
+This latest tranche is being led by Saudi-based Kingdom Holding, the VC that also backs Lyft and invested in Twitter and Snap before they went public. German automaker Daimler (which itself has acquired Hailo in the UK, Taxibeat in Greece and MyTaxi in Germany), and VCs DCM Ventures and Coatue Management also participated. (A source confirms to us that the overall $500 million is being led by Rakuten, which invested in the first tranche.)
+“With our investment in Careem, we are now taking the strategic step to becoming the world’s leading provider of mobility services,” Klaus Entenmann, CEO, Daimler Financial Services AG, said in a statement. “Careem has quickly leapt to the leadership of ridesharing within the MENA regions by delivering rapid innovation and customer growth, and it is spearheading new ways to transport people from point A to point B.”
+This is a significant Series E for Careem — previously, the company had only raised $72 million. The size of the round speaks of the opportunity that investors see right now to grow more regional transportation services — both in direct competition with Uber and incumbent forms of transportation as well as to simply to tap a very big opportunity.
+In the case of Careem, the latter is actually the stronger force at the moment. Sheikha — who co-founded the company with Magnus Olsson (who is the MD) — estimates that Careem plus Uber account for only around one percent of the potential market for transportation services in the region.
+“When it comes to ride hailing, Uber is the primary competitor, but between us we’re serving just one percent of the opportunity,” he said, “so the biggest challenge is just growing.
+“Dubai is a truly global city, but as soon as you leave Dubai for places like Oman or Cairo or many other cities, you realise that public transport infrastructure is not extensive. Plus, in our markets, if you look at the numbers, car ownership is also very low. Transportation is supply constrained.”
+Indeed, while half the world is railing about how Uber has treated women over the years, the challenges are of a decidedly different nature in Careem’s neck of the woods.
+While women can drive in some places, in many they cannot, and many simply do not. “Women want to go out to school, college and work but cannot go because there is no car available,” he said. Many rely on fathers, brothers and husbands to get them around. “Transportation and lack of public transport what we are trying to address and reliably remove that constraint.”
+Another issue that is perhaps more specific to Careem’s place as a startup mostly focused on emerging markets: payments. The vast majority of consumers either do not have credit or debit cards, or simply prefer to pay in cash, so Careem has had to adjust accordingly.
+The company has come up with a mix of interesting solutions, including a network of people in its cities who act as collection managers, taking funds and then paying out drivers. And it also has developed an in-app wallet, where your change can be deposited after a ride if your driver doesn’t have it to hand, and then used for a future trip. The wallet also acts as a credit account for the highest-rated passengers.
+There is more leakage on cash, but the hope is that with elements like the in-app virtual wallet, passengers and drivers gradually get more used to using less of it in Careem’s services. “This is the unfortunate reality,” Sheikha said. “Payments is a challenge for a service like ours.”
+Careem has been growing at a very quick pace so far. Today it has close to 250,000 drivers (“captains” in Careem’s terminology), and 10 million people are signed up and the app is now in 80 cities in the region, covering 13 countries. Revenues and trips are both growing between 20 and 25 percent month on month at the moment,  said Sheikha. (As a point of comparison Careem noted 150,000 drivers and less than 50 cities in December.)
+While Daimler’s investment is another step in how the carmaker continues to fill out its regional ride-sharing portfolio — notably in a market where Mercedes Benz (part of Daimler) is a very popular make — Sheikha notes that it’s also an opportunity for Careem to tap into some of the technology that Daimler is working on for the next generation of cars.
+Dubai’s leader has set a target for 25 percent of all transportation to be in driverless vehicles by 2030, and although Careem has just raised a large round of funding, investing in and developing your own autonomous technology has a very high barrier to entry (indeed, that “AI divide” is a problem that one startup is now trying to tackle). So, one solution is to partner with companies that are not direct competitors who are making those future bets.
+Daimler has already been working with Uber on self-driving pilots, and has set a target to have self-driving cars on the road in the next five years, so this will give it one more channel to market: via its strategic investment in Careem.
+Another interesting strategic aspect of this round is the fact that not only does Daimler have other transportation startups in its portfolio, but Careem now has multiple investors who also back another big ride-sharing company, Lyft in the US.
+There has been a lot of talk about how non-Uber car startups can collaborate more together. And although we’ve actually seen very few (no?) fruits from that labor, Sheikha said that he can see some opportunities in the future to give Careem app users the ability to continue to use their apps when they travel abroad and want to order cars in other markets. (No deals made yet on that front, though.)
+Interestingly, having DCM and Coatue participate in this round marks the first time that Careem has had Silicon Valley investors backing it. It’s part of a larger trend of investors and tech companies starting to pay a lot more attention to the region as a new growth area. Big deals like Amazon’s acquisition of Souq, and the acquisitions that retail and real estate giant Emaar is making to consolidate regional e-commerce and logistics players, are also both signs of how the strongest startups in the Middle East are sprouting.
+“Overall, I feel the Middle East is more on the map than ever before,” Sheikha said. “We always knew the opportunity: 700 million people, 10 percent of global population are here. But the opportunity is so fragmented. There is no one Brazil or India, and infrastructure is still lacking and wealth is unbalanced, but it’s still a big, exciting opportunity.”
+
+
+Reply threads on Facebook are about to get a lot more animated. To mark the 30th anniversary of the GIF format, all users will get the new GIF comment button that Facebook began testing three months ago. Facebook also announced that almost 13 billion GIFs were sent on Messenger over the past year, with 400 million GIFs sent just on New Year’s Day 2017.
+The GIF button lets people search and post GIFs from different services, like Giphy and Tenor, directly in the comments box (on desktop browsers, the GIF button also displays trending GIFs, just like in Facebook Messenger).
+
+Facebook added GIF support two years ago, but until now users had to enter the URL of a GIF hosted somewhere else. The GIF button makes the process a lot easier, especially on mobile. It’s currently only available for comments, but Facebook may eventually also make it available for News Feed posts because user demand for GIFs shows no signs of abating.
+Facebook reportedly had support for GIFs ready for years before it was finally added, but was hesitant to deploy it because of the visual impact it would have on the News Feed. Despite the company’s initial reluctance, however, users kept finding workarounds to post GIFs. The lack of GIF support also gave other services like Imgur an advantage. Now Facebook has started embracing News Feeds with “richer” (some would say busier) media and in addition to GIFs, that includes auto-play videos and colored statuses.
+For fun and to mark the anniversary of when GIFs were first introduced by CompuServe in 1987, Facebook is also running a poll asking users how GIF is pronounced, a debate that continues to rage on even though the creator of GIF, Steve Wilhite, has already declared his allegiance to the soft G.
+Today’s Stories 
+
+Element AI, a platform for companies to build AI solutions, raises $102M
+Uber board member gets sexist at a sexism apology all-hands
+Chan Zuckerberg Initiative pledges $5M to home down payments for teachers
+
+Credits
+Written by: Tito Hamze, John MannesHosted by: Tito HamzeFilmed by: Joe ZolnoskiEdited by: Tito Hamze
+Notes:
+
+I don’t know what to wear on Crunch Report (It’s a hard decision and I suck at dressing myself). If you are a startup and want to me to wear something mail me an XL T-shirt and I’ll wear it in an episode. I’m not going to mention the company on the shirt in the episode but it will be there. No offensive stuff, it’s totally at my discretion if I wear it. Mail it to me. Thanks <3 Ok, bye.
+
+TechCrunch C/O Tito Hamze
+410 Townsend street
+Suite 100
+San Francisco Ca. 94107
+Trucker Path, a  three-year-old, Mountain View-based platform that helps connect drivers, brokers, shippers, and carriers, has just lined up $30 million in debt funding so it can start loaning some of those truckers money right after they deliver their freight.
+It’s seemingly a win-win. It means truckers needn’t wait 30 to 60 days to get paid by the vendors who hire them. In the meantime, the loans are a new revenue opportunity for Trucker Path, which is charging its customers slightly more in interest than it’s paying its debt provider: Flexible Funding, a lower-flying, 25-year-old lending institution in San Francisco.
+It’s the latest twist in the war to win over the hearts of the 1.6 million long-haul truckers in the U.S., a somewhat stunning 550,000 of whom are already using Trucker Path’s app, according to cofounder and CEO IvanTsybaev.
+Why do they use it? Well, partly to communicate to their peers where parking is, and isn’t, available. In fact, it’s one of the stickiest features of the app, which began as a navigational tool but now features everything from crowdsourcing to the ability to track shipments from dispatch to delivery.
+While people outside the industry might not grasp what a pain in the butt it is to park a truck, a survey by the Department of Transportation has shown that 75 percent of drivers say they regularly have trouble finding a safe place to park when they need to rest. Meanwhile, using Trucker Path, drivers save 11 hours, or $600, each month, insists Tsybaev. And you can imagine the savings for enterprise customers like Pepsi and FedEx that send out thousands of trucks every day.
+Trucker Path is not the only shiny new option in the industry, of course. You’ve probably read about the growing spate of startups looking to elbow aside traditional trucking companies, including Turvo, which we wrote about here, and Uber Freight — a freight broker that’s eventually expected, like Trucker Path, to offer a single platform where brokers, shippers, and carriers can work together in real time.
+Tsybaev says his company already has the kind of network effect that can mean the difference between barely surviving and thriving, though, and investors apparently buy his argument. The 60-person company — which has already raised $21.5 million from Renren and Wicklow Capital of Chicago, among others — says it’s right now talking with investors about a Series B round. (It says it’s already fielding sheets, actually.)
+The new funding should help on a number of fronts. One new feature the company has been working on is an insurance marketplace for its trucking customers; they’ll gain access to numerous providers that would otherwise have trouble connecting with these individuals but can reach them more easily with Trucker Path’s help.
+Trucker Path also says it wants to beef up its enterprise sales force, and to create a fully automated marketplace so truckers won’t have to worry about negotiating with shippers or freight brokers. Indeed, ultimately, says Tsybaev, a trucker will be able to tell Trucker Path’s app how long he or she will be on the road, and it will immediately provide that person with the “right freight at the right price.”
+Then, thanks to its new debt facility, it can offer that individual a cash advance.
+New equity funding will also come in handy on that front, too. As Tsybaev explains it, the company’s debt lender provides capital for most of every invoice, but Trucker Path also covers a small percentage.
+“To scale into a multi-billion dollar business,” adds Tsybaev, and naturally it means to, “we need more capital.”
+HTC is back at E3 this year for its sophomore turn at the gaming expo, after its first show in 2016 following closely on the heels of the Vive VR headset’s consumer launch. I spoke to HTC VP of VR Dan O’Brien at this year’s E3, to find out a bit about how the company sees the market, its role therein and the state of VR in general now that it’s not the newest kid on the block.
+We talked a bit about how important it is to see big games embrace the platform, including Bethesda’s Doom and Fallout VR titles (it wasn’t yet public that Mario Kart would also be making its way to the Vive via Tokyo arcades, but the same conclusions apply). O’Brien was candid about how despite strong indie support, which HTC continues to prize, big name games coming to VR are sure to help it continue to mature as an industry, and attract new gamers who might’ve been content to otherwise stay sat on the fence.
+
+
+
+The Vive has also evolved from a hardware perspective, and O’Brien pointed out that both the new Deluxe Audio Strap, and Intel’s upcoming WiGig wireless adapter kit for Vive are going to be on display and available for testing this year at the show. The Vive Tracker, which brings other objects into the gaming world, is likewise on display with some new game integrations. The headset itself may not have changed since last year, but we’ve learned a lot about user experience, on both hardware and software fronts.
+VR might not yet be a breakaway smash hit, even when it’s tied to a console and with a lower barrier to entry than the Vive, as with PS VR. But O’Brien doesn’t seem under any illusions about the work that still needs to be done in the space, and as proof he points to recent partnership announcements, including with Google, on different approaches to broadening the appeal of VR in general.
+HTC didn’t get have anything as grandiose as its own Vive keynote at its second E3, necessarily, but it did see the VR pioneer incorporated in big announcements from Sony, Bethesda and Nintendo – not bad for a relative gaming expo novice.
+Jaguar Land Rover has brought two new startups into its Portland Tech Incubator: LISNR and PILOT Automotive Labs. Previous cohorts at the incubator have ranged from parking apps to drones; these two continue to build on JLR’s creative approach to the automotive future.
+LISNR uses ultrasonic audio to transmit data. That’s right — it transmits and receives sounds we can’t hear. LISNR calls them Smart Tones. Any two devices — two vehicles’ black boxes, say, or a car and a pedestrian with an enabled smartphone in their pocket — can send and receive messages once they’re in range of each other. All the devices need is a microphone or a speaker, depending on whether they’re sending or receiving, which keeps their power requirements low.
+LISNR is already being used in non-automotive applications, like the Cincinnati Contemporary Arts Center. The company was also part of the inaugural AutoMobili-D startup expo at the 2017 North America International Auto Show in Detroit.
+PILOT promises to make any car autonomous. A sensor plugin is installed on your car’s roof to take in data. (The sensor is mounted on a roof rack in the image above.) You can use that data to help you improve your driving, like many OBD-II port plug-in devices do, or you can connect it to your steering and braking systems and let it take over some simple driving tasks. It also connects to the cloud to learn of traffic situations and share its data.
+PILOT brings some of the current advanced driver assistance systems (ADAS) to any car, like road sign recognition, lane keep assist, and blind spot monitoring. So using the term “autonomous,” as the startup does on its website, might be a bit premature. This is SAE Level 2 at best. But it is a step toward bringing life-saving collision mitigation technology to cars already on the road.
+
+ PILOT
+The potential for VR truly boggles the mind. In the future, it’s easy to imagine the various use-cases in education, entertainment, business, and social.
+But like any new technology, VR needs a ‘gateway drug’, and thus far that initial use-case has been gaming. Sony is pushing PlayStation VR hard with a handful of new games, some existing and others brand new. Nintendo is making a VR push by bringing Mario Kart to VR. Meanwhile, Microsoft held off on any VR announcements at E3 this year.
+But what do the members of the gaming community — from developers to streamers to the folks who are actually building VR — actually think of VR?
+Live TV streaming service Sling TV is today rolling out an improved DVR feature, while also making the option to record TV shows available on more devices and channels. The DVR is one of the key selling points for Sling TV, given the increased competition in the live TV space from newcomers like YouTube TV, Hulu (which recently added live TV), and AT&T’s DirecTV Now.
+According to Sling, it responded to customer feedback requests by launching a handful of the most asked for DVR features, including the ability to protect recordings from deletion. While that has long since been a feature found on traditional hardware-based DVRs, cloud DVRs provided by streaming services have not offered the same option.
+For example, Sony’s PlayStation Vue service only saves shows for up to 28 days after they air, so there’s no way to permanently keep a favorite movie or show around.
+YouTube TV offers unlimited DVR storage, and saves shows for a healthy 9 months, but you may end up watching commercials for shows you DVR’d. (Once a DVR’d show becomes available on-demand, YouTube TV plays that copy instead – meaning you have to watch the ads.) DirecTV Now is still without a DVR option. Meanwhile, Hulu’s DVR will save recordings indefinitely, but it will overwrite them if you need more space for new recordings.
+
+Sling TV’s $5-per-month 50-hour DVR doesn’t have the same available storage space of others, we should note. By comparison, Hulu offers a 200-hour enhanced option (50 hours comes with the base package), while YouTube TV and Vue offer unlimited DVR storage. However, the ability to protect recordings from deletion give users more control over how their Sling DVR storage is to be used, and Sling’s recordings never expire.
+In addition, Sling is making it easier to record and find your DVR’d shows, it says. It will now let you record a show or series from its franchise screen, and it will group episodes from one series into a folder for better binge sessions. (This latter option is only on Roku at launch, but is rolling out to other platforms.)
+Alongside the upgraded feature set, Sling’s DVR is also now available on an expanded array of devices, including now Xbox One. In addition, the DVR works on Amazon Fire TVs and Fire tablets, Android mobile devices, Android TVs, Apple TVs, Roku streaming players and Roku TVs. Support for Windows 10, AirTV Player and iOS devices is expected in a matter of weeks.
+The DVR feature now works on more channels, too, thanks to an agreement with Fox. That means you’ll be able to record from Fox’s local networks (where available), Fox Sports 1 (FS1), Nat Geo, and FX. But, similar to YouTube TV, if the show is available from Fox on-demand, you’ll be switched over to watch that content instead.
+The new DVR features are available on all devices supporting Cloud DVR, except for “DVR folders” – which, as noted, is first available on Roku.
+Update, 6/14/2017 – Article corrected to note that Sling’s DVR is 50 hours, not 50 GB. 
+We have another filing for a tech IPO today, this one from a company called CompuLab coming in amid a continued flurry of IPOs.
+But, really, the story here is just that — it’s just another small tech IPO amid a flurry of filings. Snap started off the year with a bang, rattling off a highly successful IPO (though its continued performance is not so great) and opening up the so-called IPO “window.” That opened the door for other companies like Yext and Okta to go public amid a bunch of others. The biggest one on the radar, however, is now Blue Apron.
+CompuLab’s IPO today is really emblematic of the push to become public and get that big liquidation and financing round going. Looking at its financials, the company that makes “fan-less” computers showed decreasing revenue year-over-year in 2016, though it did post a profit. This is likely going to get a lot of mixed reviews as Wall Street loves growth, but it really likes a company that makes money too. In 2015, CompuLab brought in $27.8 million in revenue, while it brought in around $22 million. In 2016, however, it brought in a net income of $1.4 million.
+So, back to Blue Apron. Speaking of functional companies, Blue Apron filed to go public earlier this year, showing a recent quarter of rather incredible losses. But in the first quarter last year, it was also profitable, bringing in $3 million. Blue Apron is largely considered a consumer IPO, though it involves a complex web of logistics and fulfillment processes. Following Snap’s declining stock price, it’ll be up to Blue Apron to really determine the future of the IPO window in the back half of the year.
+But the kinds of IPOs happening ahead of Blue Apron have a sometimes weird array of products. Gunshot detection startup also went public, and the IPO was also wildly successful with a 26% pop. But that’s another example of companies trying to get into public markets now that the appetite is there.
+CompuLab’s kinds of mini PCs may become increasingly important as more and more computing gets distributed. Oddly it doesn’t appear that this company is breaking out its most recent quarters, but it’ll be a wait and see for now. Some of these companies are ancient, with CompuLab starting in 1992.
+So, in the next couple weeks we should see more details about this one, but it’s going to be another blip on the radar as all eyes look toward Blue Apron.
+
+ Science Picture Co/Getty Images
+Though Facebook is rarely mentioned alongside Apple, Microsoft and Amazon in discussions about conversational AI, the company has published a hoard of papers that underscore a deep interest in dialog systems. As has become clear with Siri, Cortana and Alexa, dialog is hard — it requires more than just good speech recognition to deliver a killer experience to users. From the sidelines Facebook has been tinkering with big challenges like natural language understanding and text generation. And today the Facebook AI Research team added to its portfolio with a paper bringing negotiation into the conversation (all puns intended).
+Facebook’s team smashed game theory together with deep learning to equip machines to negotiate with humans. By applying rollout techniques more commonly used in game-playing AIs to a dialog scenario, Facebook was able to create machines capable of complex bargaining.
+To start, Facebook dreamed up an imaginary negotiation scenario. Humans on Amazon’s Mechanical Turk were given an explicit value function and told to negotiate in natural language to maximize reward by splitting up a pot of random objects — five books, three hats and two balls. The game was capped at ten rounds of dialog, the rules stated that nobody would receive any reward if that limit was exceeded.
+Because each agent had distinct hidden preferences, the two had to engage in dialog to sort out which objects should be given to which agent. Over the course of the interactions, machines naturally adopted many common negotiation tactics — like placing false emphasis on a low-value item in an attempt to use it as a more valuable bargaining chip later.
+Under the hood, Facebook’s rollout technique takes the form of a decision tree. Decision trees are a critical component of many intelligent systems. They allow us to model future states from the present to make decisions. Imagine a game of tic-tac-toe, at any given point of the game, there is a finite option set (places you can place your “X” on the board.
+In that scenario, each move has an expected value. Humans don’t usually consider this value in an explicit way but if you decompose your decision process when playing the game, you are effectively short-handing this math in your head.
+
+Games like Tic Tac Toe are simple enough that they can be completely solved in a decision tree. More complex games like Go and Chess require strategies and heuristics to reduce the total number of states (it’s an almost unimaginable number of possible states). But even Chess and Go are relatively simple compared to dialog.
+Dialog doesn’t draw from a finite set of outcomes. This means that for any question, there is an infinite number of possible human responses. To model a conversation, researchers have to take extra effort to bound the uncertainty problem into a reasonable size and scope. Opting to model a negotiation scheme makes this possible. The language itself can exist in an infinite number of states but its intent generally clusters around simple outcomes (I’ll take the deal or reject it).
+But even in a bounded world, it’s still difficult to get machines to interact with humans in a believable way. To this avail, Facebook trained its models on negotiations between pairs of people. Once this was done, the machines were set up to negotiate with each other using reinforcement learning. At the end of each round of conversation, agents received rewards to guide improvement.
+FAIR researchers Michael Lewis and Dhruv Batra explained to me that their algorithms were better at preventing individuals from making bad decisions than ensuring individuals made the best decisions. This is still important — the team told me to imagine a calendar application that doesn’t try to schedule meetings for the best time for everyone but instead tries to just ensure the meeting actually happens.
+As with a lot of research, the application of this technology isn’t necessarily as explicit as the scenario simulated for the paper. Engineers often employ adversarial relationships between machines to improve outcomes — think using generative adversarial networks to generate training data by having a machine generate data looking to fool another “gatekeeper” machine.
+Semi-cooperative, semi adversarial relationships, like the relationship between a coach and an athlete, could be an interesting next frontier — further connecting game theory and machine learning.
+Facebook has open sourced its code from this research project. If you’re interested, you can read additional details about the work in the full paper here.
+
+
+Personal media player software maker Plex says it’s now easier for mobile users on Android to play any video file saved on their device within its app. The move will enable it to better challenge VLC, an app users have historically turned to in order play a wider variety of video file formats. The new feature is entering a public beta today, and will support local playback of a number of file types, says Plex, including MKV, MP4, AVI, and WMV.
+The expanded support arrives at a time when Plex is trying to reinvent itself as a DIY alternative to streaming TV services. It recently rolled out options to record live TV using a DVR-like function, as well as watching local channels by connecting Plex with an antenna.
+However, many Plex users already have a robust video library with TV shows and movies from a variety of sources (cough, torrents) – some of which may be more difficult to play on mobile. This new option means you can load up those files on an SD card, or just sync them over to your device, then use Plex’s Android app to watch them while on the go.
+It will also allow you to open files you have saved in another app – like Dropbox, for instance – and then play them in Plex. And you can use the Plex app to play files from your web browser, from your Downloads, or from a file explorer app, says Plex.
+It’s worth noting, too, that this makes Plex more of a standalone app on mobile, as it no longer requires a connection with your Plex media server in order to work. (That’s where the VLC comparisons come in.)
+According to Plex’s documentation, the mobile app will fetch fresh metadata for your media file when it’s opened – that is, a TV episode or movie file will show the title and artwork, while other video files will show the filename and thumbnail. In addition, most of the playback controls are available when playing a local video file, including seeking and skipping, and changing the audio tracks and subtitle tracks.
+
+Not all video files are supported at launch, though – but most native Android formats can be played, along with some third-party formats. (Some will require Plex’s app to be activated/unlocked to allow full playback, the company notes.) Casting is not supported, either, nor can Plex remember your playback position for local files.
+The new feature is available now in just updated Plex Android app (ver. 6.0 for Android phones and tablets), but is considered a public beta. The app is out now in Google Play, and will arrive soon on the Amazon App Store.
+Facebook’s Safety Check feature was activated today, following news that a fire had engulfed a 24-storey block of flats in West London. At least six people are reported to have died in the blaze, with police expecting the death toll to rise. The Grenfell tower contains 120 flats.
+Clearly this is a tragedy. But should Facebook be reacting to a tragedy by sending push alerts — including to users who are miles away from the building in question?
+Is that helpful? Or does it risk generating more stress than it is apparently supposed to relieve…
+
+Being six miles away from a burning building in a city with a population of circa 8.5 million should not be a cause for worry — yet Facebook is actively encouraging users to worry by using emotive language (“your friends”) to nudge a public declaration of individual safety.
+And if someone doesn’t take action to “mark themselves safe”, as Facebook puts it, they risk their friends thinking they are somehow — against all rational odds — caught up in the tragic incident.
+Those same friends would likely not have even thought to consider there was any risk prior to the existence of the Facebook feature.
+This is the paradoxical panic of ‘Safety Check’.
+(A paradox Facebook itself has tacitly conceded even extends to people who mark themselves “safe” and then, by doing so, cause their friends to worry they are still somehow caught up in the incident — yet instead of retracting Safety Check, Facebook is now retrenching; bolting on more features, encouraging users to include a “personal note” with their check mark to contextualize how nothing actually happened to them… Yes, we are really witnessing feature creep on something that was billed as apparently providing passive reassurance… O____o )
+Here’s the bottom line: London is a very large city. A blaze in a tower block is terrible, terrible news. It is also very, very unlikely to involve anyone who does not live in the building. Yet Facebook’s Safety Check algorithm is apparently unable to make anything approaching a sane assessment of relative risk.
+To compound matters, the company’s reliance on its own demonstrably unreliable geolocation technology to determine who gets a Safety Check prompt results in it spamming users who live hundreds of miles away — in totally different towns and cities (even apparently in different countries) — pointlessly pushing them to push a Safety Check button.
+This is indeed — as one Facebook user put it on Twitter — “massively irresponsible”.
+
+As Tausif Noor has written, in an excellent essay on the collateral societal damage of a platform controlling whether we think our friends are safe or not, by “explicitly and institutionally entering into life-and-death matters, Facebook takes on new responsibilities for responding to them appropriately”.
+And, demonstrably, Facebook is not handling those responsibilities very well at all — not least by stepping away from making evidence-based decisions, on a case-by-case basis, of whether or not to activate Safety Check.
+The feature did start out as something Facebook manually switched on. But Facebook soon abandoned that decision-making role (sound familiar?) — including after facing criticism of Western bias in its assessment of terrorist incidents.
+Since last summer, the feature has been so-called ‘community activated’.
+What does that mean? It means Facebook relies on the following formula for activating Safety Check: First, global crisis reporting agencies NC4 and iJET International must alert it that an incident has occurred and give the incident a title (in this case, presumably, “the fire in London”); and secondly there has to be an unspecified volume of Facebook posts about the incident in an unspecified area in the vicinity of the incident.
+It is unclear how near an incident area a Facebook user has to be to trigger a Safety Check prompt, nor how many posts they have to have personally posted relating to the incident. We’ve asked Facebook for more clarity on its algorithmic criteria — but (as yet) received none.
+Putting Safety Check activation in this protective, semi-algorithmic swaddling means the company can cushion itself from blame when the feature is (or is not) activated — since it’s not making case-by-case decisions itself — yet also (apparently) sidestep the responsibility for its technology enabling widespread algorithmic stress. As is demonstrably the case here, where it’s been activated across London and beyond.
+People talking about a tragedy on Facebook seems a very noisy signal indeed to send a push notification nudging users to make individual declarations of personal safety.
+Add to that, as we can see from how hit and miss the London fire-related prompts are, Facebook’s geolocation smarts are very far from perfect. If your margin of location-positioning error extends to triggering alerts in other cities hundreds of miles away (not to mention other countries!) your technology is very clearly not fit for purpose.
+Even six miles in a city of ~8.5M people indicates a ridiculously blunt instrument being wielded here. Yet one that also has an emotional impact.
+The wider question is whether Facebook should be seeking to control user behavior by manufacturing a featured ‘public safety’ expectation at all.
+There is zero need for a Safety Check feature. People could still use Facebook to post a status update saying they’re fine if they feel the need to — or indeed, use Facebook (or WhatsApp or email etc) to reach out directly to friends to ask if they’re okay — again if they feel the need to.
+By making Safety Check a default expectation Facebook flips the norms of societal behavior and suddenly no one can feel safe unless everyone has manually checked the Facebook box marked “safe”. 
+But by making Safety Check a default expectation Facebook flips the norms of societal behavior and suddenly no one can feel safe unless everyone has manually checked the Facebook box marked “safe”.
+This is ludicrous.
+Facebook itself says Safety Check has been activated more than 600 times in two years — with more than a billion “safety” notifications triggered by users over that period. Yet how many of those notifications were really merited? And how many salved more worries than they caused?
+It’s clear the algorithmically triggered Safety Check is a far more hysterical creature than the manual version. Last November CNET reported that Facebook had only turned on Safety Check 39 times in the prior two years vs 335 events being flagged by the community-based version of the tool since it had started testing it in June.
+The problem is social media is intended as — and engineered to be — a public discussion forum. News events demonstrably ripple across these platforms in waves of public communication. Those waves of chatter should not be misconstrued as evidence of risk. But it sure looks like that’s what Facebook’s Safety Check is doing.
+While the company likely had the best of intentions in developing the feature, which after all grew out of organic site usage following the 2011 earthquake and tsunami in Japan, the result at this point looks like an insensible hair-trigger that encourages people to overreact to tragic events when the sane and rational response would actually be the opposite: stay calm and don’t worry unless you hear otherwise.
+Aka: Keep calm and carry on.
+Safety Check also compels everyone, willing or otherwise, to engage with a single commercial platform every time some kind of major (or relatively minor) public safety incident occurs — or else worry about causing unnecessary worry for friends and family.
+This is especially problematic when you consider Facebook’s business model benefits from increased engagement with its platform. Add to that, it also recently stepped into the personal fundraising space. And today, as chance would have it, Facebook announced that Safety Check will be integrating these personal fundraisers (starting in the US).
+An FAQ for Facebook’s Fundraisers notes that the company levies a fee for personal donations of 6.9% + $.30, while fees for nonprofit donations range from 5% to 5.75%.
+It’s not clear whether Facebook will be levying the same fee structure on Fundraisers that are specifically associated with incidents where Safety Check has also been triggered — we’ve asked but at the time of writing the company had not responded.
+If so, Facebook is directly linking its behavioral nudging of users, via Safety Check, with a revenue generating feature that will let it take a cut of any money raised to help victims of the same tragedies. That makes its irresponsibility in apparently encouraging public worry look like something rather more cynically opportunistic.
+Checking in on my own London friends, Facebook’s Safety Check informs me that three are “safe” from the tower block fire.
+However 97 are worryingly labelled “not marked as safe yet”.
+The only sane response to that is: Facebook Safety Check, close your account.
+Advertisement		
+
+
+Peter Thiel has some wild ideas, but transfusing teen blood into his own body might not be his bag.
+Correction below
+Stories of countesses bathing in virgin blood, or vampiric nobles sucking the juice out of the young, have captured our attention for centuries. But when stories started coming out that tech billionaire Peter Thiel was interested in transfusing teen blood into his own body, it sent Silicon Valley into a fever dream. Peter Thiel, the vampire!
+Thiel has been alleged to have a lot of crazy ideas — like that women shouldn’t have been given the vote or that we should create lawless floating nations to solve society’s problems. The coup de grâce appeared to be Thiel’s role in toppling Gawker 10 years after the media company wrote openly about his sexuality.
+Then, of course, he joined Trump, a pariah in the tech world. No wonder everyone was quick to believe that Thiel would be willing to suck the blood of the young if it added a few more years to his own life.
+Inc. wrote that Thiel was so afraid of dying that he was looking at “having younger people’s blood transfused into his own veins.” The story reported that Thiel Capital medical director Jason Camm (who is also an angel investor) had even contacted a startup called Ambrosia that was harvesting the blood of teens..text
+
+		Latest Crunch Report 
+
+Element Raises $102 Million | Crunch Report
+
+Watch More Episodes
+
+
+In short order, Vanity Fair, Gawker and numerous other media sites repeated the story. Ambrosia received so much press attention that founder Jesse Karmazin was even invited to talk about his work at Recode’s recent Code Conference. Meanwhile, an episode of HBO’s “Silicon Valley” poked fun at the unsettling idea.
+But the story that took shape, that Thiel was looking to harvest the blood of the young, simply isn’t true according to Karmazin, who told us when asked that he was never contacted by Thiel or anyone associated with Thiel Capital. “I wish I did know Peter Thiel,” he said. “He’s not even a patient. If he were, I would have to say ‘We can’t disclose that information.’ But he’s not even a patient so I can tell you, he’s not a patient’.”
+Unquestionably, Thiel has been interested in cheating death for several years. He told Business Insider back in 2012, “Death is a problem that can be solved.” He’s also investing in life extension research, funding Cynthia Kenyon, Aubrey de Grey and a number of other researchers who are focused on anti-aging. Last fall, the life extension startup Unity Biotechnology also raised an enormous round of funding from Thiel and other Silicon Valley billionaires interested in the prospect of humans living much longer lives.
+Ambrosia — which takes donated teen blood and pumps it into anyone age 35 or older for $8,000 a pop — seems like just the type of wild startup that would interest Thiel.
+
+As questionable as the idea sounds, blood from the young is not new. The process, known as parabiosis, has at least been successful in mice. Karmazin also says he’s seen his own patients’ hair return from gray back to its original color, and he says he has noted a remarkable difference in pep in the 600 or so people now going through treatment in his facility.
+Contrary to the depiction in “Silicon Valley,” however, Ambrosia cannot directly hire the teens. Due to fairly strict regulations, people can’t be compensated for their blood, so the startup relies heavily instead on donor facilities.
+
+Crunchbase
+
+ 
+Bio
+Peter Thiel is a technology entrepreneur and investor.He first gained attention for innovations in banking and startup finance. Today he is known as the mentor of the PayPal mafia of entrepreneurs, as well as for his warnings of a coming technology deficit with severe economic consequences. He works to accelerate innovation to prevent such a crisis by identifying and funding promising technology ideas …
+
+ 
+Overview
+Thiel Capital is an investment firm founded by Peter Thiel. Located in the Presidio of San Francisco, Thiel Capital provides strategic and operational support for Peter’s many investment initiatives and entrepreneurial endeavors. Related organizations include Clarium, Founders Fund, Mithril, Valar Ventures, and The Thiel Foundation.
+
+
+Location
+
+San Francisco, CA
+
+
+
+Categories
+
+Financial Exchanges, 																													Financial Services, 																													Venture Capital 
+
+
+Full profile for Thiel Capital 
+
+
+
+ 
+
+
+
+				Unity Technologies			
+
+
+ 
+Founded
+2004
+
+
+Overview
+Unity Technologies is the creator of a flexible and high-performance end-to-end development platform used to create rich interactive 2D, 3D, VR and AR experiences. Unity's powerful graphics engine and full-featured editor serve as the foundation to develop beautiful games or apps and easily bring them to multiple platforms: mobile devices, home entertainment systems,personal computers, and embedded …
+
+
+Location
+
+San Francisco, CA
+
+
+
+Categories
+
+Embedded Systems, 																													Content, 																													3D Technology, 																													Enterprise Software, 																													Video Games, 																													Virtual Reality 
+
+
+Founders
+Joachim Ante
+
+
+Website
+
+http://unity3d.com 
+
+
+Full profile for Unity Technologies 
+
+
+
+ 
+
+
+
+				Unity			
+
+
+ 
+Founded
+2013
+
+
+Website
+
+http://www.unity.hr 
+
+
+Full profile for Unity 
+
+
+
+
+
+
+
+
+
+It’s also a very experimental procedure for humans at this point, with repeated sessions needed to keep up the effects, Karmazin says. (“You don’t look like you are 20 after one treatment,” he tells me.)
+That’s saying nothing of the fact that the process can be duplicated. Anyone with a certain medical understanding could set up their own shop and charge people for the same service. Asked about the challenge, Karmazin says Ambrosia is by design “not structured as a money-making operation.”
+The risks associated with blood transfusions also sound pretty risky and the pay-to-play aspect of Ambrosia has drawn criticism in the science world. Others have called into question the idea of filling old people’s veins with teen blood as an anti-aging solution.
+Still, Karmazin is hopeful he’ll have some good results from a preliminary human trial in the next year. As for the media frenzy, Karmazin says the old adage that there’s no such thing as bad press is true, and that all the wild stories have led to a lot of inquiry.
+“It’s amazing how many journalists just repeat what they’ve read,” he says.
+Correction: An earlier version of this story misrepresented reporting of Inc. by stating that it said Thiel Capital was looking to invest in Ambrosia. In a story titled, “Peter Thiel Is Very, Very Interested in Young People’s Blood,” Inc. reported instead that a Thiel associate expressed interest in what the company was doing. We regret the error.
+
+
+
+The majority of consumers in the U.S. and Canada are no longer interested in hefty pay TV packages filled with channels they don’t watch. According to a new study from TiVo out this morning, 77.3 percent now want “a la carte” TV service – meaning, they want to only pay for the channels they actually watch. And they’re not willing to pay too much for this so-called “skinny bundle,” TiVo found. The average price a U.S. consumer will pay for access to the top 20 channels is $28.31 – a figure that’s dropped by 14 percent over the past two quarters.
+In Canada, the average price consumers will pay is $25.56, which is down by 20.1 percent over the past two quarters.
+TiVo’s findings are based on larger study of video trends across North America, which involved a survey of 3,081 respondents over the age of 18 in Q1 2017. The majority of respondents in the study (84.8%) reported they still had pay TV service, but the number of those who said they had cut the cord (21.8%) had grown by 4.4 percent from TiVo’s report a year ago.
+
+Around half of the cord cutters (45.6%) said they use an antenna to get their basic channels, and an even larger majority (57.6%) said they’re using an internet streaming service like Netflix, Hulu, or Amazon Video.
+What’s more notable is that the subscribers to these over-the-top services are climbing. They’re also spending more of their time binge watching their way through their shows, and getting addicted to their original content.
+Not only did the number of over-the-top and subscription service subscribers increase by 10 percent since the last quarter, those who said they prefer to binge shows was also up by over 8 percent. Meanwhile, 14.6 percent said that most of the TV viewing was original programming on streaming services – an indication that the investments companies like Netflix, Amazon and Hulu are making into their own content is now paying off.
+TiVo’s study attempted to determine what’s driving cord cutting, as well. This follows a comScore report from earlier this week, which pointed towards financial reasons, as well as a desire to just watch less television in general, among U.S. cord cutters.
+The TiVo report generally backed up those findings, noting that people’s biggest reason for cutting the cord was the price of pay TV. Nearly 80 percent said that pay TV is just “too expensive.”
+Unbelievably, 37.1 percent of the survey’s respondents said they were spending at least $101 per month — with some spending more than $150 per month — on pay-TV services alone.
+
+In addition to price concerns, streaming service users seem to be drawn to the newer, more personalized format for discovering programming, as compared with the traditional TV guide. For example, 57.7 percent of Netflix users take advantage of the profile option that gives family members their own profile with personalized recommendations and watchlists. 40.7 percent said they liked suggestions that were based on what they had previously watched.
+“Not only are pay-TV providers slow to roll out recommendations on set-top boxes, the majority of content recommendations delivered to date…have not been personalized to the viewer,” the report noted. “Rather, the content recommendations shown in pay-TV offerings today seem to be based on popularity of content or ‘More Like This’ (similarities between types of content).”
+
+This lack of personalization could be helping to push consumers further away from pay TV, in favor of streaming services.
+
+Perhaps because of the rise of streaming services, respondents also said their ideal TV lineup now only includes 19 channels, which they’d pay for at a rate of just $1.62 per channel, on average. The top five requested channels were ABC, CBS, NBC, Discovery Channel and History – the same lineup Q2, Q3, and Q4 2016, and now, Q1 2017. What’s funny is that being able to access broadcast stations is something that’s difficult to do today through live TV streaming services due to affiliate licensing agreements that limit their distribution.
+TiVo’s report comes alongside other industry news that indicates that the size of the broadband market has now reached the size of the pay TV market, here in the U.S. That could push larger providers to raise the cost of broadband, to make up for the declines in the number of pay TV subscribers. The full report is available here. 
+Teaching people to code in bite-sized, gamified chunks delivered via mobile app is Py‘s mission. The fledgling startup is the brainchild of two friends and college computer science majors who found themselves repeatedly asked for advice on how to learn to code.
+“Lots of people asked us how should we learn to program or what resources should we use,” explains co-founder Derek Lo. “We would give people different resources and we would find out they wouldn’t really complete anything. And they would find it too hard or not fun. Or they couldn’t find the time. So that’s how this idea came about — we sort of thought why don’t we create something for the phone where somebody can learn these kind of hard things anywhere and then make it also very fun.”
+Py got an unexpected download boost recently after Apple featured it in its App Store — and has now racked up over 100,000 downloads. This is without concerted marketing efforts (they did launch on Product Hunt last September, so early users have skewed towards Silicon Valley/California). It’s also without an Android app — which they’ve just now released this week.
+The Py duo are also now part of Y Combinator’s summer 2017 batch of startups, delaying entry into the program while Lo finished his college degree.
+They started working on the iOS app in May 2016, launching a beta soon after. At the time they were thinking about all sorts of learning — pitching TC with the idea that Py would cover a broad a variety of subjects, including humanities, sciences and even courses like English grammar, not just programming topics like Python.
+To my eye this seemed overly ambitious. And they have now circled back to the original focus: programming. And — even more practically — to arming budding developers with the skills they need to build specific things, such as a website or an app. The idea, says Lo, is to offer customized, modular, practical learning for developers — hence the app also has a course offering coding interview tips.
+“We’ve been very focused on programming for a while but programming applied to, say, iOS development or making a website or data science,” says Lo. “So we’ve got a lot of courses on core programming — so how do I learn the basics of Swift or learn the basis of Python — but we’re just now releasing courses that are much more project-based. So how would I actually take these skills in Swift and then go and write an iPhone app? We’re very excited to be launching those kind of courses that will give people a real understanding of how this actually gets applied.”
+The Py app offers around 10 free “courses” at this point — including the likes of Javascript, Swift, Python and HTML/CSS. The founders are largely creating the course content themselves, partnering with external professors, engineers and research scientists to “ensure high quality”, as they put it.
+It’s fair to say that the learn-to-code space is a pretty packed one these days, with all sorts of creative approaches to inspire learners of all ages — from board games to programmable robots to gamified learning platforms (and/or games with learn to code elements). So where does Py fit into such a competitive learning landscape?
+It’s best described as fitting into the mould of (non-computer) language learning apps — of which there’s also a rich variety these days (Duolingo, Babbel, Verbling etc) — offering budding developers similarly engaging touchscreen-based interactions as a route for learning.
+“There are a few very concrete ways that we differentiate ourselves,” Lo tells TechCrunch. “One is these kind of interaction types that we’re built… we have four, maybe five. So essentially users can answer multiple choice questions — they can answer in text response, so we’ll ask ‘what does this program output?’ and you actually have to type in the text.
+“We have an interaction where you have to order lines in a program, so that really assesses whether you understand the flow of a program. And the ones that we are most excited about is fill in the blanks — we call it word banks. So you essentially are given these words so you have to fill in blanks in the program. So again it’s like this very interactive, fun, gamified way — similar to Duolingo in some ways.”
+He says they’re also working on another interaction type they’re calling “code response” — which makes use of a custom keyboard (of their own making) to simplify the fiddly process of typing actual code on a mobile.
+“Essentially we can specify the keys that are necessary to type the program. So all the words and letters and characters that would be necessary,” he says. “So it makes it way easier to actually type the program. So that’s a really cool way where people can actually write real code, that gets executed, right from their phone in a very easy way where they can do it on their bus ride to work.”
+In-app strategies to make the learning more sticky also take some leaves out of the book of language learner apps (and indeed mobile games) — by including dynamic review, for example, and gamification elements — such as having users earn stars for completing course modules, and a review button that reorders module content based on elements users previously struggled with.
+“It’s almost like Angry Birds where if you do the game you’ll be able to get anywhere between one and three stars and so that’s the same with us — there are a certain number of quizzes for each module… And you’ll get a certain percentage of them right. And if you get 100 per cent you’ll get three stars. And if you get 50 per cent you’ll get 1.5 stars. So this really incentivizes people to actually learn it and learn it well,” says Lo.
+“Additionally we have EXP, so you gain points when you complete lessons and quizzes. And we also have a streak feature, which has definitely helped with our retention. Duolingo also does that, and Snapchat. And then push notifications. We’ve seen that timing certain notifications in the right way has been able to boost our retention.”
+Design is clearly another big priority for the team, with the app having an elegant and ordered look and feel. Lo says he’s the one responsible here, having a personal interest in graphic design which led him to take some courses at college alongside his computer science major.
+Currently there’s a range of free learning content in the app, but the duo are already working on their monetization plan — via a Py Premium subscription service (coming in an app update) that will unlock additional (paid) course content, and also offer a “live mentoring feature” which will let users access a real-time chat with an experienced software engineer.
+And while Py is generally focused towards the more basic/starter stage of learning to code at this point, i.e. for people who don’t much prior knowledge, Lo is excited about the potential to use the mobile learning framework they’re building as a delivery medium for more advanced learning too. And that potential is what’s got Yale excited, according to Lo.
+“One of the things that [Yale] were excited about is the fact that the courses are so modular, and the fact that technology is constantly changing,” he says. “One of the primary investors was very excited by the idea that maybe in the future there could be very small, short courses on very advanced topics… I truly think that would work completely fine. And that very experienced developers would love learning this way.”
+The Py team raised $20k in pre-seed funding from Dorm Room Fund last October, while the Yale Venture Creation Program has also committed $100k (they’re in the process of agreeing terms when we speak). So, along with YC’s funds, they’ve raised around $140k at this point.
+Lo says they also turned down a larger investment offer, of $1M, from a high profile Silicon Valley investor — on the grounds of not needing such a large amount at such an early stage. Though he says they’ll likely look to raise a seed of between $1M and $3M after graduating YC.
+Their hope for the bootcamp is to learn how to scale the app into a global business, noting, for example, that one route they’re exploring for growth is partnering with code learning organizations which could make use of the app for their own user bases.
+“We are first time founders. I’ve built several apps. We’ve both worked on software products before but this is the first time we’re co-foundering a company and so we think the mentorship is extremely valuable,” he says of the opportunity they’re spying with YC. “Also YC is known for… scaling a software product… They’re very good at that, and that’s extremely attractive to us. Just being able to be in a network and have that mentorship and be able to really scale and reach a global audience and reach millions of people — that’s what excites us and gets us up in the morning. And that’s what excites us about YC.”
+Can anyone learn to code? “I think the answer to that is yes,” says Lo, a little hesitantly. “Maybe if you can’t read yet that makes things a little more challenging… [But] even a kid who can read, I think that they can learn to code, yes.”
+Finding a good backpack, one you can use in a range of situations, is tricky. But Venque’s Transformer A, which is currently on Kickstarter, might just fit the bill for a good chunk of customers, however. The modular pack is the latest from Venque, which got its start on the crowdfunding site back in 2013 but has since scaled to distribution via a range of retail partners and a big lineup of packs and bags.
+The Transformer A is a bit of a departure for Venque, at least when it comes to the company’s style. It still uses the trademark Quanta fabric that is very durable over time (I backed their initial camera bag and it still looks like new after years of use), but it’s got a more urban commuter vibe, whereas previous packs have had more retro vibes.
+Transformer A is still very stylish, despite also being incredibly utilitarian. As mentioned, it’s modular, which it pulls off thanks to an inset camera compartment zippered back which is also Quanta on the outside and can be used with an included strap as a separate shoulder strap. This is huge for anyone who wants to take a small mirrorless or DSLR kit with them on the road, but still have plenty of room in the pack for clothing and other gear.
+
+The spacious main compartment easily fits the camera bag and enough clothes for a multi-day trip, letting you travel with a carry-on solution that won’t draw suspicious stares from gate attendants, or leave you in the lurch when you have to drop your pack in that measurement box to prove it fits airline requirements.
+If you don’t have a camera to pack, you can carry even more; there’s a lot of space in that main holding area. The zippered top also makes sure everything’s kept very secure, and a buckle adds additional security. Straps on the pack’s back and sides will let you secure magazines, newspapers, yoga mats, tripods, and potentially even skateboards, and there are a range of slim accessory pockets to hide away your phone, transit pass, cash and more. One pocket on the rear is even RFID blocking if you want to keep your bank cards secure.
+One of the best features, however, is an inset pocket that has an integrated USB cable. You can slide a backup battery bank into that pocket, hook it up, and then it’ll feed an external USB port where you can plug in your iPhone, tablet or other USB-powered device for some easy charging. I used this a lot, looping the cable into the convenient side pocket above, which safely held my phone while it was charging.
+
+There’s also a back zippered laptop compartment, which is padded front and back and can hold up to a 15-inch notebook. Two handles, top and side, make it easy to grab and lift, and that camera bag mentioned earlier can also easily act as a small shoulder messenger back thanks to removable divider inserts. It also expands via a zipper release to gain a couple of inches of depth.
+The Transformer A is a great all-around city bag from a Toronto-based company that has already proven it can ship quality bags at scale. It’s currently up for pre-order for $175, in two colours, though it’ll retail for $100 more once the campaign finishes up. After using it for a few weeks, I can vouch for its quality and the intelligence of its design: This is a multi-purpose bag that can handle just about anything you throw at it.
+
+Previous
+Next
+Exit
+TechCrunch is kicking off the summer with a meetup in my beautiful hometown, Seattle. In addition to the usual hoisting of glasses and something called “networking,” we’ll be hosting a good old fashioned pitch-off with some promising local companies.
+In case you missed the memo, on June 22nd we’ll be at the Showbox SoDo along with hundreds of Seattle entrepreneurs, VCs, and tech enthusiasts. Come and join us! Register for the Seattle Meetup here.
+As for the pitch-off, I have to say this is a particularly strong group of contenders, whittled down from a particularly large number of applicants. Good job, Seattle! Each of these ten companies will have 60 seconds to pitch to the audience and judges.
+So, in alphabetical order:
+Babyrific: This app lets parents quickly find, share, and schedule kid-friendly activities and locations nearby. The return of SoLoMo? (Disclosure: I know Babyrific’s creator since we’ve lived in the same neighborhood for a long time. But this inclusion isn’t shady.)
+Backit: Crowdfunding is a great way to launch a product, but chances are it’s a little more complicated than most people think (looking at you, Coolest Cooler). Backit helps creators manage their crowdfunding campaigns: setting goals, communicating with backers, finding manufacturers, and so on.
+Boundless: The long immigration process can be pretty confusing, especially to immigrants with different cultures and languages. Boundless aims to guide prospective citizens of our great country through the legal and procedural hoops that may otherwise have obstructed them.
+FanWide: If you’re, say, a Niners fan in Seattle, it may be hard to watch a game at a place where people aren’t rooting for the Seahawks. You can use FanWide to locate others supporting your inferior team and get together, and bars can get in on the action too and host viewing parties.
+Mayo: Think of Mayo like Pay It Forward, The App, except Haley Joel Osmont doesn’t get stabbed at the end (spoiler warning). It’s a hyper-local “help me out” app where you can request or provide small services like giving a car a jump or lending a phone charger.
+NavigatorCRE: Commercial real estate may be big business, but tell me this: where’s the SaaS provider that centralizes all the data, intelligence, and existing program hooks so you can maximize your portfolio’s performance? Here. Here is that SaaS provider.
+Off the Record: Get a speeding ticket for going 31 in a 30? Enter the data into Off the Record and it’ll hook you up with a lawyer who will take care of it without you having to go to court — if you don’t get it reduced, you don’t pay.
+Oli Fitness: What kind of list would this be without some kind of computer vision or machine learning? Oli uses a mobile 3D camera to track your workout and prevent injury. Not a replacement for a personal trainer, but it may improve your form and avoid a strain.
+Pillsy: Tracking medication intake is critical for millions, but is your grandma going to use a smartphone app to do it? Put the smarts into the pill bottle itself — that’s Pillsy’s approach, and it seems that some in healthcare are already intrigued.
+Stemless: Get your legal, local weed delivered, and if you’re a provider, easily offer delivery service. This used to be done over text, but it’s all in the open now. O brave new world!
+What’s at stake? First place gets a free table in Startup Alley at Disrupt San Francisco. Miami Meetup Winner RecordGram not only made it to Disrupt, but ended up winning Startup Battlefield! Second place receives 2 attendee tickets to Disrupt SF, and Audience Choice gets 1 free ticket.
+Missed the deadline to apply to pitch? Don’t worry! We got your back. Startups that attend the meetup get a chance to be the WildCard company – selected from the audience to pitch on stage as a part of the competition. Register for the Seattle Meetup here.
+Facebook today announced a series of improvements for its Safety Check feature – the service that allows Facebook users to communicate about their safety to friends and family during a crisis. Most notably, people will now have the option to start fundraisers from within Safety Check, in order to immediately translate concern for victims of a crisis or natural disaster into specific actions. Additionally, the service is being expanded to include more information about a crisis and the option to leave a personal note along with their Safety Check News Feed story.
+Plus, the Community Help feature, launched earlier this year on mobile as a way for people to find and give help like food, shelter and transportation, is now making its way to the desktop.
+
+Facebook has been steadily expanding access to fundraisers over the course of the past several months, so it makes sense that it would now bring this service to Safety Check. In March, the company introduced the ability for people to create personal fundraisers – a move that put the feature in direct competition with GoFundMe. Facebook’s personal fundraising service exited beta in May, while also adding support for raising funds for sports teams and communities.
+According to Facebook, fundraisers’ integration into Safety Check will allow people to both create and donate to charitable and personal causes to help those in need, in the wake of a crisis. That means those who aren’t in the affected area can contribute.
+However, the feature isn’t immediately available. It’s initially rolling out in the “coming weeks” here in the U.S., the company says. In other words, it won’t be an option to help the currently active Safety Check for those in London affected by the large high-rise fire at Grenfell Tower, which killed at least six (as of the time of writing) and injured 74.
+Fundraisers are a potentially big business for Facebook, if it’s able to shift more of the activity taking place on GoFundMe over to its own social network – a strong possibility, as it’s undercutting GoFundMe’s fees. Facebook’s personal fundraisers have a 6.9 percent + $.30 fee that goes to payment processing, fundraiser vetting, and security and fraud protection. GoFundMe takes 7.9 percent + $.30 for personal or charity campaigns, by comparison. (Facebook nonprofit fundraisers, meanwhile, have fees of 5 percent to 5.75 percent.)
+By connecting fundraisers to large-scale events through Safety Check, Facebook fundraisers will gain even more attention and see increased use going forward.
+Already, fundraising around crises has been taking place on Facebook. For example, after the Manchester attack in May, people donated over $450,000 to help the community via Facebook.
+
+This will be aided by the rollout of crisis descriptions, also newly announced today. These descriptions will help people better understand the situation which may then further inspire them to help. Facebook says it’s working with NC4, a trusted third-party global crisis reporting agency, in order to add descriptions about the crisis to Safety Check notifications.
+Finally, Safety Check will also now become a way for people to share their own stories with friends and family, rather than the simple utility for marking themselves safe, as in the past.
+Starting now, people can choose to share additional information through a personal note when they use the Safety Check tool. This note, along with their Safety Check status, is shared automatically to the News Feed as people mark themselves Safe.
+This goes to address one of the issues with Safety Check – that it sometimes caused loved ones’ fear, rather than alleviating their concerns. Facebook product designer Preethi Chenan explained the problem, noting that simply by marking themselves “safe,” some people had worried their families and friends who then thought they had been more directly affected by the crisis. Now users can add a note, to add reassurance that they are in no way in danger.
+
+Facebook says Safety Check has been activated over 600 times over the course of the past two years. That number will likely continue to climb since last summer’s introduction of the community-activated Safety Check feature. The company said then it was working to bring the feature to more events, by automating a way for the network to trigger Safety Check when a certain number of people begin posting to Facebook about a crisis that can be verified by a third-party source.
+Fundraisers and desktop support for Community Help are arriving in the weeks ahead. Personal notes and crisis descriptions for Safety Check are rolling out now.
+Ads aren’t enough to support professional online content makers. So Patreon is equipping them with new ways to organize, measure, and entertain fans who use its platform to pay them a monthly subscription fee for special access.
+With 1 million patrons paying an average of $12 per month to 50,000 creators, Patreon is on track to send musicians, comedians, journalists, videographers, and other content makers $150 million this year. Today’s updates could push that figure even higher, while redefining the economics of art.
+For more on how Patreon doubled in size in a year, read our deep dive from last month. 
+“Over the last 15 years, distribution has been democratized and pretty much solved” says Patreon CEO Jack Conte. “Unfortunately in that process, global financing for the arts has gotten into jeopardy.  It’s so important not just to the creators but to the people who like art, that we fix the financial foundation.”
+Patron Relationship Manager
+The new “Patreon Membership Engine” centers around the Patron Relationship Manger, the first CRM for pro content creators. It lets them sort patrons by how much they’ve paid or when they joined, and provides their email addresses — something YouTube, Facebook, Instagram, Snapchat, Twitter, and other platforms refuse to give creators.
+This Salesforce-For-Artists lets them contact their fans with special offers or thank yous, like hawking higher priced merchandise to top spenders while upselling new $1 subscribers to their more expensive reward tiers. Spam isn’t too much of an problem since Conte says “There’s no reason to abuse the people who give you your monthly pay check.”
+There’s also a slew of new content creation tools.  The new Early Access feature lets creators post content just to fans who pay over a certain dollar amount per month, and set a ‘window’ before its publicly available on their Patreon. A partnership with Crowdcast lets creators log in with their Patreon account and broadcast livestreams just for paying fans, while Patreon foots the bandwidth bill.
+Patreon Livestreaming and Early Access
+But most exciting and disruptive is Patreon Lens, a stripped-down Snapchat Stories clone where creators can share peeks into their lives and behind-the-scenes that are exclusively available to their paid subscribers. Instead of giving away their off-the-cuff content on Snapchat and Instagram, creators can actually earn money from their social media via Patreon Lens.
+You can follow all the creators you subscribe to through Patreon on Lens, who see how much they earn per month by the total viewership of their Stories. Unfortunately, the app only allows photo and video capture and uploads with no fancy drawing, stickers, filters, or augmented reality masks. But Patreon will keep embellishing it, with captions coming soon.
+Patreon Lens
+Meanwhile, Patreon is overhauling its brand with fresh app and logo designs, and has recruited a squad of new start creators to the platform. Those include McSweeney’s Internet Tendency, athlete and motivational speaker Lewis Howes, former ESPN/Doomsday podcast reporter Ed Werder, plus comedians Tim Heidecker, Bill Burr, Al Madrigal, Theo Von, and Adam Carolla.
+Former professional YouTube musician and founder of Patreon Jack Conte
+With these new tools, Patreon could shift the online content ecosystem from one where creators give away what they make in hopes of tiny ad revenue shares today and big merchandise or ticket purchases in the future, and towards allowing creators to earn a reliable salary.
+There’s still the question of whether Patreon can make enough money for itself off its tiny 5% rake on subscriber payments. Patreon will earn just $7.5 million from the $150 million it expects to pay creators this year. That’s why the plan is to layer on additional premium services for creators, Conte tells me, hinting at partnerships to sell merchandise or concert tickets through Patreon.
+Really, all Patreon has to do is keep luring creators with the promise of steady paycheck, and their fans will follow. “Art is one of those few legal monopolies” Conte philosophizes. “If you want to listen to Prince, Mick Jagger doesn’t do. Nothing else in the world can satisfy that urge. It’s not replaceable, it’s not hot swappable. It’s not a commodity.”
+TechCrunch is pleased today to announce the companies and judges participating in the pitch-off at TC Sessions: Robotics. This is going to be great.
+New life is important. And while TC Sessions: Robotics features the best engineers and companies in the robotics field, we’re excited to host a small pitch-off that will pit four budding companies against each other in a bid to exhibit their project at TechCrunch Disrupt SF. To help pick the winner we assembled a fantastic team of judges.
+Pitch-off events have long been a staple of TechCrunch events. In this particular contest, the individuals behind these projects will have four minutes to present their ideas to the judges and audience and conduct a live demo of the robot. The judges will then have four minutes to ask questions. The winner of the contest will be given an exhibit table at TechCrunch Disrupt SF this September (a $1995 value).
+General admission tickets are selling out quickly and seating is limited in MIT’s Kresge Auditorium. The event takes place in Boston on July 17 and features a day of speakers, robotic demos and networking. We hope to see you there.
+
+Pitch-off Participants
+CP Robotics is based on patented software that makes robots able to automatically plan processes, such as grinding, milling, welding, plasma-cutting etc., based on a quick initial 3D scanning.
+Hand4help
+Hand4help is developing low-cost, multi functional, 3D-printed robotic hand prosthesis for amputees.
+Tangible Media Group
+The Tangible Media Group in the MIT Media Lab has developed a robotic haptic interface to give physical form to virtual objects.
+Franklin Robotics
+Franklin Robotics has developed and will demonstrate Tertill, a robot that weeds personal gardens.
+
+Judges
+Jeremy Conrad is the co-founder and a partner at Lemnos Labs, a seed stage investment firm based out of San Francisco. Prior to Lemnos Mr. Conrad was an active duty United States Air Force officer working on the Airborne Laser Program. Mr. Conrad received his B.S. in Mechanical Engineering from the Massachusetts Institute of Technology.
+Helen Greiner cofounded iRobot in 1990 and served as president until 2004 and chairman until 2008. During her tenure, Helen Greiner guided iRobot into its position as a global leader with the release of the Roomba, the PackBot and SUGV military robots. In addition, Greiner headed up iRobot’s financing projects, raising $35M in venture capital for a $75M initial public offering. Greiner holds a bachelor’s degree in mechanical engineering and a master’s degree in computer science, both from the Massachusetts Institute of Technology. In 2008 she founded CyPhy Works where she served as the CEO until 2016 and is now the company’s Chief Technology Officer.
+Daniel Theobald founded Vecna Technologies in 1999 with the mission to empower humanity through transformative technologies. With the guiding philosophy that automation is the key to developing a more sustainable and equitable future, Daniel has worked with several renowned institutions such as the National Institutes of Health (NIH) and the Veteran’s Administration (VA) to develop automation solutions across a number of industries.
+Melonee Wise is the CEO of Fetch Robotics, which is delivering advanced robots for the logistics industry. The company introduced their robot system, including Fetch and Freight, in May of 2015. Prior to joining Fetch, Melonee was CEO and co-founder of Unbounded Robotics. Before then, Melonee was Manager of Robot Development at Willow Garage, where she led a team of engineers developing next-generation robot hardware, including the PR2 and TurtleBot from Willow Garage. Melonee also has extensive experience in the growth of ROS as a research and commercial platform. Melonee is currently a Mentor in the Qualcomm Robotics Accelerator.
+
+Agenda
+TC Sessions: Robotics
+July 17, 2017 @ MIT’s Kresge Auditorium
+9:00 AM – 9:05 AMOpening Remarks from Matthew Panzarino
+9:05 AM – 9:25 AMWhat’s Next at MIT’s Computer Science and Artificial Intelligence Laboratory with Daniela Rus (MIT CSAIL)
+9:25 AM – 9:50 AM Is Venture Ready for Robotics? with Manish Kothari (SRI), Josh Wolfe (Lux Capital) and Helen Zelman (Lemnos)
+10:10 AM – 10:35 AMCollaborative Robots At Work with Clara Vu (VEO),  Jerome Dubois (6 River Systems) and Holly Yanco (UMass Lowell)
+10:35 AM – 10:55 AMCoffee Break
+10:55 AM – 11:20 AMBuilding A Robotics Startup from Angel to Exit with Helen Greiner (CyPhy Works), Andy Wheeler (GV) and Elaine Chen (Martin Trust Center for MIT Entrepreneurship)
+11:20 AM – 11:30 AM Soft Robotics (Carl Vause) Demo
+11:30 AM – 11:55 AMImagineering Disney Robotics with Martin Buehler (Disney Imagineering)
+12:00 PM – 1:00 PMLunch and Workshops TBA
+1:00 PM – 1:20 PMRobots at Amazon with Tye Brady (Amazon Robotics)
+1:20 PM – 1:55 PMWhen Robots Fly with Buddy Michini (Airware), Andreas Raptopoulos (Matternet) and Anil Nanduri (Intel)
+1:55 PM – 2:15 PMPackbot, Roomba and Beyond with Colin Angle (iRobot)
+2:15 PM – 2:35 PMBuilding Better Bionics Samantha Payne (Open Bionics) and TBA
+2:35 PM – 2:45 PMDemo TBA
+2:45 PM – 3:05 PMThe Future of Industrial Robotics with Sami Atiya (ABB)
+3:05 PM – 3:25 PMCoffee Break
+3:25 – 3:35 PMDemo TBA
+3:35 PM – 4:15 PMRobotics Startup Pitch-off (Judges and contestants TBA)
+4:15 PM – 4:35 PMThe Age Of The Household Robot with Gill Pratt (Toyota Research Institute)
+4:35 PM – 4:55 PMBuilding The Robot Brain with Heather Ames (Neurala) and Brian Gerky (OSRF) and TBA
+4:55 PM – 5:20 PMRobots, AI and Humanity with David Barrett (Olin), David Edelman (MIT) and Dr. Brian Pierce (DARPA) and TBA
+5:20 PM – 5:25 PMWrap Up 
+5:25 PM -7:00 PMReception  
+French startup Shadow, also known as Blade, just raised a Series A round of $57.1 million (€51 million). Shadow thinks your next computer is going to be in a data center. Your existing phones, laptops and Shadow’s own device (pictured above) act as a thin client, a window into your virtual machine running on a beefy server in a data center near you.
+Shadow had already raised $14.6 million from around 20 business angels. The same ones invested again, starting with Nick Suppipat, Pierre-Kosciusko Morizet and Michael Benabou.
+I’ve already written a bit about Shadow. The startup is running thousands of virtual machines on 800 server-grade Intel Xeon processors with a dedicated Nvidia GTX 1070 for each user. It’s only available in France for now.
+In my own testing, it works quite well already even though you can feel that the service is still a bit young. The only issue is that you currently need a speedy fiber connection, which still limits the market quite a bit in France.
+You can get your personal instance for around $32.70 per month (€30). This isn’t just a gaming platform, you get a full Windows 10 virtual machine. So far, 3,500 people have been using the service as the company has been accepting new users in batches every other month.
+With today’s funding round, the company plans to accept a lot more customers. “The first thing we’re going to change is that we were relying on a pre-order system,” co-founder and CEO Emmanuel Freund said. “We have a lot more demand compared to our offering output. We’re going to switch to an instant ordering system.”
+Eventually, you’ll be able to sign up to Shadow and use your Shadow computer the next day. This is going to be challenging as Shadow will need to keep up with the demand and roll out enough servers so that new servers are always available.
+Shadow already said that it isn’t in the business of looking at your data. You control your Windows instance, you can encrypt your data and Shadow doesn’t have your Windows password. But the company said that it plans to provide its own encryption system and write stronger terms of service when it comes to privacy.
+On average, these users have been spending 2.5 hours per day per user over the last 30 days. By targeting gamers, Shadow has been focusing on heavy PC users so this number isn’t that surprising.
+But the startup doesn’t plan to stop there. Up next, Shadow wants to sell instances through B2B channels and target less powerful needs. Eventually, Shadow wants to replace computers in your office or your grandparents’ computer. Those servers probably aren’t going to have a big Nvidia GPU, but it’s going to bring the next big wave of users.
+The startup wants to attract 100,000 clients by the end of 2018. Shadow is going to expand to the U.K. and Germany in 2017, with other European countries following suit. For each geographical expansion, the startup needs to find new data centers and sign peering deals with telecom companies around Europe.
+The company is also going to open an office in Palo Alto so that they can talk with American partners, such as server makers and Microsoft. And I’m sure that the company will need a ton of capital to buy new servers and expand its infrastructure.
+While cloud computing for end users have been a wild dream for years, internet connections may have become fast enough to turn this into something that you can actually use. Shadow plans to take advantage of that.
+Instagram is creating a standardized format that should make it clearer to everyone when a post has been paid for by an advertiser.
+These aren’t for ads that businesses buy directly from Instagram, but rather for influencer marketing, where brands pay celebrities and other users with a significant online following to promote their products. It’s an area that every big tech and media company seems interested in, but it’s also creating questions around disclosure and transparency.
+In fact, the Federal Trade Commission recently sent letters to more than 90 influencers reminding them that they need to “clearly and conspicuously” disclose when their posts are sponsored. That means they shouldn’t hide the disclosure under the “more” button, or use ambiguous language like “Thanks, [Sponsor Name Here]!”
+Instagram’s Creative Programs Director Charles Porch told me that most influencers and advertisers are looking for a clear, straightforward way to make these disclosures.
+“People are building amazing businesses on Instagram all over the world, at all sorts of scale,” Porch said. And those users are “looking for ways to be super transparent with their followers when they have a partnership.”
+
+So with this new feature, influencers tag a brand as the sponsor for their post, which accomplishes two things.
+ First, it means the post will include a “Paid partnership with” notification at the very top. (These disclosures can also show up on Instagram Stories.) It’s not exactly a giant banner warning users that the post is an ad, but the language is straightforward and the placement will make it hard to miss. At the same time, the tag also means the advertiser will automatically get access to the same data as the influencer around a post’s reach and engagement — and that data will show up in the same Facebook dashboard as the rest of their advertising data.
+Instagram is currently testing this new tool out with select users, including BuzzFeed and Aimee Song. But will the company eventually require everyone to use with these tags when they run sponsored content?
+“Right now, we’re still in phase one,” Porch said. “The goal is to one, educate people and two, get a ton of feedback … There will be enforcement, but first we want to get feedback on how everyone reacts.”
+Box just made it a little easier to access your files while you’re at your computer.
+The company is introducing Box Drive, a desktop application that works on Windows and MacOS. People will be able to credit, edit, find and share files without pulling up a web browser.
+This is the “final frontier,” CEO Aaron Levie told TechCrunch. With Box Drive, you’ll have “unlimited access to all of your data directly from your desktop.”
+He predicts that this will save companies on IT costs because it could cut back on network file shares.  This is a “very powerful proposition for most corporate IT environments.”
+The app itself is free, but large enterprises like General Electric, P&G and The Gap pay Box for added functionality. Existing customers will have access to the full range of Box Drive capabilities.
+Levie said the desktop app makes it easier to access the cloud because it “creates just another drive on your computer like your C drive, so inherently you’re interacting with your local file experience.” Now they’re “seamlessly integrated into your computer.”
+Earlier this month, Box announced integration with Apple’s new Files app. It will be another way to access Box documents across iOS devices.
+Box shares are up 34% year-to-date. It “doesn’t hurt that Wall Street is also starting to pick up on the message.”
+When housing costs too much or educators have to commute from far away, there’s rapid teacher turnover that hurts students. That’s why Mark Zuckerberg and Priscilla Chan’s philanthropy vehicle is funding home down payment assistance for roughly 60 educators and support staff at three schools near Facebook’s headquarters.
+The $45 billion Chan Zuckerberg Initiative is putting $5 million into a fund for Landed, a Y Combinator startup that offers to pay up to half of the 20% home down payment for educators with zero interest or monthly payments. Instead, Landed recoups its investment when the home is sold or refinanced, assuming up to 25% of the appreciation or depreciation of the home’s value.
+Any money earned from the upside on the Landed’s investment will be put back into the CZI fund to make it sustainable and fund down payments for more educators. Meanwhile, Landed makes its money by taking a cut of the standard referral fee earned by real estate agents that it connects to the educators buying homes, who don’t pay any extra to use Landed.
+The goal is to allow more educators, administrators, janitors, and more to live near their jobs at Redwood City, Ravenswood City, and Sequoia Union high schools, where Silicon Valley’s tech boom has made home prices otherwise out of reach of these critical community members. CZI posted on Facebook that “More broadly, our hope is that our partnership with Landed will help create a sustainable model to help make homeownership a reality for more educators and others at risk of getting priced out of the communities they serve.”
+Landed CEO Jonathan Asmis writes that “While making housing more accessible will require many approaches, we hope this kind of down payment support will help to make it a little easier for great educators to stay and build successful careers in the region.”
+CZI has mostly focused its donations and investments on health science and education, like its $3 billion BioHub initiative to end disease. But it’s also funding programs for the underprivileged. Earlier this year it gave $3.1 million to East Palo Alto’s Community Legal Services, which offers legal assistance such as fighting landlords to families suffering from the local house crisis. CZI also gave $500,000 to UC Berkeley’s Terner Center for Housing Innovation, that seeks to generate long-term solutions to Bay Area housing shortage.
+Sonya, a kindergarten teacher who live in Oakland who bought a home thanks to Landed. Photo credit: Chandler West, the Chan Zuckerberg Initiative
+ 
+To get access to the Landed fund, educators in the designated districts can apply on its website.
+They’re paired with a local lender who can determine if they qualify for the necessary mortgage, and then connected to a real estate agent who finds them the right home. The buyer must put up at least 50% of the down payment, and Landed pays the rest in exchange for an equity stake in the home.
+There are no interest rates or monthly payments for the Landed contribution, just the mortgage. Years later when the buyer refinances to buy out Landed’s stake or when they sell their home, its value is appraised. If it’s gone up, Landed shares in up to 25% of the upside, while if it’s gone down, it shoulders up to 25% of the burden. CZI’s Landed fund will soak up both, and reinvest proceeds in other down payments.
+Asmis tells TechCrunch that stable housing for teachers can have a big positive impact on the educational outcomes for kids. “The amount of money and resources and time that school districts and schools have to put into constantly hiring and rehiring staff, because they’re coming for a few years and then leaving because housing is too expensive, could be spent elsewhere.”  
+Teachers have it tough enough already. They show up to work earlier than most of us, and have to be on point managing children all day instead of spacing out in front of a computer. The closer they live to their school, the more time and energy they have for inspiring kids.
+The hope is that since home values trend upward over time, educators will have enough from their Landed deal’s upside to buy their next home unassisted. Asmis says Landed is “a stair-step to ownership.”
+Today’s investment proves why Zuckerberg and Chan decided to make CZI an LLC rather than a traditional charity. Instead of just giving away the $5 million, these quasi-loans that can actually generate more money could become an evergreen fund for housing assistance.
+Managing inventory is one of the most challenging parts of running a retail business. It’s not easy to predict exactly how popular each item will be.
+That’s why retailers often offload their unsold clothing and products to other businesses. Some of these designs find their way into”off-price” stores like T.J. Maxx or Ross, known for their perpetually low prices.
+Now a startup called Inturn has been trying to streamline the process, with its software that enables a two-sided marketplace. An estimated $500 million worth of products are currently available on Inturn’s platform, where they’re sold through controlled offerings.
+And because the business has been able to attract marquee clients (they won’t name them publicly), investors are betting on rapid growth. Inturn is raising $22.5 million in Series B funding led by B Capital Group, Facebook co-founder Eduardo Saverin’s venture firm.
+“Inturn is one of the fastest growing B2B marketplaces in the retail space and we are excited to support the company at its next stage of growth,” said Raj Ganguly, co-founder and partner, B Capital Group. “By providing a transparent and real-time view of inventory, brands and retailers are able to transact faster at a lower cost.”
+Inturn CEO Ronen Lazar told TechCrunch that he estimates that it’s a $250 billion addressable space.  He said the lack of technology in the industry resulted in “very slow and time-consuming and error-prone” processes. 
+It’s especially useful in industries like fashion, where “the value of the actual garment declines at a very rapid pace.” That’s lost revenue for businesses.
+Inturn makes money from subscriptions and also takes a cut of processed transactions. “The ROI is kind of a no-brainer,” Lazar says of the value they provide their clients. 
+The startup was launched in 2013 and is based in New York.
+
+ Catwalking/Getty Images
+The race for artificial intelligence technology is on, and while tech giants like Google and Facebook snap up top talent to build out their own AI-powered products, a new startup has just raised a huge round of funding to help the rest of us.
+Element AI — a Montreal-based platform and incubator that wants to be the go-to place for any and all companies (big or small) that are building or want to include AI solutions in their businesses, but lack the talent and other resources to get started — is announcing a mammoth Series A round of $102 million. It plans to use the funding for hiring talent, for business development, and also, to put some money where its mouth is, by selectively investing in some of the solutions that will be built within its doors.
+“Our goal remains to lower the barrier for entry for commercial applications in AI,” said Jean-François Gagné, the CEO of Element AI, in an interview. “Everyone wants to have these capabilities, it’s hard for most companies to pull it off because of the lack of talent or access to AI technology. That is the opportunity.” The company currently has 105 employees and the plan is to ramp that up to 250 in the next couple of months, he said.
+The round was led by the prolific investor Data Collective, with participation from a wide range of key financial and strategic backers. They include Fidelity Investments Canada, Korea’s Hanwha, Intel Capital, Microsoft Ventures, National Bank of Canada, NVIDIA, Real Ventures, and “several of the world’s largest sovereign wealth funds.”
+This large Series A has been swift: it comes only six months after Element AI announced a seed round from Microsoft Ventures (of an undisclosed amount), and only eight months after the company launched.
+We’ve asked Gagné and Element AI’s investors, but no one is disclosing the valuation. However, what we do know is that the startup already has several companies signed up as customers and working on paid projects; and it has “hundreds” of potential companies on its list for more work.
+“As we’ve been engaging with corporates and startups [to be in our incubator] we have realized that being engaged in both at the same time is not easy,” Gagné said. “We’ve started to put together a business network, including taking positions in startups to help them by investing capital, resources, providing them with technology and bringing them all the tools they need to accelerate the development of their apps and help them connect with large corporates who are their customers.” The aim is to back up to 50 startups in the field, he said.
+The strategic investors also fit into different parts of Element AI’s business funnel. Some like Nvidia are working as partners for business — in its case, using its deep learning platform, according to Jeff Herbst, VP of business development for NVIDIA. “Element AI will benefit by continuing to leverage NVIDIA’s high performance GPUs and software at large scale to solve some of the world’s most challenging issues,” he said in a statement. Others, like Hanwha, are coming in as customer-investors, there to take advantage of some of the smarts.
+AI in its early days may have been the domain of tech companies like Google, Apple and IBM when it came to needing and commercializing it, but these days, the wide range of solutions that can be thought of as AI-based, and applications for it, can touch any and all aspects of a business, from back-office functions and customer-facing systems, through to cybersecurity and financial transactions, to manufacturing, logistics and transportation, and robotics.
+But the big issue has been that up to now, the most innovative startups in these areas are getting snapped up by the large tech giants (sometimes directly from the universities where they form, sometimes a bit later).
+Then consider those that are independent and aren’t getting acquired (yet). There still remains a gap for most companies between what skills are out on the market to be used, and what would be the most useful takeaway for their own businesses.
+In other words, many considering how to use AI in their businesses are effectively starting from scratch. Longer term, that disparity between the AI haves and have-nots could prove to be disastrous for the idea of democratising intellectual power and all the spoils that come with it.
+“There is not a lot left in the middle,” Data Collective’s Matt Ocko said in an interview. “The issue with corporations, governments and others trapped in that no mans’ land of AI ‘have-nots’ is that their rivals with superior AI-powered decision making and signal processing will dominate global markets.”
+The idea of building an “AI incubator” or “safe space” where companies that might even sometimes compete against each other, are now sitting alongside each other talking to the same engineers to build their new products, may be an industry first.
+But the basic model is not: Element AI is tackling this problem essentially by leaning on trends in outsourcing: systems integrators, business process outsourcers, and others have built multi-billion dollar businesses by providing consultancy or even fully taking the reins on projects that businesses do not consider their core competency.
+The same is happening here. Element AI says that initial products that can be picked up there include predictive modeling, forecasting models for small data sets, conversational AI and natural language processing, image recognition and automatic tagging of attributes based on images, ‘aggregation techniques’ based on machine learning, reinforcement learning for physics-based motion control, compression of time-series data, statistical machine learning  algorithms, voice recognition, recommendation systems, fluid simulation, consumer engagement optimization and computational advertising.
+I asked, and I was told multiple times, that essentially colocating their R&D next to other first, for now, is not posing a problem for the companies who are getting involved. If anything, for those who understand the big-data aspect of AI intelligence, they can see that the benefit for one will indirectly benefit the rest, and speed everything up.
+“That model is what made Yoshua Bengio” — “the godfather of machine learning” — “so excited about co-founding this company,” Ocko said. “That massive research advantage leads Element AI to be able to deliver technically advantaged, increasingly cost effective solutions. It means they don’t have to treat AI decision making capability as a scare resource, wielded like a club on everyone else.”
+
+ mennovandijk/Getty Images
+Long time UK-based health-focused social network HealthUnlocked has flipped the switch to make its mobile app globally available, aiming to boost access to its network and feed more data into machine learning matching algorithms it began applying to the platform earlier this year — idea being to help people with the same health condition find each other so they can share information and support.
+“The new app makes the HealthUnlocked network more accessible than ever before and we expect more people to use the platform as a result, meaning more data is collected and users receive highly tailored recommendations,” is its concise take on broadening the app’s reach.
+While it launched the app back in February, HealthUnlocked’s website launched in 2012 and now has more than 700,000 registered users and around 40 million visitors annually to ~700 online support groups. The majority of group offer support for people with long term conditions, but the platform also offers general wellness communities, with groups focused on topics such as healthy eating and fitness.
+Users can join multiple online communities, posting to share and interact publicly with other members. They can also individually message others, says if they want to privately discuss a shared health condition.
+There’s no requirement to use real identities within the app — indeed, users are encouraged not to do so, given the sensitive nature of discussions. While support groups are moderated by relevant not-for-profit organizations which can also feed information into the communities. HealthUnlocked says it has more than 700 charity and non-profit partners at this point.
+“The app has been developed around the platform and its large user base,” it says. “Every time a user writes something within the platform, we now run 638 algorithms, allowing us to understand the subject and health context of what has been written. For example, if you write about ‘weight loss’ understanding the the context it was written in — for example anorexia, rather than a new cancer drug or the start or a user’s running regime — makes a huge difference when you are making inferences about what the user is interested in.”
+The information it needs to request at onboarding is “less than ever before” — on account of leaning on machine learning algorithms to extract custom insights from users’ interactions.
+“Initial onboarding collects gender, health interests and diagnosed conditions to initially recommend online communities. We then use our technology and algorithms to create a health profile by understanding their behavior, the pages they read, or conditions they write about. They are then recommended further communities to join and other useful connections. This is a constantly evolving process based on the individual’s activity,” it adds.
+The UK company has raised £5M to date from private investors from the tech and health sectors in the UK and Silicon Valley, including Nick McKeown (Nicira, Barefoot) and Professor Walter Nimmo CBE (Inveresk).
+It monetizes via matching users to relevant content, products and services, based on what it learns about them as they use the network. It says a big part of its commercial activity involves matching people to clinical trials and market research opportunities.
+While another strand of its business is licensing a care planning tool it built for cancer patients, which is run in partnership with Macmillan Cancer Support. This is being used in more than 100 hospitals across the UK at this point, and is due to be rolled out to all hospitals in England later this year.
+What it launched back in 2012, Toronto-based Top Hat (or “Top Hat Monocle,” as it was still known then) offered a phone-based classroom response system but little else in terms of content for teachers to use in their classes. In a way, though, that response system was Top Hat’s Trojan horse. It gave the company a foothold in the academic market and now that it has this, with teachers and students at over 750 of the top 1,000 colleges and universities using it at this point, it’s looking to expand its product portfolio.
+To do so, the company announced a $22.5 million Series C round earlier this year and as Top Hat CEO Mike Silagadze told me, it has now raised a $7.5 million in follow-on funding from Toronto-based Leaders Fund.
+With this funding in place, Top Hat today also announced that it has now launched its content marketplace (the creatively named Top Hat Marketplace) out of beta. The idea here is to challenge the massive textbook industry that doesn’t have any qualms about charging students hundreds of dollars for a book and a few (generally disappointing and hard to use) online tools and addenda.
+
+The Top Hat Marketplace wants to (for lack of a better word) disrupt this scheme by making it easier for teachers to collaborate with each other and publish their books on Top Hat’s site. To do this, Top Hat gives teachers all the editing tools they need to build modern, interactive online textbooks and publish additional materials for teachers (think PowerPoint slides, test banks, etc.).
+Teachers can either make their textbooks available for free, which the vast majority of teachers did during the beta test, or charge students for using them. Teachers who want to adapt these courses and online textbooks to their classes can easily make their own changes to the material, too, using Top Hat’s built-in editing features. Students have to pay the basic Top Hat fee of $26 per term (with substantial discounts for annual and lifetime subscriptions) to access both free and paid textbooks.
+As Silagadze told me, the company had some early discussions with textbook publishers who were looking to bring their books to its platform, but what they basically wanted to do was to bring their PDFs onto the platform (and ideally with the help of a DRM-protected Flash player). “It was a terrible experience,” Silagadze said and noted that the company quickly broke off those discussions. He believes that as long as the marketplace remains small, publishers aren’t likely to take too much notice of it. But he obviously thinks that will soon change. “I think at this point they are mostly confused and they don’t know what to make of us,” Silagadze said. “Probably by next year, there will be the realization that we are an existential threat to their business.”
+
+
+ Dorling Kindersley/Getty Images
+Heresy, a startup co-founded by Dimitar Stanimiroff, who was previously MD Europe at Stack Overflow, is a new sales tool designed to increase collaboration between sales team members, and help them make better data-driven decisions, collectively and individually, and ultimately close more sales.
+The Software-as-a-Service isn’t a CRM replacement as such — in fact, it painstakingly syncs with Salesforce — but, Stanimiroff tells me, takes its inspiration from agile software development with a front end that includes a simple to use Kanban board (similar to something like Trello) for inputting data and tracking where each potential sale is in the sales pipeline.
+Under the hood, data entered by individual sales people is then crunched and analysed to let sales teams and their managers know how likely they are to close a particular deal or meet a sales target overall. Crucially, the software intervenes to let individuals or teams know if they are likely to lose a deal or miss a target and what they should do to prevent this.
+Stanimiroff says the London-based company’s broader mission is to increase collaboration between sales team members and break out of the old way of doing sales where sales people effectively worked in a silo and are discouraged from supporting or learning from one another.
+It’s a lesson he learned at Stack Overflow, where an early version of Heresy was built to be used internally and to “scale the sales team to 120-plus in a very short period of time”.
+In a demo I was given of Heresy, Stanimiroff showed me how easy it is to enter data into the kanban board-esque UI and the immediate value doing so brings to an individual sales person.
+The plague of traditional sales-based CRM systems is that entering accurate data is time consuming and fiddly and often feels like it is only to the benefit of sales managers not the individual sales person. This leads to a CRM either not being used or being filled with inaccurate or so-called “dirty data”.
+That’s the first part Heresy, like other startups before it, has set out to solve, by providing immediate value, such as getting realtime feedback on sales goals based on the data entered, and even something as simple as alerts when a deal is predicted to be slipping or a target is in danger of being missed.
+“As a salesperson, you can do all the usual stuff you’d expect i.e. manage pipeline stages, set reminders for follow ups, track emails/notes, etc. but everything happens within a couple of clicks or simple drag and drop,” says Stanimiroff.
+The second aspect, and key to Stanimiroff’s longer term vision, is the way data is aggregated and shared with managers and, optionally, the rest of the sales team. In doing so, the aim is to create a sale culture that, he says, is more akin to the way he witnessed engineers collaborating at Stack Overflow.
+
+This includes what the Heresy CEO calls “one burndown to rule them all,” described as a single view of the team burndown so that everyone knows how the entire team is performing and where they are likely to end the month based on forecasted deals.
+“Problems can be identified earlier, allowing the team to course-correct before it’s too late,” he says.
+Meanwhile, Heresy is set to announce that it has raised £755,000 in funding for further product development and European expansion. Backers include LAUNCHub Ventures, AngelList, Seedcamp, and the London Co-Investment Fund. The startup is also being advised by Stack Overflow founder Joel Spolsky, and Trello co-founder Michael Pryor.
+Have you ever heard of chat fiction apps? If not, then you’re probably not a teenager.
+These digital book alternatives, which are presented as text messages, have been dominating the app charts for the past few months. The format may seem a little strange for people who are used to paperback books, but at least young people are reading.
+These are the popular ones.
+
+Hooked
+Hooked is the app that started the frenzy. It launched in 2015 and has since maintained its popularity. It’s currently in the top 40 free apps across all categories. The topics range from comedy to horror stories and are always displayed as messages.
+Users have to keep scrolling to find out what happens next. The idea is that the texting format is more relatable for young people who have been communicating this way since they were children. And while the app itself is free, users have to pay for the full experience.
+It costs $2.99 per week or $39.99 per year. Its business has caught the attention of well-known investors including Greylock Partners, Foundation Capital and Founders Fund.
+Yarn
+
+Yarn is a lot liked Hooked. It’s also an app for SMS-like stories and costs exactly the same. But the content is original and has some different themes.
+Some of those include hypothetical conversations with A-list celebrities or imaginary group chats about dating. They also have a “truth or dare” section and jokes about using personal assistants like Siri. While these themes don’t really sound like “books,” that’s the category they are labeled in iTunes.
+And like Hooked, it’s currently ranked higher than the Kindle. The app was incubated by Science, the maker of Wishbone and Slingshot.
+Tap
+
+Tap was recently introduced by Wattpad, the social publishing platform. It works a lot like the other chat fiction apps and costs exactly the same for the full experience.
+Well, if the business model isn’t broken, don’t fix it. From romance to crime stories, Tap makes it easy to see what’s trending and tells you how many people are scrolling through it. You can also write your own stories and share them with your friends.
+This app is also doing quite well in the rankings. Hopefully, today’s teens know what a real book looks like.
+Today’s Stories 
+
+Uber CEO Travis Kalanick takes leave of absence
+Verizon closes $4.5B acquisition of Yahoo, Marissa Mayer resigns [Memo]
+Tim Cook says Apple’s car project is ‘the mother of all AI projects’
+Amazon launches Prime Reload, offering 2% back on purchases funded through debit cards
+
+Credits
+Written by: Tito Hamze, John MannesHosted by: Tito HamzeFilmed by: Joe ZolnoskiEdited by: Tito Hamze
+Notes:
+
+I don’t know what to wear on Crunch Report (It’s a hard decision and I suck at dressing myself). If you are a startup and want to me to wear something mail me an XL T-shirt and I’ll wear it in an episode. I’m not going to mention the company on the shirt in the episode but it will be there. No offensive stuff, it’s totally at my discretion if I wear it. Mail it to me. Thanks <3 Ok, bye.
+
+
+Jason Rowley is a venture capital and technology reporter for Crunchbase News. 
+
+			More posts by this contributor:			
+How Ethereum became the platform of choice for ICO’d digital assets
+Here’s how likely your startup is to get acquired at any stage
+
+
+
+Since the earliest days of the commercial web, there was a Faustian bargain struck between users and content publishers: Users got free access to online content in exchange for tolerating ads sold by the very same publishers delivering the latest words, images, and videos.
+And, by and large, it’s a bargain that’s worked out well for digital advertisers.
+According to data published on Statista, combined global digital advertising spending is expected to be around $229 billion (USD) in 2017. By 2020, that’s projected to grow by over 45 percent, to about $335.5 billion.
+In many industries, that kind of growth might point to new kinds of market opportunities ripe for the picking by fast-moving startups. But the concentration of earning power in just a few giant companies, plus other market forces, leads us to the conclusion that venture capital investment into advertising technology startups has already peaked.
+Charting the collapse of venture capital funding in adtech
+Below, we’ve plotted this downturn in deal activity based on Crunchbase data from nearly 2,000 venture capital deals struck with US-based companies in various sub-verticals of the advertising technology industry.
+(Note: Crunchbase’s category structure typically distinguishes between “advertising technology” and “marketing technology,” and we focused here on advertising technology.)
+
+In the five years elapsed since the peak of advertising technology deal-making activity in H1 2013, the pace of venture capital investment has declined by nearly 80 percent.
+The advertising industry is multifaceted, with a dizzying array of companies serving almost every conceivable niche in the business. That said, even some of the more promising categories of advertising tech have likely seen their peaks come and go.
+While there isn’t enough raw data about ad platforms and advertising networks, or local and mobile ad technology companies, to draw meaningful conclusions, we can combine these subcategories into two groups. By plotting the proportional distribution of deals struck at the beginning of 2012 and the end of 2016 between the two groups, we can see that these once-bright categories might be has-beens.
+(Note: Other promising categories like social media advertising and video ad platforms had insufficient data for this analysis.)
+
+At least within the last five years, both groups had reached local maxima a while ago. If every year were equal between the half decade, we’d expect to see a flat line at 20 percent. But of the set of deals counted for companies in the local and mobile advertising categories from the last five years, 27.2 percent of those were originated in 2014. Ad platforms and network startups found their peak deal counts just one year later, in 2015, when approximately 26.4 percent of those deals were struck.
+Of course, 2016 was a difficult year for VC investment in almost all sectors, so it’s possible that there will be some kind of recovery from those declines. With that said, the consistent downtrend in adtech investing activity depicted in the first chart might suggest otherwise.
+Concentration of (earning) power
+“The best minds of my generation are thinking about how to make people click ads,” said Jeff Hammerbacher, then an early employee at Facebook, in an interview with Ashlee Vance for Bloomberg Businessweek.
+The result of all that perseverating? A head start in an industry where network effects are literally the root of all value. According to one slide in Mary Meeker’s 2017 Internet Trends Report, Google and Facebook, taken together, earned around two-thirds of US Internet advertising revenue in 2016.
+
+This leaves the remaining third of US Internet advertising revenue to everyone else, which includes smaller competitors in the form of social networks like Twitter and Snapchat, native advertising and media companies like BuzzFeed, tools for publishers like Taboola and Outbrain (which are responsible for those wacky ads at the bottom of many news articles), and a long tail of others.
+But even with all that brainpower in ad tech, it’s still possible to run up against barriers.
+Stop following me
+Over the past several years, trends have converged to encourage an increasing number of web users to install ad-blocking software. That main trend is the ever-more annoying types of advertisements that have crept onto desktop and mobile phone screens.
+According to findings by PageFair, a provider of adblock analytics and, somewhat perversely, “Adblock-proof ad serving,” some 600 million devices were running adblock software globally at the end of 2016. Of those devices, 62 percent were mobile. That same report indicates that there was a 30 percent year-over-year increase in the usage of ad blocking software.
+This trend toward increased ad blocker usage has been taken up by several browser makers. Apple’s Safari browser, which has approximately 3.6 percent of the world’s market share, will ship with features that block web trackers and auto-playing video content. And Google’s Chrome browser, which controls nearly 60 percent of the global browser market, will implement a new advertising filter.
+Although there seems to be a constant arms race between ad developers and those building the ad blockers, it is almost certain advertising giants are likely to weather this storm longer than some scrappy upstarts.
+The ad in the high castle
+Facebook and Google have built quite the moat for themselves in the form of our data.
+Looking just at Google and Facebook, both are well-positioned to continue to dominate the digital advertising industry precisely because these companies reach so deeply into each of our lives.
+In a big way, Facebook owns a digital model of our communication channels and social relationships, all modeled by and fed into the social graph. And Google owns the browser, email communications, video consumption habits, and, most importantly, over three-quarters of daily search engine traffic.
+And in the case of both companies — Facebook with Instant Articles and Google with its Accelerated Mobile Pages (AMP) project — there’s the very real possibility of separating web content from publisher-owned websites, which, at least on mobile, cuts out the startups that have heretofore made the internet money engine run.
+For entrepreneurs in the advertising space, market opportunities do and will continue to present themselves, but the structure of the market is such that the lion’s share of the revenue growth will go to a small handful of incumbents, leaving relatively slim pickings for the rest.
+It’s no wonder that, at least for now, VCs are increasingly shying away from advertising technology investments. The moat just keeps growing wider.
+
+
+ Li-Anne Dias
+Microsoft today announced that it is joining the Cloud Foundry Foundation, the non-profit behind the open source Cloud Foundry platform-as-a-service project that’s currently in use by about half of the Fortune 500 companies.
+Microsoft is joining at the Gold Member tier where it joins the likes of Google (which joined last December and also hired the foundation’s former CEO Sam Ramji), Huawei, Ford, GE Digital, NTT, Philips and Swisscom in supporting the project.
+When I talked to him about this announcement last week, Cloud Foundry Foundation CTO Chip Childers noted that the addition of Microsoft to the roster of formal project supporters means that the project now has the support of two of the largest hyper-scale clouds — Google and Microsoft (which means that they must be seeing some clear demand from enterprises on their platforms for this as well).
+One company that’s missing here is obviously Amazon. “We would welcome them,” Childers said, though while Amazon is slowly starting to get more active in the open source space, I’m not going to place any bets yet on when we’ll see Amazon join the Cloud Foundry Foundation.
+Microsoft’s head of product for Azure Corey Sanders also told me that joining the Foundation, which is hosting its annual summit in Silicon Valley this week, will allow his company to get “much deeper in being able to deliver solutions, grow that community and expand the integration of Cloud Foundry.” Specifically, this means adding backend integrations with Azure Database for PostgresSQL and MySQL as the backend databases for Cloud Foundry-based applications, two services the company launched a few weeks ago at its Build developer conference. The company also today announced that the Cloud Foundry command-line tools are now available in the Azure Cloud Shell, which also launched at Build.
+With the acquisition of Deis earlier this year, Microsoft also acquired a team of developers that was deeply involved in working with Cloud Foundry and especially the Open Service Broker API, which allows developers, ISVs and SaaS vendors to make their own service easily available to applications that run on platforms like Cloud Foundry, OpenShift or Kubernetes. With Deis joining Microsoft and Microsoft joining the Foundation, Sanders promises that we will see additional support for the Service Broker over time. Microsoft is also formally joining the Open Service Broker working group.
+As for what Microsoft’s early engagement with the Cloud Foundry Foundation will look like, Sanders noted that the company wants to “mostly learn and engage with the community on a deeper level.”
+It’s worth noting that Microsoft was already active in a number of Cloud Foundry projects, so today’s announcement mostly puts a ring on this relationship
+Within a few minutes, I’ve got one hand grasped gingerly on the zipper. The other is holding the bag’s handle in place. I unzip it slowly, as if performing surgery. There’s none of the pressure of a real life battlefield, but the potential humiliation of having to start all over again in front of the film crew is enough motivation to it right this time. 
+RE2 Robotics’ (pronounced “Re-Squared”) control scheme takes some getting used to. Each arm serves as an analog to the limbs on the military robot a few feet in front of me, but the control scheme and the exacting nature of every arm movement present a bit of a learning curve. After a few frustrating misses, however, I manage to save face in front of a room full of onlookers silently judging my robotic manipulation skills. 
+The Pittsburgh-based Carnegie Mellon spinoff has been developing the control scheme for about a decade now — around two-thirds of its existence. It’s the result of the growing movement of biomimicry in the robotics field, as more and more engineers look toward nature for inspiration. In the case of Re2’s Robotic Manipulation System, it was right in front of them the whole time. What better scheme could there be for controlling robotic grippers than our own arms?
+
+
+The  control system sits atop a tripod, with two grips mounted on bars that curl over top like bicycle racing handlebars. Each grip has series of buttons controlled by the thumb. It’s those last few, which control the robot’s motion and camera position, that take the most getting used to. But the RE2 employee who operates the robot for the sake of our video demo assures us that within a couple of hours, the whole thing becomes second nature. 
+And that’s the motivating principle behind the system: a control scheme that closely mimics our own movement. The scheme is designed to operate the rover’s arms in some of the high stress environments, from decommissioning roadside bombs to handling harmful materials in the wake of a major disaster like 2011’s Fukushima accident. It’s the third “D” in the “dull, dirty and dangerous” paradigm roboticists inevitably raise when discussing the importance of replacing certain jobs with automation.
+“Often times, you still need the human intellect to perform those tasks,” founder and CEO Jorgen Pedersen explains. “But they’re dangerous, so the question is, how can we project that human capability remotely, so they’re still able to do their job and leverage the human intellect to solve a really big problem? That’s what we’re trying to do — keep the human safe, but allowing them to still do their job.”
+
+Over the last decade, off-the-shelf Xbox and PlayStation controllers have become a fairly standard solution for controlling these sorts of robots around the battlefields of Iraq and Afghanistan. They’ve proven a decent makeshift solution. After all, many enlisted troops fit firmly within a key demographic for the consoles and are likely already familiar with their controls.
+But the systems could benefit from a more direct method in high pressure situations. So, a decade ago, Re2 began to develop its current control scheme, one it believed would be even more intuitive than a gaming console by directly mimicking human movement. The company’s system includes two modular arms that affix to a military robot like Endeavor’s (formerly iRobot) Packbot, along with the tripod-mounted control scheme. 
+“If you’re going to project that human capability, the most human way to control it is to have it be as much like you as possible,” says Pedersen. “That’s where we’ve come over the past decade, having true human-like capability. It’s no coincidence that these robots look like human torsos. These systems are a projection of you, remotely. It’s almost like an avatar, where you’re dealing with a threat out of harm’s way.”
+
+The operator controls the system from a safe distance by viewing the robot’s camera feed from a remote laptop. The company is also developing a set up that utilizes a VR-style headset to complete the avatar-like scenario, similar to the system that many drone makers have employed.
+RE2 sees military applications as just the first step for the system. And it’s a logical place to start. Like so many robotics startups, military contracts are what kept the company afloat for many of its formative years. But while Pedersen concedes that such a control system could be utilized for hand to hand combat, he prefers, unsurprisingly, to focus on the positive.
+“Yes, people could use this technology for other means,” he says. “But our charter is saving lives and extending it into new markets like health care, where we can do patient assist. [We can] help a person from a wheelchair to a bed or a wheelchair to a toilet, as the brawn for a caregiver.”
+It may seem strange to see a headline with “FCC” in it that doesn’t concern net neutrality. But the Commission has a wide variety of responsibilities, among which is promoting and enabling tech that empowers people with disabilities to take advantage of the internet and its many services. Several companies creating such tech just got accolades from the FCC today.
+“I’m grateful that the FCC can play a role in promoting life-enhancing breakthroughs and encouraging collaborations to fulfill the promise of accessible technologies for millions of Americans,” said Chairman Ajit Pai in a news release. The man may be wrong big time when it comes to net neutrality, but he does genuinely care about getting everyone connected.
+There were 4 winners, announced at the accessibility-focused M-Enabling Summit:
+
+
+Ava, an app that connects to other phones in a multi-person conversation like a meeting, transcribing each speaker separately, allowing deaf and hearing-impaired people to follow along more easily.
+
+Automatic Alt Text on Facebook, which generates a description of images uploaded to the social network so visually-impaired people can browse them. Facebook also recently added closed captioning to its live videos — good work by the company on this front.
+
+Amazon VoiceView, a text-to-speech tool for Fire TV that describes menus, shows, and other aspects of the smart TV experience. Not honored but worth mentioning in this context are the array of Alexa-powered devices that, I understand, have been extremely helpful to the vision-impaired.
+It isn’t exactly tech, but the Integrated Described Video Best Practices Guide was created to standardize the ways in which Canadian film and TV producers (and others of course) could add scene descriptions to their scripts. Audio descriptions are becoming more common and having guidelines like these should make things easier on everyone.
+
+And the two runners-up:
+
+
+Aira connects blind users to sighted agents who check out things like maps, GPS, and visual landmarks in the area (through the phone’s camera) to help guide them to their destination.
+Teach Access is an initiative to get developers to think about including accessibility features from the first. It’s aiming at undergraduates, presumably to get these ideas instilled before these people have their compassion squeezed out them by the corporate world.
+
+Congratulations to the winners. Incidentally, it so happens that I wrote up an interesting accessibility company called Actiview today that might be under consideration for the FCC’s awards next year.
+Jarno M. Koponen
+Contributor
+
+
+
+Jarno M. Koponen is a designer, humanist and previously a co-founder of media discovery startup Random.
+
+			More posts by this contributor:			
+The next AI is no AI
+Your Algorithmic Self Meets Super-Intelligent AI
+
+
+
+
+
+For the last 10 years, news feeds have been the main way — the mainstream user interface — to discover interesting and relevant digital content. Today, news feeds, from Facebook and Twitter to LinkedIn, Instagram and Pinterest, are surfacing the interesting news and moments from your social network and favorite sources.
+This is about to change. The push notifications on the lock screen of your personal mobile device are turning your lock screen into the new news feed. The lock screen is thus becoming the pivotal interface to access and experience any of the updates and content that you consider to be worth noticing.
+Therefore, your lock screen and your mobile device, not the apps, become the nexus for all the personal data flows, feeding machine learning algorithms soon running also on your personal hardware.
+This is a fundamental change. It will change the way your digital experience is personalized. It will change the way AI systems can learn from you. And it will change the power balance between the big industry behemoths such as Facebook, Google and Apple.
+Battle for the lock screen
+We’ve had push notifications bubbling under for some time now. Back in 2014, Christopher Mims of The Wall Street Journal predicted a big success to the Yo app because of the way it used the simple power of push notifications.
+Yo didn’t rise to the occasion, but the applications and influence of push notifications has been growing ever since. Today, the landscape for push notifications is changing rapidly. Both Android and iOS have introduced updates on push features in a considerably fast pace.
+Notifications are transforming from simple text-based boxes into adaptive elements that allow a richer and more nuanced experience, thus-called “rich notifications.” Designers and developers are embracing these new possibilities, enabling a more engaging user experience. Today’s notifications can contain text formatting, bigger images, video and updating infographics, as well as interactive features such as sharing. As a result, users are consuming more and more content directly on their lock screen.
+The lock screen has become the place where your attention needs to be caught. And thus, every app is racing to invent more meaningful and engaging notifications. Nic Newman from Oxford’s Reuters Institute calls this “the battle for the lockscreen.” In the process, applications are turning into micro-platforms that can provide notifications as branded and optimized mini-products.
+From rich notifications to smart notifications
+The new richer interactions on your lock screen presents a new user interface paradigm and will have a major affect on personalization.
+By appearing automatically on your lock screen, push notifications enable interesting things to find you, rather than the other way around. At the same time, the lock screen isn’t tied into presenting things in a chronological order. Push notifications allow you to experience things ambiently: notifications materialize on your lock screen automatically without your explicit action.
+Importantly, you do not need to open the app to access content. Today, notifications from a news app allow you to follow the developing news event directly on your lock screen. You can participate in a conversation, check photos, watch a live video and share content without opening the app.
+With a personalized lock screen feed your device has the potential to get truly smart and personal.
+As we’ve seen in the news feeds of Facebook, Twitter and Pinterest, personalization algorithms are needed to curate the continuously growing flow of updates. Soon your lock screen is filtered by personalization algorithms, too.
+Already, as people’s interactions are moving from the apps to the lock screen, both iOS and Android have started to automatize the way things are presented and accessed on the lock screen. Android provides automatically triggered smart notification bundles that collect together useful notifications. iPhone highlights apps based on your personal context, such as time and location. On both platforms, widgets are part of this development, serving richer interactions and more content without opening the app.
+As an extension of you, your personal mobile device contains all your apps, thus making it a treasure trove of personal data. As an interface, the lock screen makes it possible to combine the data of your app-specific interactions with the rich contextual data provided by your device.
+Concretely, the lock screen will introduce a new algorithmic layer for personalization. The lock screen captures your social interactions and content consumption patterns, your favorite apps, movies, videos, music and much more. This rich data will be used to feed machine learning systems to make personal suggestions and recommendations more relevant and contextual.
+Soon your lock screen will filter push notifications actively and automatically, deciding which updates, suggestions, messages, apps, movies, recipes — and ads — are visible to you. With a personalized lock screen feed your device has the potential to get truly smart and personal.
+From smart notifications to personal AI
+When the interactions on your lock screen become richer, the data they generate becomes richer, too. Your mobile device will learn from everything you do more accurately than ever before.
+This introduces a new opportunity to start really understanding you as a unique individual and thus go beyond the existing personalization gaps. Any individual app, even Facebook, couldn’t and can’t achieve this today (note: Facebook tried unsuccessfully to create their own mobile device).
+Personal hardware is becoming an essential part of personalization and machine learning.
+As Gary Marcus, the founder of Geometric Intelligence and NYU professor has pointed out, AI systems should be able to learn from a lesser amount of data. They should be able to learn like a child, continuously, iteratively and from everything, being able to generalize, apply and extrapolate these learnings in a useful way.
+The personalized lock screen creates a unique interface connecting you and your personal AI running on your most personal device. 
+What if the missing piece for creating such a machine learning system has been a personal AI — an algorithmic angel, if you will — living and running on your most personal hardware, thus being able to learn with you like a child would.
+Such a personal AI running and evolving with you on your personal device is taught and fed continuously by your rich interactions and contextual data. It evolves by iterating itself based on your feedback and personal patterns.
+
+
+While learning directly from you, personal AI can utilize specialized internal and external agents that inhabit various digital environments, simultaneously utilizing the computing power in the cloud. In addition, these individual agents can process and provide domain-specific data, information and recommendations, from stock market tips to optimized travel options. The best versions of your personal AI collaborate and compete to evolve into better versions of themselves.
+Who controls your personal AI?
+Everything that happens on the lock screen is captured and can be used to enhance your experience — not directly by Facebook and other apps, but mainly by Google and Apple. Google Assistant and Siri will get smarter faster.
+Google is already bringing machine learning into their devices using their own algorithms and hardware. Simultaneously, they are offering developer tools to optimize notifications. Apple is following suit. Samsung is trying to keep up with its recent acquisition of Viv, “the next-gen AI assistant.”
+Will personal AI become your algorithmic angel, making sure you maintain your personal agency in tomorrow’s algorithmic reality? Or will it just turn your personal device into an ultimate marketing experience, thus trying to affect every decision you make?
+The new age of personalized lock screen and personal AI makes the idea of algorithmic angels, your personally controlled algorithms, more timely than ever. Ethical committees and clauses are starting, but they don’t suffice. As our decision-making is augmented by intelligent machine learning systems, we need explainable algorithms, interfaces and methods to guide and control these smart entities in an explicit and comprehensible way.
+The lock screen as a user interface provides a new interface to do so.
+What if you swipe far enough left on your iPhone to see the settings and preferences of your personal AI? What if you can access various versions of these AIs and decide which one is active for a particular moment just by swiping your lock screen? Maybe you can have a mundane chat about the reasoning behind your AIs suggestions, or then you use intuitive gestures, haptics and sounds to communicate with each other in a mutually comprehensible manner.
+The ultimate “conversational UI” won’t be an app or a bot that you need to open or call for. It’s something that’s present and available all the time, engaging in a continuous “dialog” with you and your digital and physical environments.
+The personalized lock screen creates a unique interface connecting you and your personal AI running on your most personal device. This opens up completely new opportunities for designing next-generation human-machine communication methods and interfaces that can be applied from mobile devices to AR and VR environments. Simultaneously it is the next step to augment human and machine thinking in an inseparable way.
+
+
+ milindri/Getty Images
+Uber has bucked convention from the outset, so it wasn’t entirely surprising when, earlier today, company cofounder and CEO Travis Kalanick announced that he’s taking a leave of absence from his San Francisco-based ride-hailing juggernaut —  without naming an interim CEO or disclosing a return date.
+Instead, Kalanick told employees, the company will be run by his direct reports. Meanwhile, owing to the results of a probe led by former U.S. attorney general Eric Holder — who was hired to look into allegations of harassment, bullying, and discrimination at the company — some of Kalanick’s responsibilities will be shared or given outright to other senior executives when he does return.
+Of course, it all begs the question of how long a 12,000-person company that’s valued at between $60 billion and $70 billion can operate without an active CEO.
+Jeffrey Pfeffer, a renowned professor at Stanford’s Graduate School of Business who has written extensively about organization theory, suggests the answer is, pretty long, particularly given that Kalanick will still have his hand in executive decision-making.
+“My sense is that most of what Uber has done is to ‘signal’ that they are changing,” says Pfeffer. “Whether they are [truly implementing change] is another matter.”
+Consider: If there are disagreements between sales and operations, who will settle them? If one of Kalanick’s direct reports threatens to quit or takes another job, who has the authority to fill that role? Assuming Uber’s COO search continues, who is doing the interviewing? If it’s Kalanick — who said today that he’ll “still be available as needed for the most strategic decisions ” — then he’s not really taking a leave.
+Still, Uber had to do something, says one well-known crisis communications expert who asked not to be named. “As long as Travis was in the CEO role, the company would continue to be the focus of media attention and would be likely the focus of criticism. I think this maneuver puts an end to it, because the focus of all that media criticism is now gone.”
+Uber’s move isn’t entirely unprecedented — though it comes close. Pfeffer notes, for example, that it’s not uncommon for CEOs to take a leave of absence, pointing to Oscar Munoz of United Airlines, who took a leave of absence in 2015 to have a heart transplant, and who returned to the role in 2016.
+Another CEO who recently took a leave of absence: Ron Wainshal, the CEO of the commercial aircraft leasing company Aircastle, who was granted time away in January to focus on his health (and who announced yesterday that he’s now resigning entirely to “focus on a speedy recovery”).
+Of course, both Munoz and Wainshal stepped aside for medical reasons. Jeff Cohn — a succession planning expert at the New York-based leadership development firm Elevate Partners —  says he has never before seen a CEO step aside when there wasn’t a medical reason for it.
+“Perhaps it has happened,” says Cohn. “But I can’t think of any high-profile situations where a board has encouraged its CEO to step aside in the context of becoming a better leader.”
+There’s a reason for that, says Cohn, who claims it “doesn’t work. You can take a week-long executive leadership course on empathy or resiliency, but you don’t develop these skills in weeks or months. It takes years to address fundamental leadership issues. Anything else is window dressing.”
+In fairness, says Pfeffer, Kalanick has likely been “knocked a little off kilter” by the unexpected passing of his mother in a boating accident late last month. “Surely that “profoundly affected his family, on top of all the media blitz,” he notes.
+Yet a far stronger motivation for Kalanick not to name an interim CEO, presumably, is to minimize the possibility of a power struggle upon his return. Says Pfeffer, “His return is more certain as there is no one ‘in the role.'”
+Only time will determine the impact of that decision. For his part, Cohn thinks it’s a mistake. “Leading from the shadows when you’re such a powerful founder —  it won’t work. [Kalanick’s direct reports] will always be second-guessing themselves now and wondering what Travis would do in a particular situation. Even if he’s not physically there, they’ll be wondering if they have to get his approval. It’s a terrible way to lead.”
+Ultimately, says Cohn, “I think the board and even Travis will figure out that they need to get an interim CEO in there.”
+Pfeffer disagrees wholeheartedly.  “Yes, some senior friends of Travis are gone, and some people he hired have left.  But my forecast is for the company to push along.  Some things with respect to the culture, and particularly their treatment of women — and customers — will and should change,” Pfeffer says. “But Uber is going to be Uber, mostly because it is actually not that different from many of their brethren.”
+Either way, it seems increasingly likely that unless Kalanick has a massive charge of heart, it may prove impossible for dislodge him from his role. Not only does he have a famously hard-charging personality, but he has super voting rights that protect his position. As the New York Times reported this morning, Kalanick has also separately established a mechanism through which he garners more control every time an employee sells some shares.
+That kind of foresight is what’s turned Uber into such a valuable company; it has also rendered Uber’s influential board members somewhat powerless.
+“Ever since the Steve Jobs saga at Apple, Silicon Valley founders have tried to make sure they won’t have a similar experience,” Pfeffer notes, “and for the most part, they’ve done exceptionally well at that.
+The idea that a strong founder like Kalanick would be be pushed aside? It was always far-fetched, says Pfeffer, adding: “Ms. Holmes still runs Theranos, in case you didn’t notice.”
+
+
+At least one Uber board member didn’t seem to get the memo about sex discrimination and the changes Uber is trying to make from within. In an audio taping of the company all-hands meeting today about sex discrimination, board member David Bonderman said adding more women to the board meant more talking. Yes, he really said that!
+Board member Arianna Huffington can be heard at 6:40 on an audio recording of the meeting recovered by Yahoo Finance discussing the bonus of adding a woman to the board.
+Huffington: “There’s a lot of data that shows when there’s one woman on the board, it’s much more likely that there will be a second woman on the board.”
+Bonderman: “Actually, what it shows is that it’s much more likely to be more talking.”
+Huffington then coddles this grown man who seems to have learned nothing from a cascade of recent events that have tarnished Uber’s reputation, saying, “Oh come on, don’t worry David. David will have a lot of talking to do.”
+David should not be talking. At all.
+Bonderman has allegedly issued a statement of apology to Uber employees. According to New York Times reporter Mike Isaac, the statement, forwarded by HR head Liane Hornsey reads, “I want to apologize to my fellow board member for a disrespectful comment that was directed at her during today’s discussion. It was inappropriate. I also want to apologize to all Uber employees who were offended by the remark. I deeply regret it.”
+
+
+from a source, this is Bonderman's apology, fwded from Liane Hornsey to all employees. 
+
+
+Huffington also addressed CEO Travis Kalanick’s absence, telling employees he would be taking some time off due to the “confluence of recent events, the death of his mother, whom he buried on Friday, and all that the company has been going through in the last few months.”
+Uber’s board agreed on Sunday to adopt all 10 recommendations given by law firm Covington & Burling LLP — including a diminished role for Kalanick and improved HR practices — after an internal investigation into the company’s toxic culture led to at least 20 employees and several top executives being dismissed from the company.
+Uber, which is now supposedly implementing all of the recommendations approved by the board and handed to the company today, clearly has a long way to go before everyone gets it.
+Update: Bonderman has resigned in response to his sexist remarks. 
+“I appreciate David doing the right thing for Uber at this time of critical cultural changes at the company,” Huffington said in a statement.
