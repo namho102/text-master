@@ -8,7 +8,7 @@ from wordcloud import WordCloud, STOPWORDS
 d = path.dirname(__file__)
 
 # Read the whole text.
-text = open(path.join(d, 'classifier/tech.txt')).read()
+text = open(path.join(d, '../classifier/entertainment.txt')).read()
 
 # read the mask image
 # taken from
@@ -19,12 +19,14 @@ stopwords = set(STOPWORDS)
 stopwords.add("said")
 stopwords.add("also")
 stopwords.add("will")
-
+stopwords.add("one")
+stopwords.add("time")
+stopwords.add("say")
 
 wc = WordCloud(max_words=3000, width=1366, height=768, stopwords=stopwords)
 # generate word cloud
 wc.generate(text)
 
 # store to file
-wc.to_file(path.join(d, "techcloud.png"))
+wc.to_file(path.join(d, "entertainmentcloud.png"))
 
