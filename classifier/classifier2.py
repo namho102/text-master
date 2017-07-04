@@ -22,8 +22,8 @@ tech_list = text2.strip().replace('\n', ' ').split('.')
 
 arr = []
 for i in range(0, 5000, 3):
-    arr.append((sport_list[i] + sport_list[i + 1] + sport_list[i + 2], 'Sport'))
-    arr.append((tech_list[i] + tech_list[i + 1] + tech_list[i + 2], 'Tech'))
+    arr.append((sport_list[i] + ' ' + sport_list[i + 1] + ' ' + sport_list[i + 2], 'Sport'))
+    arr.append((tech_list[i] + ' ' + tech_list[i + 1] + ' ' + tech_list[i + 2], 'Tech'))
 #
 # arr = []
 # for i in range(0, 5000, 2):
