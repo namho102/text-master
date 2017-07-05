@@ -13,9 +13,10 @@ file2 = open('tech.txt', 'r')
 text2 = file2.read().decode('utf-8').encode("ascii", "ignore")
 
 
-sport_list = text1.strip().replace('\n', '').split('.')
-tech_list = text2.strip().replace('\n', ' ').split('.')
-
+# sport_list = text1.strip().replace('\n', '').split('.')
+# tech_list = text2.strip().replace('\n', ' ').split('.')
+sport_list = text1.strip().split('.')
+tech_list = text2.strip().split('.')
 # print(sport_list[15:100])
 # print(len(sport_list))
 # print(len(tech_list))

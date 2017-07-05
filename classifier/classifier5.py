@@ -1,40 +1,47 @@
 import random
+
 import time
+from nltk import tokenize
 from textblob.classifiers import NaiveBayesClassifier
+from re import sub
 
+topics = ['sport', 'entertainment', 'tech']
 
-def get_topic_list(topic_name):
-    topic_list = []
-    with open(topic_name + '.txt','r') as f:
-        text = f.read().decode('utf-8').encode("ascii", "ignore")
-        nums = [1, 1, 2, 2, 3, 3, 4]
-        sentence_list = text.strip().replace('\n', '').split('.')
+def read_file(topic_name):
+    with open(topic_name + '.txt','rU') as f:
+        raw = f.read().decode('utf-8').encode("ascii", "ignore")
+        sentence_list = tokenize.sent_tokenize(raw)
+        group_number = 3
         cnt = 0
-
-        while (cnt + 5 < len(sentence_list)):
+        group_sentences = []
+        while (cnt + group_number < len(sentence_list)):
             para = ''
-            number_sentence = random.choice(nums)
-            for i in range(cnt, number_sentence + cnt):
+            for i in range(cnt, group_number + cnt):
                 para += sentence_list[i] + ' '
-            cnt += number_sentence
-            if len(para.strip(' ')) > 0:
-                if para[0].isalpha() and para[0].isupper():
-                    topic_list.append((para, topic_name))
+            cnt += group_number
+            group_sentences.append((sub(' +', ' ', para), topic_name))
 
-        return topic_list
+        return group_sentences
+
+def get_full_list(topics):
+    full_list = []
+    for topic in topics:
+        topic_list = read_file(topic)
+        full_list += topic_list
+
+    return full_list
 
 
-tech_list = get_topic_list('tech')
-sport_list = get_topic_list('sport')
-entertainment_list = get_topic_list('entertainment')
+start_time = time.time()
 
-full_list = tech_list[:4681]  + entertainment_list
-
-sample = random.sample(full_list, 1000)
+full_list = get_full_list(topics)
+sample = random.sample(full_list, 2000)
 split_length = int(round(len(sample)*0.7))
 # train - test 7/3
 train = sample[0:split_length]
 test = sample[split_length:]
+
+print("--- %s preprocess time ---" % (time.time() - start_time))
 
 start_time = time.time()
 
@@ -43,7 +50,7 @@ print('Modelling . . .')
 cl = NaiveBayesClassifier(train)
 
 print("--- %s train time ---" % (time.time() - start_time))
-# cl.show_informative_features(5)
+cl.show_informative_features(5)
 start_time = time.time()
 
 print(cl.classify("Yesterday, Amazon and Whole Foods ruined a perfectly slow news day on a Friday in June with the announcement that Amazon intends to buy Whole Foods for almost $14 billion."))
@@ -61,8 +68,3 @@ print("--- %s classify time ---" % (time.time() - start_time))
 start_time = time.time()
 print(cl.accuracy(test)) # 93%
 print("--- %s accuracy time ---" % (time.time() - start_time))
-
-while True:
-    print "Enter a sentence:",
-    sentence = raw_input()
-    print(cl.classify(sentence))
