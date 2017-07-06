@@ -19,8 +19,10 @@ def read_file(topic_name):
             for i in range(cnt, group_number + cnt):
                 para += sentence_list[i] + ' '
             cnt += group_number
-            group_sentences.append((sub(' +', ' ', para), topic_name))
+            # group_sentences.append((sub(' +', ' ', para), topic_name))
+            group_sentences.append((" ".join(para.split()), topic_name))
 
+        # print group_sentences[:10]
         return group_sentences
 
 def get_full_list(topics):
@@ -35,7 +37,8 @@ def get_full_list(topics):
 start_time = time.time()
 
 full_list = get_full_list(topics)
-sample = random.sample(full_list, 2000)
+print(len(full_list))
+sample = random.sample(full_list, 1000)
 split_length = int(round(len(sample)*0.7))
 # train - test 7/3
 train = sample[0:split_length]
@@ -50,7 +53,7 @@ print('Modelling . . .')
 cl = NaiveBayesClassifier(train)
 
 print("--- %s train time ---" % (time.time() - start_time))
-cl.show_informative_features(5)
+# cl.show_informative_features(5)
 start_time = time.time()
 
 print(cl.classify("Yesterday, Amazon and Whole Foods ruined a perfectly slow news day on a Friday in June with the announcement that Amazon intends to buy Whole Foods for almost $14 billion."))
@@ -66,5 +69,5 @@ print(cl.classify("Hit the road: your art on the theme of transportation"))
 print("--- %s classify time ---" % (time.time() - start_time))
 #
 start_time = time.time()
-print(cl.accuracy(test)) # 93%
+print(cl.accuracy(test)) # 74.6
 print("--- %s accuracy time ---" % (time.time() - start_time))
