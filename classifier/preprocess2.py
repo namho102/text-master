@@ -12,15 +12,15 @@ def write_csv(topic):
         with open('news.csv', 'a') as csvfile:
             writer = csv.writer(csvfile)
 
-            setence_list = text.strip().replace('\n', '').split('.')
+            sentence_list = text.strip().replace('\n', '').split('.')
 
             cnt = 0
 
-            while (cnt + 5 < len(setence_list)):
+            while (cnt + 5 < len(sentence_list)):
                 para = ''
                 number_sentence = random.choice(nums)
                 for i in range(cnt, number_sentence + cnt):
-                    para += setence_list[i] + ' '
+                    para += sentence_list[i] + ' '
                 cnt += number_sentence
                 if len(para.strip(' ')) > 0:
                     if para[0].isalpha() and para[0].isupper():

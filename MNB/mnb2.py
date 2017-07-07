@@ -57,11 +57,12 @@ def train(C, D):
 
 
 def extract_tokens_from_doc(V, d):
-    word_list = []
-    for t in d:
-        if t in V:
-            word_list.append(t)
-    return word_list
+    return [t for t in d if t in V]
+    # word_list = []
+    # for t in d:
+    #     if t in V:
+    #         word_list.append(t)
+    # return word_list
 
 def apply(C, V, prior, condprob, d):
     W = extract_tokens_from_doc(V, d)
@@ -75,15 +76,11 @@ def apply(C, V, prior, condprob, d):
     return max(score, key=score.get)
 
 def get_topic_list(topic_name):
-    with open(topic_name + '.txt','rU') as f:
+    with open(topic_name + '_.txt','rU') as f:
         raw = f.read().decode('utf-8').encode("ascii", "ignore")
+        # very simple tokenize
         sentence_list = raw.split('.')
-        # sentence_list = tokenize.sent_tokenize(raw)
-        # group_sentences = []
-        # for s in sentence_list:
-        #     group_sentences.append((s, topic_name))
-        #
-        # return group_sentences
+
         return [(s, topic_name) for s in sentence_list]
 
 def get_full_list(topics):
