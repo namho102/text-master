@@ -320,3 +320,9 @@ yourself
 yourselves
 did
 didnt
+youre
+youd
+theres
+id
+thats
+its

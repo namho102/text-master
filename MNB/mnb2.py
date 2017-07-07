@@ -1,5 +1,7 @@
 import math
 import random
+
+import time
 from nltk import tokenize
 
 def extract_vocabulary(D):
@@ -104,10 +106,12 @@ if __name__ == "__main__":
     # D = [('Chinese Beijing Chinese', 'yes'), ('Chinese Chinese Shanghai', 'yes'), ('Chinese Macao', 'yes'), ('Tokyo Japan Chinese', 'no')]
     C = ['sport', 'tech']
     full_list = get_full_list(C)
-    (D, test) = split_train_test(full_list, 1000)
+    (D, test) = split_train_test(full_list, 5000)
     print D[:10]
+    start_time = time.time()
 
     (V, prior, condprob) = train(C, D)
+    print("--- %s train time ---" % (time.time() - start_time))
 
     # c = apply(C, V, prior, condprob, 'Chinese Chinese Chinese Tokyo Japan')
 
