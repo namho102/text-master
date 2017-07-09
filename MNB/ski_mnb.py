@@ -9,7 +9,7 @@ def get_topic_list(topic_name):
         raw = f.read().decode('utf-8').encode("ascii", "ignore")
         # very simple tokenize
         # sentence_list = raw.split('.')
-        
+
         sentence_list = sent_tokenize(raw)
         return [(s, topic_name) for s in sentence_list]
 
@@ -45,7 +45,7 @@ vectorizer = TfidfVectorizer(sublinear_tf=True, max_df=0.5, stop_words='english'
 X_train = vectorizer.fit_transform(X_train)
 X_test = vectorizer.transform(X_test )
 
-clf = BernoulliNB(alpha=.01)
+clf = MultinomialNB(alpha=.01)
 clf.fit(X_train, y_train)
 
 
