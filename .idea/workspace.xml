@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/tokenizer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classifier/sport_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classifier/tech_.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/entertainment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/ski_mnb.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/mnb2.py" afterPath="$PROJECT_DIR$/MNB/mnb2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/preprocess3.py" afterPath="$PROJECT_DIR$/MNB/preprocess3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/sport.txt" afterPath="$PROJECT_DIR$/MNB/sport.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/stop-word-list.txt" afterPath="$PROJECT_DIR$/MNB/stop-word-list.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/tech.txt" afterPath="$PROJECT_DIR$/MNB/tech.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text.txt" afterPath="$PROJECT_DIR$/MNB/text.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classifier/classifier5.py" afterPath="$PROJECT_DIR$/classifier/classifier5.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,21 +23,11 @@
       <file leaf-file-name="preprocess3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
+            <state relative-caret-position="361">
               <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sport.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/sport.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="25619" column="44" lean-forward="false" selection-start-line="25619" selection-start-column="44" selection-end-line="25619" selection-end-column="44" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -59,31 +42,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stop-word-list.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/stop-word-list.txt">
+      <file leaf-file-name="classifier6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classifier/classifier6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="260" column="4" lean-forward="false" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="4" />
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tokenizer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/tokenizer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mnb2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mnb2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/mnb2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="117" column="56" lean-forward="false" selection-start-line="117" selection-start-column="50" selection-end-line="117" selection-end-column="56" />
+            <state relative-caret-position="90">
+              <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="93" selection-end-column="20" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -91,11 +64,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tech_.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/tech_.txt">
+      <file leaf-file-name="classifier4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classifier/classifier4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="27607" lean-forward="false" selection-start-line="0" selection-start-column="27607" selection-end-line="0" selection-end-column="27607" />
+            <state relative-caret-position="64">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="56" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ski_mnb.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MNB/ski_mnb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stop-word-list.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/stop-word-list.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="263" column="5" lean-forward="true" selection-start-line="263" selection-start-column="5" selection-end-line="263" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -104,8 +99,8 @@
       <file leaf-file-name="tech.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/tech.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="26486" column="48" lean-forward="false" selection-start-line="26486" selection-start-column="48" selection-end-line="26486" selection-end-column="48" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -116,16 +111,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mnb.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/mnb.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="46" column="29" lean-forward="false" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -142,10 +127,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Share this slide:</find>
-      <find>Donald Trump</find>
-      <find>WWII museum,</find>
-      <find>watch</find>
       <find>news</find>
       <find>rela</find>
       <find>setence_list</find>
@@ -172,10 +153,15 @@
       <find>said</find>
       <find>that</find>
       <find>this</find>
+      <find>trim</find>
+      <find>cl.classify</find>
+      <find>art</find>
+      <find>art</find>
     </findStrings>
     <replaceStrings>
       <replace>sentence_list</replace>
       <replace>'</replace>
+      <replace>clf.predict</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -184,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/news-crawler/techcrunch.txt" />
         <option value="$PROJECT_DIR$/news-crawler/techcrunch2.txt" />
         <option value="$PROJECT_DIR$/news-crawler/fre_res.py" />
         <option value="$PROJECT_DIR$/news-crawler/soup2.py" />
@@ -235,6 +220,7 @@
         <option value="$PROJECT_DIR$/MNB/preprocess3.py" />
         <option value="$PROJECT_DIR$/MNB/stop-word-list.txt" />
         <option value="$PROJECT_DIR$/MNB/mnb2.py" />
+        <option value="$PROJECT_DIR$/MNB/ski_mnb.py" />
       </list>
     </option>
   </component>
@@ -320,16 +306,16 @@
     </panes>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/classifier" />
-      <recent name="$PROJECT_DIR$/MNB" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MNB" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/news-crawler/tech" />
       <recent name="$PROJECT_DIR$/news-crawler/sports" />
       <recent name="$PROJECT_DIR$/news-crawler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MNB" />
+      <recent name="$PROJECT_DIR$/classifier" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -344,25 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mnb2">
-    <configuration default="false" name="mnb" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/mnb.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ski_mnb">
     <configuration default="false" name="mnb2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -435,6 +403,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="ski_mnb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/ski_mnb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -500,19 +486,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.mnb" />
-      <item index="1" class="java.lang.String" itemvalue="Python.mnb2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.preprocess3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.classifier5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tokenizer" />
+      <item index="0" class="java.lang.String" itemvalue="Python.mnb2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.preprocess3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.classifier5" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tokenizer" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ski_mnb" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.mnb2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.preprocess3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tokenizer" />
-        <item index="3" class="java.lang.String" itemvalue="Python.classifier5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.mnb" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ski_mnb" />
+        <item index="1" class="java.lang.String" itemvalue="Python.mnb2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.preprocess3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tokenizer" />
+        <item index="4" class="java.lang.String" itemvalue="Python.classifier5" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499419256805</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update tokenizer">
+      <created>1499589571194</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1499589571194</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -590,12 +583,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="727" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15530303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2090909" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30860034" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32546374" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -620,29 +614,22 @@
     <MESSAGE value="Add MULTINOMIAL NB :sparkles:" />
     <MESSAGE value="Update MULTINOMIAL NB :sparkles:" />
     <MESSAGE value="Clean text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean text" />
+    <MESSAGE value="Update tokenizer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update tokenizer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/classifier/classifier6.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NB/pre_processing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NB/log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459">
-          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nbsvm/nbsvm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1080">
@@ -690,13 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/news.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="98" lean-forward="false" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
         </state>
       </provider>
     </entry>
@@ -797,13 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/classifier3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classifier/entertainment.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -852,14 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/classifier6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classifier/preprocess2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -876,22 +841,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/classifier4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="51" column="49" lean-forward="true" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classifier/classifier5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -928,22 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/tech.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="26486" column="48" lean-forward="false" selection-start-line="26486" selection-start-column="48" selection-end-line="26486" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MNB/sport.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -952,21 +891,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
+    <entry file="file://$PROJECT_DIR$/classifier/news.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-3330">
+          <caret line="4" column="98" lean-forward="false" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/stop-word-list.txt">
+    <entry file="file://$PROJECT_DIR$/classifier/classifier3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="260" column="4" lean-forward="false" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="4" />
+        <state relative-caret-position="-342">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/classifier6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/tech.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/mnb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="93" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -978,12 +949,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/mnb2.py">
+    <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="117" column="56" lean-forward="false" selection-start-line="117" selection-start-column="50" selection-end-line="117" selection-end-column="56" />
+        <state relative-caret-position="361">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/classifier4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="56" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/entertainment.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="142" column="344" lean-forward="false" selection-start-line="142" selection-start-column="340" selection-end-line="142" selection-end-column="344" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/stop-word-list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="263" column="5" lean-forward="true" selection-start-line="263" selection-start-column="5" selection-end-line="263" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/ski_mnb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
