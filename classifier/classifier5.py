@@ -5,10 +5,11 @@ from nltk import tokenize
 from textblob.classifiers import NaiveBayesClassifier
 from re import sub
 
-topics = ['sport', 'entertainment', 'tech']
+# topics = ['sport', 'entertainment', 'tech']
+topics = ['sport', 'tech']
 
 def read_file(topic_name):
-    with open(topic_name + '.txt','rU') as f:
+    with open(topic_name + '_.txt','rU') as f:
         raw = f.read().decode('utf-8').encode("ascii", "ignore")
         sentence_list = tokenize.sent_tokenize(raw)
         group_number = 3
@@ -38,7 +39,7 @@ start_time = time.time()
 
 full_list = get_full_list(topics)
 print(len(full_list))
-sample = random.sample(full_list, 1000)
+sample = random.sample(full_list, 300)
 split_length = int(round(len(sample)*0.7))
 # train - test 7/3
 train = sample[0:split_length]

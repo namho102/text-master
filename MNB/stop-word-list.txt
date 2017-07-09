@@ -57,6 +57,7 @@ but
 by
 call
 can
+ca
 cannot
 cant
 co
@@ -215,6 +216,7 @@ seemed
 seeming
 seems
 serious
+said
 several
 she
 should
@@ -301,6 +303,7 @@ whether
 which
 while
 whither
+wo
 who
 whoever
 whole
@@ -326,3 +329,7 @@ theres
 id
 thats
 its
+got
+ta
+wan
+na

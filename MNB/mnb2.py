@@ -2,7 +2,7 @@ import math
 import random
 
 import time
-from nltk import tokenize
+from nltk import word_tokenize
 
 def extract_vocabulary(D):
     list_of_words = []
@@ -61,7 +61,7 @@ def train(C, D):
 def extract_tokens_from_doc(V, d):
     return [t for t in d if t in V]
     # word_list = []
-    # for t in d:
+    # for t in d:avi
     #     if t in V:
     #         word_list.append(t)
     # return word_list
@@ -78,7 +78,7 @@ def apply(C, V, prior, condprob, d):
     return max(score, key=score.get)
 
 def get_topic_list(topic_name):
-    with open(topic_name + '_.txt','rU') as f:
+    with open(topic_name + '.txt','rU') as f:
         raw = f.read().decode('utf-8').encode("ascii", "ignore")
         # very simple tokenize
         sentence_list = raw.split('.')
@@ -121,3 +121,11 @@ if __name__ == "__main__":
     print(apply(C, V, prior, condprob, "Giroud scored 16 goals last season but started only 11 Premier League matches with manager Arsene Wenger preferring to deploy Alexis Sanchez in a central striking role"))
     print(apply(C, V, prior, condprob, "A bidding war is set to break out as Cristiano Ronaldo's Bernabeu exit beckons"))
     print(apply(C, V, prior, condprob, "Instead there could be two periods of 30 minutes with the clock stopped whenever the ball goes out of play"))
+
+    # test
+    correct_case = 0
+    for case in test:
+        if apply(C, V, prior, condprob, case[0]) == case[1]:
+            correct_case += 1
+
+    print float(correct_case)/len(test)
