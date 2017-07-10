@@ -6,7 +6,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleW
 file = open('cnn.txt', 'a')
 
 #July - June
-for i in range(80, 83):
+for i in range(241, 250):
     print URL %i
     r = requests.get(URL % i, headers = headers)
     # print r.text

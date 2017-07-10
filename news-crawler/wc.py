@@ -8,7 +8,7 @@ from wordcloud import WordCloud, STOPWORDS
 d = path.dirname(__file__)
 
 # Read the whole text.
-text = open(path.join(d, 'business/abc.txt')).read()
+text = open(path.join(d, 'business/cnn.txt')).read()
 
 # read the mask image
 # taken from
@@ -28,5 +28,5 @@ wc = WordCloud(max_words=3000, width=1366, height=768, stopwords=stopwords)
 wc.generate(text)
 
 # store to file
-wc.to_file(path.join(d, "abc.png"))
+wc.to_file(path.join(d, "cnn.png"))
 
