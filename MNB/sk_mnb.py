@@ -70,7 +70,7 @@ my_test = ["Yesterday, Amazon and Whole Foods ruined a perfectly slow news day o
            "Instead, there could be two periods of 30 minutes with the clock stopped whenever the ball goes out of play.",
            "If you've been watching any of the hottest TV properties this season, you might have noticed that bludgeoning is kind of the new black.",
            "Adele Fans Unite for Tribute Performances of Her Songs After She Cancels Concerts",
-           "Hit the road: your art on the theme of transportation",
+           "A fortnight ago, fashion's glitterati were saluting the enduring legacy of Alexandra Shulman at Vogue.",
            "Koch Brothers Net Worth: How Much Money Do Political Donors Have?",
            "The company suffered a year-on-year decrease in operating profits of 2.19 trillion won ($1.93 billion) in the third quarter of the 2016 fiscal year.",
            "Carillion's shares plunged after the company announced that results would be below expectations, and that CEO Richard Howson was stepping down."]
