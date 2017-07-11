@@ -14,7 +14,21 @@ def get_topic_list(topic_name):
         # sentence_list = raw.split('.')
 
         sentence_list = sent_tokenize(raw)
-        return [(s, topic_name) for s in sentence_list]
+        group_number = 3
+        cnt = 0
+        group_sentences = []
+        while (cnt + group_number < len(sentence_list)):
+            para = ''
+            for i in range(cnt, group_number + cnt):
+                para += sentence_list[i] + ' '
+            cnt += group_number
+            # group_sentences.append((sub(' +', ' ', para), topic_name))
+            group_sentences.append((" ".join(para.split()), topic_name))
+
+        # print group_sentences[:10]
+        return group_sentences
+
+        # return [(s, topic_name) for s in sentence_list]
 
 def get_full_list(topics):
     full_list = []
@@ -52,6 +66,7 @@ vectorizer = TfidfVectorizer(sublinear_tf=True, max_df=0.5, stop_words='english'
 X_train = vectorizer.fit_transform(X_train)
 X_test = vectorizer.transform(X_test )
 
+# clf = BernoulliNB(alpha=.01)
 clf = MultinomialNB(alpha=.01)
 # clf = LinearSVC(penalty='l1', dual=False, tol=1e-3)
 time1 = time.time()
