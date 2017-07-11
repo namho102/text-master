@@ -8,7 +8,7 @@ from wordcloud import WordCloud, STOPWORDS
 d = path.dirname(__file__)
 
 # Read the whole text.
-text = open(path.join(d, 'society/politico.txt')).read()
+text = open(path.join(d, 'society/reuters_world.txt')).read()
 
 # read the mask image
 # taken from

@@ -27,6 +27,7 @@ def get_full_list(topics):
 def split_train_test(full_list, size):
 
     sample = random.sample(full_list, size)
+    # sample = full_list
     split_length = int(round(len(sample) * 0.7))
 
     train_data = sample[0:split_length]
@@ -38,7 +39,7 @@ def split_train_test(full_list, size):
     return (X_train, y_train, X_test, y_test)
 
 
-topics = ['tech', 'sport', 'entertainment', 'business']
+topics = ['tech', 'sport', 'entertainment', 'business', 'society']
 time0 = time.time()
 full_list = get_full_list(topics)
 (X_train, y_train, X_test, y_test) = split_train_test(full_list, len(full_list))
@@ -75,7 +76,12 @@ my_test = ["Yesterday, Amazon and Whole Foods ruined a perfectly slow news day o
            "A fortnight ago, fashion's glitterati were saluting the enduring legacy of Alexandra Shulman at Vogue.",
            "Koch Brothers Net Worth: How Much Money Do Political Donors Have?",
            "The company suffered a year-on-year decrease in operating profits of 2.19 trillion won ($1.93 billion) in the third quarter of the 2016 fiscal year.",
-           "Carillion's shares plunged after the company announced that results would be below expectations, and that CEO Richard Howson was stepping down."]
+           "Carillion's shares plunged after the company announced that results would be below expectations, and that CEO Richard Howson was stepping down.",
+           "U.S. issues travel advisory for India amid fears of Islamic State attacks",
+           "Kaine on Thursday voted to give Mattis a waiver that will allow him to bypass the requirement that Defense secretaries be out of uniform for at least seven years.",
+           "Leaders are expected to brief rank-and-file Republican senators Tuesday during their weekly lunch on revisions they have made to the legislation."
+           ]
+
 
 
 my_pred = clf.predict(vectorizer.transform(my_test))
