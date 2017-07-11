@@ -4,6 +4,7 @@ import time
 from nltk import sent_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import BernoulliNB, MultinomialNB
+from sklearn.svm import LinearSVC
 from sklearn import metrics
 
 def get_topic_list(topic_name):
@@ -51,6 +52,7 @@ X_train = vectorizer.fit_transform(X_train)
 X_test = vectorizer.transform(X_test )
 
 clf = MultinomialNB(alpha=.01)
+# clf = LinearSVC(penalty='l1', dual=False, tol=1e-3)
 time1 = time.time()
 clf.fit(X_train, y_train)
 
