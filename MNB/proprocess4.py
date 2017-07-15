@@ -4,7 +4,7 @@ from nltk import sent_tokenize
 import re
 
 def write_csv(topic):
-    with open(topic + '.txt','r') as f:
+    with open('text/' + topic + '.txt','r') as f:
         text = f.read().decode('utf-8').encode("ascii", "ignore")
 
         nums = [2, 3, 4]

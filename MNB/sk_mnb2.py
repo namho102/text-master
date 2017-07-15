@@ -9,7 +9,7 @@ from sklearn import metrics
 import csv
 
 def get_topic_list(topic_name):
-    with open(topic_name + '.csv','rb') as f:
+    with open('csv/' + topic_name + '.csv','rb') as f:
         reader = csv.reader(f)
         news_list = []
         for row in reader:
@@ -54,12 +54,13 @@ X_test = vectorizer.transform(X_test )
 
 # clf = BernoulliNB(alpha=.01)
 clf = MultinomialNB(alpha=.01)
-# clf = LinearSVC(penalty='l1', dual=False, tol=1e-3)
+# clf = LinearSVC(penalty='l2', dual=False, tol=1e-3)
 time1 = time.time()
 clf.fit(X_train, y_train)
 
 print("--- %s train time ---" % (time.time() - time1))
 pred = clf.predict(X_test)
+
 
 # print("test time:  %0.3fs" % test_time)
 
@@ -87,5 +88,3 @@ my_test = ["Yesterday, Amazon and Whole Foods ruined a perfectly slow news day o
 
 my_pred = clf.predict(vectorizer.transform(my_test))
 print my_pred
-
-
