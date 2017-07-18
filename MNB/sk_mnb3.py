@@ -7,7 +7,7 @@ from sklearn.naive_bayes import BernoulliNB, MultinomialNB
 from sklearn.svm import LinearSVC
 from sklearn import metrics
 import csv
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report, confusion_matrix
 
 def get_topic_list(topic_name):
     with open('csv/' + topic_name + '.csv','rb') as f:
@@ -69,6 +69,7 @@ score = metrics.accuracy_score(y_test, pred)
 print("accuracy:   %0.3f" % score)
 
 print(classification_report(y_test, pred, target_names=topics))
+print(confusion_matrix(y_test, pred))
 
 my_test = ["Yesterday, Amazon and Whole Foods ruined a perfectly slow news day on a Friday in June with the announcement that Amazon intends to buy Whole Foods for almost $14 billion.",
            "Whenever a product is updated, there inevitably are people who grumble about change and wish things had stayed the same.",

@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NB_SVM/csv/business.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NB_SVM/csv/entertainment.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NB_SVM/csv/society.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NB_SVM/csv/sport.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NB_SVM/csv/tech.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NB_SVM/nbsvm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/sk_mnb4.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/sk_mnb3.py" afterPath="$PROJECT_DIR$/MNB/sk_mnb3.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +22,7 @@
       <file leaf-file-name="sk_mnb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/sk_mnb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
+            <state relative-caret-position="0">
               <caret line="75" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -38,7 +34,7 @@
       <file leaf-file-name="classifier3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classifier/classifier3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
+            <state relative-caret-position="0">
               <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="18" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -50,7 +46,7 @@
       <file leaf-file-name="proprocess4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/proprocess4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="-239">
               <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -59,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sk_mnb2.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sk_mnb2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MNB/sk_mnb2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="54" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -74,8 +70,8 @@
       <file leaf-file-name="sk_mnb3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="54" />
+            <state relative-caret-position="172">
+              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="43" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -83,11 +79,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nbsvm.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sk_mnb4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/sk_mnb4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nbsvm.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NB_SVM/nbsvm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="158" column="71" lean-forward="false" selection-start-line="158" selection-start-column="71" selection-end-line="158" selection-end-column="71" />
+            <state relative-caret-position="0">
+              <caret line="158" column="70" lean-forward="false" selection-start-line="158" selection-start-column="70" selection-end-line="158" selection-end-column="70" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -98,7 +106,7 @@
       <file leaf-file-name="res.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/res.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-36">
+            <state relative-caret-position="0">
               <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
               <folding />
             </state>
@@ -116,7 +124,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Do you have information you want to share with ? Here’s how.</find>
       <find>follow</find>
       <find>twitter</find>
       <find>2018</find>
@@ -146,6 +153,7 @@
       <find>s</find>
       <find>semeval_senti_f1</find>
       <find>accuracy_score</find>
+      <find>y_train</find>
     </findStrings>
     <replaceStrings>
       <replace>sentence_list</replace>
@@ -159,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/classifier/classifier4.py" />
         <option value="$PROJECT_DIR$/classifier/entertainment.txt" />
         <option value="$PROJECT_DIR$/news-crawler/culture/etonline.py" />
         <option value="$PROJECT_DIR$/classifier/classifier2.py" />
@@ -203,13 +210,14 @@
         <option value="$PROJECT_DIR$/MNB/hee.py" />
         <option value="$PROJECT_DIR$/MNB/sk_mn4.py" />
         <option value="$PROJECT_DIR$/MNB/proprocess4.py" />
-        <option value="$PROJECT_DIR$/MNB/sk_mnb2.py" />
         <option value="$PROJECT_DIR$/MNB/res.txt" />
         <option value="$PROJECT_DIR$/NB_SVM/nbsvm" />
         <option value="$PROJECT_DIR$/NB_SVM/adsfdsf.py" />
         <option value="$PROJECT_DIR$/NB_SVM/nbsvm2.py" />
-        <option value="$PROJECT_DIR$/MNB/sk_mnb3.py" />
         <option value="$PROJECT_DIR$/NB_SVM/nbsvm.py" />
+        <option value="$PROJECT_DIR$/MNB/sk_mnb3.py" />
+        <option value="$PROJECT_DIR$/MNB/sk_mnb4.py" />
+        <option value="$PROJECT_DIR$/MNB/sk_mnb2.py" />
       </list>
     </option>
   </component>
@@ -280,6 +288,9 @@
       </pane>
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -307,25 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nbsvm">
-    <configuration default="false" name="sk_mn4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/sk_mnb2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.sk_mnb4">
     <configuration default="false" name="Unittests in sk_mnb3.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,22 +332,6 @@
       <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/MNB/sk_mnb3.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in nbsvm" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NB_SVM" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="_new_pattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/NB_SVM/nbsvm&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
@@ -392,6 +369,40 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sk_mnb4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/sk_mnb4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in sk_mnb2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/MNB/sk_mnb2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
@@ -479,19 +490,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sk_mn4" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sk_mnb3.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in nbsvm" />
-      <item index="3" class="java.lang.String" itemvalue="Python.nbsvm" />
-      <item index="4" class="java.lang.String" itemvalue="Python.adsfdsf" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in sk_mnb3.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.nbsvm" />
+      <item index="2" class="java.lang.String" itemvalue="Python.adsfdsf" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sk_mnb4" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in sk_mnb2.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.nbsvm" />
-        <item index="1" class="java.lang.String" itemvalue="Python.adsfdsf" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in nbsvm" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in sk_mnb3.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sk_mn4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sk_mnb4" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sk_mnb2.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in sk_mnb3.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.nbsvm" />
+        <item index="4" class="java.lang.String" itemvalue="Python.adsfdsf" />
       </list>
     </recent_temporary>
   </component>
@@ -625,16 +636,17 @@
       <option name="project" value="LOCAL" />
       <updated>1500106044955</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add SVM">
+      <created>1500109896025</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1500109896025</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_nbsvm - 2017.07.15 at 15h 13m 50s.xml">
-      <configuration name="Unittests in nbsvm" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_sk_mnb2_py - 2017.07.12 at 16h 02m 07s.xml">
-      <configuration name="Unittests in sk_mnb2.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_sk_mnb2_py - 2017.07.12 at 16h 02m 09s.xml">
       <configuration name="Unittests in sk_mnb2.py" configurationId="tests" />
     </history-entry>
@@ -645,6 +657,9 @@
       <configuration name="Unittests in sk_mnb2.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_sk_mnb2_py - 2017.07.12 at 16h 09m 21s.xml">
+      <configuration name="Unittests in sk_mnb2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_sk_mnb2_py - 2017.07.18 at 08h 26m 10s.xml">
       <configuration name="Unittests in sk_mnb2.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_sk_mnb3_py - 2017.07.12 at 16h 09m 33s.xml">
@@ -659,6 +674,9 @@
     <history-entry file="Unittests_in_sk_mnb3_py - 2017.07.15 at 14h 35m 18s.xml">
       <configuration name="Unittests in sk_mnb3.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_sk_mnb3_py - 2017.07.18 at 07h 22m 10s.xml">
+      <configuration name="Unittests in sk_mnb3.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -671,12 +689,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="727" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22954546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23712121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4064081" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36256325" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -689,6 +707,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -731,7 +750,8 @@
     <MESSAGE value="Add society section to training" />
     <MESSAGE value=" Add csv f" />
     <MESSAGE value="Update results" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update results" />
+    <MESSAGE value="Add SVM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add SVM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -741,28 +761,15 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/ibtimes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="7801" column="380" lean-forward="true" selection-start-line="7801" selection-start-column="380" selection-end-line="7801" selection-end-column="380" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news-crawler/huffpost.png" />
     <entry file="file://$PROJECT_DIR$/news-crawler/society/npr.txt" />
     <entry file="file://$PROJECT_DIR$/news-crawler/society/npr.py" />
-    <entry file="file://$PROJECT_DIR$/MNB/business.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="4" column="103" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="4" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/business.txt" />
     <entry file="file://$PROJECT_DIR$/news-crawler/society/politico2.txt" />
     <entry file="file://$PROJECT_DIR$/news-crawler/society/politico.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -786,13 +793,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/tech.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="26575" column="284" lean-forward="true" selection-start-line="26575" selection-start-column="284" selection-end-line="26575" selection-end-column="284" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/tech.txt" />
     <entry file="file://$PROJECT_DIR$/news-crawler/society.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -826,14 +827,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/society.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440784">
-          <caret line="24488" column="0" lean-forward="false" selection-start-line="24488" selection-start-column="0" selection-end-line="24488" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/society.txt" />
     <entry file="file://$PROJECT_DIR$/classifier/sport.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-540">
@@ -869,13 +863,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/sport.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/sport.txt" />
     <entry file="file://$PROJECT_DIR$/MNB/text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -883,13 +871,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/sport.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/sport.csv" />
     <entry file="file://$PROJECT_DIR$/classifier/classifier6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -904,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -912,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -920,15 +900,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classifier/classifier3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
+        <state relative-caret-position="0">
           <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="18" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -938,7 +915,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/sk_mnb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
+        <state relative-caret-position="0">
           <caret line="75" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -961,7 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -969,7 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="263" column="5" lean-forward="true" selection-start-line="263" selection-start-column="5" selection-end-line="263" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -977,7 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,50 +959,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nbsvm_run/liblinear-1.96/python/liblinear.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2376">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nbsvm_run/data/test-pos.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nbsvm/oh_my_go.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-279">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nbsvm/nbsvm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1300">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/nbsvm_run/liblinear-1.96/python/liblinear.py" />
+    <entry file="file://$PROJECT_DIR$/nbsvm_run/data/test-pos.txt" />
+    <entry file="file://$PROJECT_DIR$/nbsvm/oh_my_go.sh" />
+    <entry file="file://$PROJECT_DIR$/nbsvm/nbsvm.py" />
     <entry file="file://$PROJECT_DIR$/news-crawler/abc.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NB_SVM/nbsvm" />
+    <entry file="file://$PROJECT_DIR$/NB_SVM/adsfdsf.py" />
+    <entry file="file://$PROJECT_DIR$/NB_SVM/csv/tech.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NB_SVM/nbsvm2.py" />
+    <entry file="file://$PROJECT_DIR$/NB_SVM/nbsvm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="158" column="70" lean-forward="false" selection-start-line="158" selection-start-column="70" selection-end-line="158" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/res.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MNB/proprocess4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="-239">
           <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -1036,72 +1009,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NB_SVM/nbsvm">
+    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="164" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="201" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="172">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NB_SVM/adsfdsf.py">
+    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NB_SVM/csv/tech.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NB_SVM/nbsvm2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1386">
-          <caret line="100" column="45" lean-forward="true" selection-start-line="100" selection-start-column="45" selection-end-line="100" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/sk_mnb2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="54" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/res.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NB_SVM/nbsvm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="158" column="71" lean-forward="false" selection-start-line="158" selection-start-column="71" selection-end-line="158" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
