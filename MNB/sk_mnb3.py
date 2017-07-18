@@ -49,7 +49,7 @@ print("--- %s preprocess time ---" % (time.time() - time0))
 # print(X_test[:10])
 # print(y_test[:10])
 
-vectorizer = TfidfVectorizer(sublinear_tf=True, max_df=0.5, stop_words='english')
+vectorizer = TfidfVectorizer(max_df=0.3, stop_words='english')
 X_train = vectorizer.fit_transform(X_train)
 X_test = vectorizer.transform(X_test )
 

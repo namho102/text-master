@@ -25,15 +25,15 @@ def get_full_list(topics):
     return full_list
 
 def split_train_test(full_list):
-    sample = random.sample(full_list, 33000)
-    X = [sent[0] for sent in sample]
-    y = [sent[1] for sent in sample]
+    # sample = random.sample(full_list, 33000)
+    # X = [sent[0] for sent in sample]
+    # y = [sent[1] for sent in sample]
 
-    # X = [sent[0] for sent in full_list]
-    # y= [sent[1] for sent in full_list]
+    X = [sent[0] for sent in full_list]
+    y= [sent[1] for sent in full_list]
 
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=100)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
     return (X_train, y_train, X_test, y_test)
 
 
@@ -45,8 +45,9 @@ full_list = get_full_list(topics)
 print("--- %s preprocess time ---" % (time.time() - time0))
 
 # vectorizer = TfidfVectorizer(sublinear_tf=True, max_df=0.5, stop_words='english')
-# X_train = vectorizer.fit_transform(X_train)
-# X_test = vectorizer.transform(X_test)
+vectorizer = TfidfVectorizer(max_df=0.3, stop_words='english')
+X_train = vectorizer.fit_transform(X_train)
+X_test = vectorizer.transform(X_test)
 
 """ Pipeline: raw text ==> TFIDF ==> Linear SVM ==> banner """
 pl = Pipeline([
@@ -54,9 +55,9 @@ pl = Pipeline([
    ('classifier', MultinomialNB(alpha=.01))
    ])
 
-parameters = {'vectorizer__use_idf':[True,False],
-              'vectorizer__ngram_range':[(1,3)],
-              'vectorizer__max_df':[0.3, 0.5, 0.8],
+parameters = {'vectorizer__use_idf':[False, True],
+              # 'vectorizer__ngram_range':[(1,3)],
+              # 'vectorizer__max_df':[0.3, 0.5, 0.8],
               # 'vectorizer__sublinear_tf':[True, False]
               }
 
@@ -72,3 +73,4 @@ for param_name in sorted(parameters.keys()):
     print("\t%s: %r" % (param_name, best_parameters[param_name]))
 
 clf_best = grid_search.best_estimator_
+
