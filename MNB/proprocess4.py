@@ -29,6 +29,8 @@ def write_csv(topic):
                 # print re.sub(r"^\W+|\W+$", "", para)
                 writer.writerow((re.sub(r"^\W+|\W+$", "", para), topic))
 
-topics = ['tech', 'sport', 'entertainment', 'business', 'society']
-for topic in topics:
-    write_csv(topic)
+# topics = ['tech', 'sport', 'entertainment', 'business', 'society']
+# for topic in topics:
+#     write_csv(topic)
+
+write_csv('tech')
