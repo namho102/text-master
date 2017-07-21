@@ -7,7 +7,7 @@ file = open('gizmodo.txt', 'a')
 
 # r  = requests.get("https://techcrunch.com/page/2")
 
-for i in xrange(17, 20):
+for i in xrange(55, 60):
     index = 1400 + i*20
     r = requests.get(URL % index)
     print URL % index

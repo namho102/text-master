@@ -42,6 +42,7 @@ def split_train_test(full_list, size):
 topics = ['tech', 'sport', 'entertainment', 'business', 'society']
 time0 = time.time()
 full_list = get_full_list(topics)
+print(len(full_list))
 (X_train, y_train, X_test, y_test) = split_train_test(full_list, len(full_list))
 
 print("--- %s preprocess time ---" % (time.time() - time0))
@@ -53,8 +54,8 @@ X_train = vectorizer.fit_transform(X_train)
 X_test = vectorizer.transform(X_test )
 
 # clf = BernoulliNB(alpha=.01)
-clf = MultinomialNB(alpha=.01)
-# clf = LinearSVC(penalty='l2', dual=False, tol=1e-3)
+# clf = MultinomialNB(alpha=.01)
+clf = LinearSVC(penalty='l2', dual=False, tol=1e-3)
 time1 = time.time()
 clf.fit(X_train, y_train)
 

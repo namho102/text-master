@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/news-crawler/sports/counter_csv.py" line="6" />
+    <bookmark url="file://$PROJECT_DIR$/news-crawler/sport/counter_csv.py" line="6" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/gizmodo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/wired_science.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/sci_mnb.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/tech.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/stop-word-list.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/gizmodo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/gizmodo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/wired_science.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/wired_science.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news-crawler/tech/wired.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/abc.png" afterPath="$PROJECT_DIR$/news-crawler/wc/abc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/business.png" afterPath="$PROJECT_DIR$/news-crawler/wc/business.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/cnn.png" afterPath="$PROJECT_DIR$/news-crawler/wc/cnn.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/entertainmentcloud.png" afterPath="$PROJECT_DIR$/news-crawler/wc/entertainmentcloud.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/etonlinecloud.png" afterPath="$PROJECT_DIR$/news-crawler/wc/etonlinecloud.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/society.png" afterPath="$PROJECT_DIR$/news-crawler/wc/society.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/sportcloud.png" afterPath="$PROJECT_DIR$/news-crawler/wc/sportcloud.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/techcloud.png" afterPath="$PROJECT_DIR$/news-crawler/wc/techcloud.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/theguardian.png" afterPath="$PROJECT_DIR$/news-crawler/wc/theguardian.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/bleacherreport.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/cnet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/sport/bleacherreport.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/sport/bleacherreport.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/cnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/cnet.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MNB/tech.csv" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/MNB/proprocess4.py" afterPath="$PROJECT_DIR$/MNB/preprocess4.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/sports/counter_csv.py" afterPath="$PROJECT_DIR$/news-crawler/sport/counter_csv.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/sports/reuters_sport.py" afterPath="$PROJECT_DIR$/news-crawler/sport/reuters_sport.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/sports/reuters_sport.txt" afterPath="$PROJECT_DIR$/news-crawler/sport/reuters_sport.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/sports/theguardian.csv" afterPath="$PROJECT_DIR$/news-crawler/sport/theguardian.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/sports/theguardian.py" afterPath="$PROJECT_DIR$/news-crawler/sport/theguardian.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/sports/theguardian.txt" afterPath="$PROJECT_DIR$/news-crawler/sport/theguardian.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/sports/wordcloud.png" afterPath="$PROJECT_DIR$/news-crawler/sport/wordcloud.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/gizmodo.png" afterPath="$PROJECT_DIR$/news-crawler/gizmodo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/grid_search.py" afterPath="$PROJECT_DIR$/MNB/grid_search.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/proprocess4.py" afterPath="$PROJECT_DIR$/MNB/proprocess4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/csv/tech.csv" afterPath="$PROJECT_DIR$/MNB/csv/tech.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/sci_mnb.py" afterPath="$PROJECT_DIR$/MNB/sci_mnb.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/sk_mnb2.py" afterPath="$PROJECT_DIR$/MNB/sk_mnb2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/tech.txt" afterPath="$PROJECT_DIR$/MNB/text/tech.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/tech/gizmodo.py" afterPath="$PROJECT_DIR$/news-crawler/tech/gizmodo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/tech/gizmodo.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/gizmodo.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/wc.py" afterPath="$PROJECT_DIR$/news-crawler/wc.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,18 +43,40 @@
       <file leaf-file-name="sk_mnb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/sk_mnb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="75" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+            <state relative-caret-position="799">
+              <caret line="85" column="57" lean-forward="true" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wired_science.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/tech/wired_science.py">
+      <file leaf-file-name="wc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-crawler/wc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sci_mnb.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bleacherreport.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/news-crawler/sport/bleacherreport.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -65,64 +87,28 @@
       <file leaf-file-name="sk_mnb2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/sk_mnb2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+            <state relative-caret-position="57">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sk_mnb3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
+      <file leaf-file-name="bleacherreport.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-crawler/sport/bleacherreport.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1445">
-              <caret line="94" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state relative-caret-position="205">
+              <caret line="5274" column="18" lean-forward="false" selection-start-line="5274" selection-start-column="18" selection-end-line="5274" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grid_search.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/grid_search.py">
+      <file leaf-file-name="reuters_sport.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-crawler/sport/reuters_sport.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sci_mnb.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wc.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/wc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gizmodo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/tech/gizmodo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="51">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -130,21 +116,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gizmodo.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/tech/gizmodo.txt">
+      <file leaf-file-name="theguardian.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-crawler/sport/theguardian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="1" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="-51">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stop-word-list.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/stop-word-list.txt">
+      <file leaf-file-name="preprocess4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5797">
-              <caret line="341" column="4" lean-forward="false" selection-start-line="341" selection-start-column="4" selection-end-line="341" selection-end-column="4" />
+            <state relative-caret-position="136">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -161,20 +149,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>NPR transcripts</find>
-      <find>The New York State Court of Appeals</find>
-      <find>sca</find>
-      <find>Story Continued Below</find>
-      <find>d Below</find>
-      <find>fit_transform</find>
-      <find>fit</find>
-      <find>s</find>
-      <find>semeval_senti_f1</find>
-      <find>accuracy_score</find>
-      <find>y_train</find>
-      <find>This is the last in a series chronicling Nike's attempt to run a two-hour marathon.</find>
-      <find>Now for the cool part. Based on the difference in mass of carbon and nitroge</find>
-      <find>says</find>
       <find>like</find>
       <find>year</find>
       <find>just</find>
@@ -189,8 +163,22 @@
       <find>Correction: An earlier version of this post st</find>
       <find>In a statement, Agriculture Secretary Tom Vilsack</find>
       <find>Earlier today, the World Health Organization declared</find>
-      <find>Advertisement</find>
       <find>[</find>
+      <find>Advertisement</find>
+      <find>Craigslist mastermind Craig Newmark.</find>
+      <find>The networks are not alone.</find>
+      <find>A report published by The Guardian</find>
+      <find>Other tech executives who have thrown thei</find>
+      <find>Download the audio version of today's episode:</find>
+      <find>Subscribe</find>
+      <find>Tweet</find>
+      <find>download</find>
+      <find>During his set at the Number Fest in Ohio on Friday, rapper Waka Flocka Flame</find>
+      <find>At one point, Bell is hanging in front of what appears</find>
+      <find>The NBA's deadline to declare for the draft was 11:59 p.m. ET Sunday.</find>
+      <find>It's the most wonderful time of the year, at least if</find>
+      <find>In Game 1 of the Eastern Conference Semifinals</find>
+      <find>seas are often viewed as more vo</find>
     </findStrings>
     <replaceStrings>
       <replace>sentence_list</replace>
@@ -204,13 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MNB/stop-word-list.txt" />
-        <option value="$PROJECT_DIR$/MNB/mnb2.py" />
-        <option value="$PROJECT_DIR$/MNB/ski_mnb.py" />
-        <option value="$PROJECT_DIR$/news-crawler/business/abc.py" />
-        <option value="$PROJECT_DIR$/news-crawler/business/abc1.txt" />
-        <option value="$PROJECT_DIR$/news-crawler/business/abc.txt" />
-        <option value="$PROJECT_DIR$/news-crawler/business/ibtimes.txt" />
         <option value="$PROJECT_DIR$/news-crawler/business/cnn.py" />
         <option value="$PROJECT_DIR$/news-crawler/business/cnn.txt" />
         <option value="$PROJECT_DIR$/news-crawler/business/ibtimes.py" />
@@ -238,23 +219,30 @@
         <option value="$PROJECT_DIR$/NB_SVM/adsfdsf.py" />
         <option value="$PROJECT_DIR$/NB_SVM/nbsvm2.py" />
         <option value="$PROJECT_DIR$/NB_SVM/nbsvm.py" />
-        <option value="$PROJECT_DIR$/MNB/sk_mnb2.py" />
         <option value="$PROJECT_DIR$/MNB/sk_mnb4.py" />
         <option value="$PROJECT_DIR$/MNB/sk_mnb3.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/theverge/theverge1.txt" />
         <option value="$PROJECT_DIR$/news-crawler/tech/wired.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/wired_sicence.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/wired_science2.txt" />
-        <option value="$PROJECT_DIR$/MNB/proprocess4.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/wired_science.txt" />
-        <option value="$PROJECT_DIR$/MNB/text/tech.txt" />
         <option value="$PROJECT_DIR$/news-crawler/tech/wired_science.py" />
         <option value="$PROJECT_DIR$/news-crawler/stop-word-list.txt" />
+        <option value="$PROJECT_DIR$/MNB/grid_search.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/gizmodo.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/gizmodo.txt" />
+        <option value="$PROJECT_DIR$/news-crawler/tech/cnet.py" />
+        <option value="$PROJECT_DIR$/news-crawler/tech/cnet.txt" />
+        <option value="$PROJECT_DIR$/MNB/text/tech.txt" />
+        <option value="$PROJECT_DIR$/MNB/proprocess4.py" />
+        <option value="$PROJECT_DIR$/news-crawler/sports/reuters_sport.py" />
+        <option value="$PROJECT_DIR$/news-crawler/sports/bleacherreport.txt" />
+        <option value="$PROJECT_DIR$/news-crawler/sports/bleacherreport.py" />
         <option value="$PROJECT_DIR$/news-crawler/wc.py" />
-        <option value="$PROJECT_DIR$/MNB/grid_search.py" />
+        <option value="$PROJECT_DIR$/news-crawler/sport/bleacherreport.txt" />
         <option value="$PROJECT_DIR$/MNB/sci_mnb.py" />
+        <option value="$PROJECT_DIR$/news-crawler/sport/bleacherreport.py" />
+        <option value="$PROJECT_DIR$/MNB/sk_mnb2.py" />
       </list>
     </option>
   </component>
@@ -321,25 +309,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tech" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news-crawler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="business" />
+              <option name="myItemId" value="sport" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -375,6 +345,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MNB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="csv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -383,19 +371,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MNB/csv" />
+      <recent name="$PROJECT_DIR$/news-crawler/wc" />
+      <recent name="$PROJECT_DIR$/news-crawler/tech" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/news-crawler/business" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/news-crawler" />
       <recent name="$PROJECT_DIR$/NB_SVM" />
       <recent name="$PROJECT_DIR$/news-crawler/society" />
       <recent name="$PROJECT_DIR$/MNB" />
       <recent name="$PROJECT_DIR$/classifier" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/news-crawler/wc" />
-      <recent name="$PROJECT_DIR$/news-crawler/tech" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/news-crawler/business" />
-      <recent name="$PROJECT_DIR$/MNB" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -410,41 +398,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sci_mnb">
-    <configuration default="false" name="Unittests in sk_mnb3.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="_new_pattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/MNB/sk_mnb3.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="wired_sicence" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/tech" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/tech/wired_science.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.bleacherreport (1)">
     <configuration default="false" name="wc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -463,37 +417,71 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="gizmodo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittests in sci_mnb.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/MNB/sci_mnb.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="reuters_sport" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/tech" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/sports" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/tech/gizmodo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/sports/reuters_sport.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="sci_mnb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="bleacherreport" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/sports" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/sci_mnb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/sports/bleacherreport.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="bleacherreport (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/sport" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/sport/bleacherreport.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -584,19 +572,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in sk_mnb3.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python.wired_sicence" />
-      <item index="2" class="java.lang.String" itemvalue="Python.wc" />
-      <item index="3" class="java.lang.String" itemvalue="Python.gizmodo" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sci_mnb" />
+      <item index="0" class="java.lang.String" itemvalue="Python.wc" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.reuters_sport" />
+      <item index="3" class="java.lang.String" itemvalue="Python.bleacherreport" />
+      <item index="4" class="java.lang.String" itemvalue="Python.bleacherreport (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sci_mnb" />
+        <item index="0" class="java.lang.String" itemvalue="Python.bleacherreport (1)" />
         <item index="1" class="java.lang.String" itemvalue="Python.wc" />
-        <item index="2" class="java.lang.String" itemvalue="Python.gizmodo" />
-        <item index="3" class="java.lang.String" itemvalue="Python.wired_sicence" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in sk_mnb3.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bleacherreport" />
+        <item index="3" class="java.lang.String" itemvalue="Python.reuters_sport" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
       </list>
     </recent_temporary>
   </component>
@@ -751,18 +739,25 @@
       <option name="project" value="LOCAL" />
       <updated>1500365630653</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Update tech section :hammer:">
+      <created>1500476383101</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1500476383101</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_sk_mnb2_py - 2017.07.12 at 16h 09m 21s.xml">
-      <configuration name="Unittests in sk_mnb2.py" configurationId="tests" />
+    <history-entry file="Unittests_in_sci_mnb_py - 2017.07.19 at 15h 59m 15s.xml">
+      <configuration name="Unittests in sci_mnb.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_sk_mnb2_py - 2017.07.18 at 08h 26m 10s.xml">
-      <configuration name="Unittests in sk_mnb2.py" configurationId="tests" />
+    <history-entry file="Unittests_in_sci_mnb_py - 2017.07.19 at 16h 01m 02s.xml">
+      <configuration name="Unittests in sci_mnb.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_sk_mnb3_py - 2017.07.12 at 16h 09m 33s.xml">
-      <configuration name="Unittests in sk_mnb3.py" configurationId="tests" />
+    <history-entry file="Unittests_in_sci_mnb_py - 2017.07.19 at 16h 01m 43s.xml">
+      <configuration name="Unittests in sci_mnb.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_sk_mnb3_py - 2017.07.12 at 16h 10m 13s.xml">
       <configuration name="Unittests in sk_mnb3.py" configurationId="tests" />
@@ -798,12 +793,13 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="727" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24469697" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2560606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45868465" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40809444" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605043" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39966273" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -814,7 +810,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -860,7 +855,8 @@
     <MESSAGE value="Add SVM" />
     <MESSAGE value="Add Grid Search CV" />
     <MESSAGE value="Refactoring tech section." />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring tech section." />
+    <MESSAGE value="Update tech section :hammer:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update tech section :hammer:" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -875,64 +871,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MNB/sport.csv" />
-    <entry file="file://$PROJECT_DIR$/classifier/classifier6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/classifier5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/classifier4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/classifier3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/hee.py" />
-    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="61" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/text_.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/stop-word-list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="263" column="5" lean-forward="true" selection-start-line="263" selection-start-column="5" selection-end-line="263" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nbsvm_run/liblinear-1.96/python/liblinear.py" />
-    <entry file="file://$PROJECT_DIR$/nbsvm_run/data/test-pos.txt" />
-    <entry file="file://$PROJECT_DIR$/nbsvm/oh_my_go.sh" />
     <entry file="file://$PROJECT_DIR$/nbsvm/nbsvm.py" />
     <entry file="file://$PROJECT_DIR$/news-crawler/wc/abc.png">
       <provider selected="true" editor-type-id="images">
@@ -1004,9 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1046,27 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/text/tech.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="26577" column="0" lean-forward="false" selection-start-line="26577" selection-start-column="0" selection-end-line="26577" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/proprocess4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1074,18 +988,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/tech/wired_science.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="3761" column="279" lean-forward="false" selection-start-line="3761" selection-start-column="275" selection-end-line="3761" selection-end-column="279" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news-crawler/stop-word-list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5797">
           <caret line="341" column="4" lean-forward="false" selection-start-line="341" selection-start-column="4" selection-end-line="341" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1098,45 +1004,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="23" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/tech/gizmodo.py">
+    <entry file="file://$PROJECT_DIR$/MNB/grid_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="629">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/tech/gizmodo.txt">
+    <entry file="file://$PROJECT_DIR$/MNB/text.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="1" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/wc.py">
+    <entry file="file://$PROJECT_DIR$/news-crawler/tech/wired_science.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="262">
+          <caret line="4209" column="138" lean-forward="true" selection-start-line="4209" selection-start-column="138" selection-end-line="4209" selection-end-column="138" />
         </state>
       </provider>
     </entry>
@@ -1145,38 +1033,170 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb.py">
+    <entry file="file://$PROJECT_DIR$/news-crawler/fre.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="75" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/grid_search.py">
+    <entry file="file://$PROJECT_DIR$/news-crawler/tech/cnet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="24" column="104" lean-forward="false" selection-start-line="24" selection-start-column="104" selection-end-line="24" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/tech/cnet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="2241" column="119" lean-forward="true" selection-start-line="2241" selection-start-column="119" selection-end-line="2241" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/cnet.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/tech/gizmodo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/tech/gizmodo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154122">
+          <caret line="9066" column="46" lean-forward="false" selection-start-line="9066" selection-start-column="46" selection-end-line="9066" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="94" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        <state relative-caret-position="1088">
+          <caret line="73" column="47" lean-forward="false" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/csv/tech.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/sport/theguardian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/sport/reuters_sport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/sport/bleacherreport.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/text/sport.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437625">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/text/tech.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="35659" column="0" lean-forward="false" selection-start-line="35659" selection-start-column="0" selection-end-line="35659" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/bleacherreport.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/wc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="85" column="57" lean-forward="true" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        <state relative-caret-position="170">
+          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/sport/bleacherreport.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="5274" column="18" lean-forward="false" selection-start-line="5274" selection-start-column="18" selection-end-line="5274" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/sport/bleacherreport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>

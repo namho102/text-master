@@ -31,7 +31,7 @@ def split_train_test(full_list):
     y= [sent[1] for sent in full_list]
 
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=20)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=130)
     return (X_train, y_train, X_test, y_test)
 
 
@@ -39,6 +39,8 @@ topics = ['tech', 'sport', 'entertainment', 'business', 'society']
 time0 = time.time()
 full_list = get_full_list(topics)
 (X_train, y_train, X_test, y_test) = split_train_test(full_list)
+print(len(y_train))
+print(len(y_test))
 
 print("--- %s preprocess time ---" % (time.time() - time0))
 
@@ -49,7 +51,7 @@ X_test = vectorizer.transform(X_test )
 
 # clf = BernoulliNB(alpha=.01)
 clf = MultinomialNB(alpha=.01)
-# clf = LinearSVC(penalty='l2', dual=False, tol=1e-3)
+# clf = LinearSVC()
 time1 = time.time()
 clf.fit(X_train, y_train)
 
