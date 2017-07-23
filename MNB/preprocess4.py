@@ -33,4 +33,4 @@ def write_csv(topic):
 # for topic in topics:
 #     write_csv(topic)
 
-write_csv('sport')
+write_csv('society')
