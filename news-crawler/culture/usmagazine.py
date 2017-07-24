@@ -3,7 +3,7 @@ import requests
 
 URL = "http://www.usmagazine.com/entertainment?page=%d"
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-file = open('usmagazine.txt', 'a')
+file = open('usmagazine2.txt', 'a')
 
 
 for i in range(140, 142):

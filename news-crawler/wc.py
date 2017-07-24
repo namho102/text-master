@@ -13,7 +13,7 @@ with open('stop-word-list.txt') as f:
 stop_words = [x.strip() for x in content]
 
 # Read the whole text.
-text = open(path.join(d, 'society/reuters_world2.txt')).read()
+text = open(path.join(d, 'culture/vox.txt')).read()
 
 # read the mask image
 # taken from
@@ -27,5 +27,5 @@ wc = WordCloud(max_words=3000, width=1366, height=768, stopwords=stopwords)
 wc.generate(text)
 
 # store to file
-wc.to_file(path.join(d, "reuters_world.png"))
+wc.to_file(path.join(d, "vox.png"))
 

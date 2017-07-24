@@ -50,8 +50,8 @@ X_train = vectorizer.fit_transform(X_train)
 X_test = vectorizer.transform(X_test )
 
 # clf = BernoulliNB(alpha=.01)
-clf = MultinomialNB(alpha=.01)
-# clf = LinearSVC()
+# clf = MultinomialNB(alpha=.01)
+clf = LinearSVC()
 time1 = time.time()
 clf.fit(X_train, y_train)
 
