@@ -13,7 +13,7 @@ with open('stop-word-list.txt') as f:
 stop_words = [x.strip() for x in content]
 
 # Read the whole text.
-text = open(path.join(d, 'culture/vox.txt')).read()
+text = open(path.join(d, 'business/vox.txt')).read()
 
 # read the mask image
 # taken from
