@@ -55,7 +55,7 @@ pl = Pipeline([
 
 parameters = {'vectorizer__use_idf':[False, True],
               # 'vectorizer__ngram_range':[(1,3)],
-              # 'vectorizer__max_df':[0.3, 0.5, 0.8],
+              'vectorizer__max_df':[0.3, 0.4, 0.5, 0.8],
               # 'vectorizer__sublinear_tf':[True, False]
               }
 
