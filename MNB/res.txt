@@ -216,3 +216,42 @@ entertainment       0.86      0.84      0.85      3576
  'entertainment' 'sport' 'society' 'business' 'business' 'society'
  'business' 'society']
 foo@bar ~/p/t/MNB>
+
+
+--- 0.61580991745 preprocess time ---
+--- 3.24813199043 train time ---
+accuracy:   0.922
+               precision    recall  f1-score   support
+
+         tech       0.92      0.90      0.91      6355
+        sport       0.91      0.94      0.92     10185
+entertainment       0.92      0.92      0.92      7684
+     business       0.96      0.95      0.96      6390
+      society       0.91      0.88      0.90      6535
+
+  avg / total       0.92      0.92      0.92     37149
+
+[[5749   94  264   46  202]
+ [  52 9564  184  153  232]
+ [ 219  254 7056   49  106]
+ [  34  180   43 6102   31]
+ [ 198  421  101   39 5776]]
+
+--- 0.513192892075 preprocess time ---
+--- 0.331919908524 train time ---
+accuracy:   0.935
+               precision    recall  f1-score   support
+
+         tech       0.95      0.90      0.92      6448
+        sport       0.91      0.96      0.94     10136
+entertainment       0.93      0.94      0.94      7622
+     business       0.98      0.95      0.97      6335
+      society       0.92      0.90      0.91      6608
+
+  avg / total       0.94      0.94      0.93     37149
+
+[[5797  106  258   16  271]
+ [  25 9778  119   80  134]
+ [ 119  261 7163   16   63]
+ [  27  200   39 6044   25]
+ [ 155  367  108   25 5953]]

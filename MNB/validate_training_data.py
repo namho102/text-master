@@ -4,9 +4,7 @@ import time
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import BernoulliNB, MultinomialNB
 from sklearn.svm import LinearSVC
-from sklearn import metrics
 import csv
-from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.cross_validation import train_test_split
 
 def get_topic_list(topic_name):
@@ -47,16 +45,16 @@ clf.fit(X_train, y_train)
 
 def validate(topic):
     data = get_topic_list(topic)
+    print(len(data))
     X = [sent[0] for sent in data]
     my_pred = clf.predict(vectorizer.transform(X))
     with open('new_csv/' + topic + '.csv', 'wb') as csvfile:
         writer = csv.writer(csvfile)
         for i in range(0, len(my_pred)):
             if my_pred[i] == topic:
-                writer.writerow((data[i][0], my_pred[i]))
+                writer.writerow((data[i][0], topic))
 
 
-topics = ['tech', 'sport', 'entertainment', 'business', 'society']
 for topic in topics:
     validate(topic)
 
