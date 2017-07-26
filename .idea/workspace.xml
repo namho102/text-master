@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/lemmatizer.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MNB/csv/.~lock.tech.csv#" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MNB/sport_.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MNB/tech_.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MNB/text_.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MNB/tokenizer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MNB/vectorizer.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/feature_selection.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/preprocess4.py" afterPath="$PROJECT_DIR$/MNB/preprocess4.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/res.txt" afterPath="$PROJECT_DIR$/MNB/res.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/grid_search.py" afterPath="$PROJECT_DIR$/MNB/grid_search.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/sci_mnb.py" afterPath="$PROJECT_DIR$/MNB/sci_mnb.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text.txt" afterPath="$PROJECT_DIR$/MNB/text.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/validate_training_data.py" afterPath="$PROJECT_DIR$/MNB/validate_training_data.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,11 +24,11 @@
       <file leaf-file-name="sci_mnb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="336">
+              <caret line="48" column="40" lean-forward="false" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1501058597650" expanded="true" signature="865:943" ph="..." />
+                <marker date="1501061982077" expanded="true" signature="864:946" ph="..." />
               </folding>
             </state>
           </provider>
@@ -45,8 +37,8 @@
       <file leaf-file-name="validate_training_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/validate_training_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="53" column="35" lean-forward="true" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+            <state relative-caret-position="782">
+              <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -54,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lemmatizer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lemmatizer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/lemmatizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="306">
               <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding />
             </state>
@@ -67,10 +59,22 @@
       <file leaf-file-name="grid_search.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/grid_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="782">
+              <caret line="57" column="55" lean-forward="false" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feature_selection.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MNB/feature_selection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+              <folding>
+                <element signature="e#1#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,7 +83,7 @@
       <file leaf-file-name="res.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/res.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="4097">
               <caret line="241" column="17" lean-forward="false" selection-start-line="241" selection-start-column="14" selection-end-line="241" selection-end-column="17" />
               <folding />
             </state>
@@ -89,8 +93,8 @@
       <file leaf-file-name="preprocess4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="119">
+              <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -160,9 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/NB_SVM/adsfdsf.py" />
-        <option value="$PROJECT_DIR$/NB_SVM/nbsvm2.py" />
-        <option value="$PROJECT_DIR$/NB_SVM/nbsvm.py" />
         <option value="$PROJECT_DIR$/MNB/sk_mnb4.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/theverge/theverge1.txt" />
         <option value="$PROJECT_DIR$/news-crawler/tech/wired.py" />
@@ -204,13 +205,16 @@
         <option value="$PROJECT_DIR$/MNB/text/business.txt" />
         <option value="$PROJECT_DIR$/MNB/sk_mnb3.py" />
         <option value="$PROJECT_DIR$/MNB/test_train_data.py" />
-        <option value="$PROJECT_DIR$/MNB/grid_search.py" />
         <option value="$PROJECT_DIR$/MNB/res.txt" />
         <option value="$PROJECT_DIR$/MNB/text.txt" />
         <option value="$PROJECT_DIR$/MNB/lemmatizer.py" />
         <option value="$PROJECT_DIR$/MNB/validate_training_data.py" />
-        <option value="$PROJECT_DIR$/MNB/sci_mnb.py" />
         <option value="$PROJECT_DIR$/MNB/preprocess4.py" />
+        <option value="$PROJECT_DIR$/MNB/grid_search.py" />
+        <option value="$PROJECT_DIR$/MNB/text/feature_extraction.py" />
+        <option value="$PROJECT_DIR$/MNB/feature_extraction.py" />
+        <option value="$PROJECT_DIR$/MNB/feature_selection.py" />
+        <option value="$PROJECT_DIR$/MNB/sci_mnb.py" />
       </list>
     </option>
   </component>
@@ -236,6 +240,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -262,28 +267,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MNB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/news-crawler/wc" />
-      <recent name="$PROJECT_DIR$/MNB/csv" />
-      <recent name="$PROJECT_DIR$/news-crawler/tech" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/news-crawler/business" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/news-crawler/business" />
       <recent name="$PROJECT_DIR$/news-crawler/culture" />
       <recent name="$PROJECT_DIR$/news-crawler" />
       <recent name="$PROJECT_DIR$/NB_SVM" />
       <recent name="$PROJECT_DIR$/news-crawler/society" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MNB" />
+      <recent name="$PROJECT_DIR$/news-crawler/wc" />
+      <recent name="$PROJECT_DIR$/MNB/csv" />
+      <recent name="$PROJECT_DIR$/news-crawler/tech" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -298,7 +320,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sci_mnb">
+  <component name="RunManager" selected="Python.feature_extraction">
     <configuration default="false" name="sci_mnb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,24 +373,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="lemmatizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/lemmatizer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="preprocess4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -382,6 +386,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/preprocess4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="feature_extraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/feature_selection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -475,16 +497,16 @@
       <item index="0" class="java.lang.String" itemvalue="Python.sci_mnb" />
       <item index="1" class="java.lang.String" itemvalue="Python.sdfdsfsdfsd" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in grid_search.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python.lemmatizer" />
-      <item index="4" class="java.lang.String" itemvalue="Python.preprocess4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.preprocess4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.feature_extraction" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sci_mnb" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sdfdsfsdfsd" />
-        <item index="2" class="java.lang.String" itemvalue="Python.preprocess4" />
-        <item index="3" class="java.lang.String" itemvalue="Python.lemmatizer" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in grid_search.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python.feature_extraction" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sci_mnb" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in grid_search.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sdfdsfsdfsd" />
+        <item index="4" class="java.lang.String" itemvalue="Python.preprocess4" />
       </list>
     </recent_temporary>
   </component>
@@ -688,13 +710,17 @@
       <option name="project" value="LOCAL" />
       <updated>1500976213264</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Add lemmatizer">
+      <created>1501059191386</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1501059191386</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_sci_mnb_split_train_test - 2017.07.24 at 18h 55m 50s.xml">
-      <configuration name="Unittests for sci_mnb.split_train_test" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_grid_search_py - 2017.07.25 at 16h 38m 02s.xml">
       <configuration name="Unittests in grid_search.py" configurationId="tests" />
     </history-entry>
@@ -702,6 +728,9 @@
       <configuration name="Unittests in grid_search.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_grid_search_py - 2017.07.25 at 16h 46m 48s.xml">
+      <configuration name="Unittests in grid_search.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_grid_search_py - 2017.07.26 at 16h 04m 06s.xml">
       <configuration name="Unittests in grid_search.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_sci_mnb_py - 2017.07.24 at 16h 40m 49s.xml">
@@ -736,7 +765,7 @@
     <frame x="-1" y="-11" width="1368" height="727" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27727273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28181818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3979764" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
@@ -780,7 +809,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update classifier" />
     <MESSAGE value="Add MULTINOMIAL NB :sparkles:" />
     <MESSAGE value="Update MULTINOMIAL NB :sparkles:" />
     <MESSAGE value="Clean text" />
@@ -805,7 +833,8 @@
     <MESSAGE value="Update business section" />
     <MESSAGE value="Add data validation" />
     <MESSAGE value="Add data validation :sparkles:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add data validation :sparkles:" />
+    <MESSAGE value="Add lemmatizer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add lemmatizer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -820,7 +849,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news-crawler/reuters_world.png" />
     <entry file="file://$PROJECT_DIR$/news-crawler/society/reuters_world.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1039,7 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171513">
           <caret line="10089" column="48" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10095" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="813654">
           <caret line="47862" column="423" lean-forward="false" selection-start-line="47862" selection-start-column="423" selection-end-line="47862" selection-end-column="423" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,37 +1087,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/grid_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/vectorizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/tokenizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/vectorizer.py" />
+    <entry file="file://$PROJECT_DIR$/MNB/tokenizer.py" />
     <entry file="file://$PROJECT_DIR$/MNB/text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1099,17 +1100,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/lemmatizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/validate_training_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
+    <entry file="file://$PROJECT_DIR$/MNB/res.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+        <state relative-caret-position="4097">
+          <caret line="241" column="17" lean-forward="false" selection-start-line="241" selection-start-column="14" selection-end-line="241" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/grid_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="57" column="55" lean-forward="false" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1121,48 +1162,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/res.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="241" column="17" lean-forward="false" selection-start-line="241" selection-start-column="14" selection-end-line="241" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/validate_training_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="53" column="35" lean-forward="true" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="336">
+          <caret line="48" column="40" lean-forward="false" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1501058597650" expanded="true" signature="865:943" ph="..." />
+            <marker date="1501061982077" expanded="true" signature="864:946" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
+    <entry file="file://$PROJECT_DIR$/MNB/feature_selection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/lemmatizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
