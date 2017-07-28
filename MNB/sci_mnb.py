@@ -10,7 +10,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.cross_validation import train_test_split
 
 def get_topic_list(topic_name):
-    with open('new_csv/' + topic_name + '.csv','rb') as f:
+    with open('new_new_csv/' + topic_name + '.csv','rb') as f:
         reader = csv.reader(f)
         return [tuple(row) for row in reader]
 
@@ -44,14 +44,14 @@ print(len(y_test))
 
 print("--- %s preprocess time ---" % (time.time() - time0))
 
-# vectorizer = TfidfVectorizer(max_df=0.3,  ngram_range=(1,3), stop_words='english')
-vectorizer = CountVectorizer(max_df=0.3, stop_words='english')
+vectorizer = TfidfVectorizer(max_df=0.3, stop_words='english')
+# vectorizer = CountVectorizer(max_df=0.3, stop_words='english')
 X_train = vectorizer.fit_transform(X_train)
 X_test = vectorizer.transform(X_test )
 
 # clf = BernoulliNB(alpha=.01)
 clf = MultinomialNB(alpha=.01)
-# clf = LinearSVC()
+# clf = LinearSVC(penalty='l2', dual=False, tol=1e-3)
 time1 = time.time()
 clf.fit(X_train, y_train)
 
