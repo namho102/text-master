@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/text/business_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/text/entertainment_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/text/society_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/text/sport_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/text/tech_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/text_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/top_tfidf.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/csv/business.csv" afterPath="$PROJECT_DIR$/MNB/csv/business.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/csv/entertainment.csv" afterPath="$PROJECT_DIR$/MNB/csv/entertainment.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/csv/society.csv" afterPath="$PROJECT_DIR$/MNB/csv/society.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/csv/sport.csv" afterPath="$PROJECT_DIR$/MNB/csv/sport.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/csv/tech.csv" afterPath="$PROJECT_DIR$/MNB/csv/tech.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/new_csv/business.csv" afterPath="$PROJECT_DIR$/MNB/new_csv/business.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/new_csv/entertainment.csv" afterPath="$PROJECT_DIR$/MNB/new_csv/entertainment.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/new_csv/society.csv" afterPath="$PROJECT_DIR$/MNB/new_csv/society.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/new_csv/sport.csv" afterPath="$PROJECT_DIR$/MNB/new_csv/sport.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/new_csv/tech.csv" afterPath="$PROJECT_DIR$/MNB/new_csv/tech.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/preprocess3.py" afterPath="$PROJECT_DIR$/MNB/preprocess3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/preprocess4.py" afterPath="$PROJECT_DIR$/MNB/preprocess4.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/res.txt" afterPath="$PROJECT_DIR$/MNB/res.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/sci_mnb.py" afterPath="$PROJECT_DIR$/MNB/sci_mnb.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text.txt" afterPath="$PROJECT_DIR$/MNB/text.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/business.txt" afterPath="$PROJECT_DIR$/MNB/text/business.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/validate_training_data.py" afterPath="$PROJECT_DIR$/MNB/validate_training_data.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,8 +20,8 @@
       <file leaf-file-name="sci_mnb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+            <state relative-caret-position="731">
+              <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <marker date="1501210185375" expanded="true" signature="868:950" ph="..." />
@@ -57,7 +33,7 @@
       <file leaf-file-name="grid_search.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/grid_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
+            <state relative-caret-position="782">
               <caret line="57" column="55" lean-forward="false" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
               <folding />
             </state>
@@ -67,7 +43,7 @@
       <file leaf-file-name="sk_mnb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/sk_mnb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="1071">
               <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="53" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -79,8 +55,8 @@
       <file leaf-file-name="validate_training_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/validate_training_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+            <state relative-caret-position="578">
+              <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -89,7 +65,7 @@
       <file leaf-file-name="feature_selection.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/feature_selection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="629">
               <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="e#1#11#0" expanded="true" />
@@ -101,7 +77,7 @@
       <file leaf-file-name="res.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/res.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1379">
+            <state relative-caret-position="4522">
               <caret line="266" column="24" lean-forward="false" selection-start-line="266" selection-start-column="22" selection-end-line="266" selection-end-column="24" />
               <folding />
             </state>
@@ -111,8 +87,8 @@
       <file leaf-file-name="preprocess4.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+            <state relative-caret-position="238">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -257,8 +233,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -287,6 +261,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -702,7 +678,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501143729189</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Update result">
+      <created>1501210329769</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1501210329769</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -749,7 +732,7 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="727" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29090908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29545453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3979764" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
@@ -793,7 +776,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update MULTINOMIAL NB :sparkles:" />
     <MESSAGE value="Update tokenizer" />
     <MESSAGE value="add sklearn MultinomialNB" />
     <MESSAGE value="add results" />
@@ -818,7 +800,8 @@
     <MESSAGE value="Add lemmatizer" />
     <MESSAGE value="Add feature selection" />
     <MESSAGE value="Clean text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean text" />
+    <MESSAGE value="Update result" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update result" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1056,9 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-          <folding>
-            <element signature="e#1#11#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1066,7 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765391">
           <caret line="45023" column="47" lean-forward="false" selection-start-line="45023" selection-start-column="47" selection-end-line="45023" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1079,15 +1058,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/validate_training_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        <state relative-caret-position="578">
+          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/feature_selection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="629">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
             <element signature="e#1#11#0" expanded="true" />
@@ -1097,7 +1076,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/res.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1379">
+        <state relative-caret-position="4522">
           <caret line="266" column="24" lean-forward="false" selection-start-line="266" selection-start-column="22" selection-end-line="266" selection-end-column="24" />
           <folding />
         </state>
@@ -1105,7 +1084,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/sk_mnb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="1071">
           <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="53" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -1125,14 +1104,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        <state relative-caret-position="731">
+          <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <marker date="1501210185375" expanded="true" signature="868:950" ph="..." />
@@ -1142,7 +1120,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/grid_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
+        <state relative-caret-position="782">
           <caret line="57" column="55" lean-forward="false" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
           <folding />
         </state>
@@ -1152,7 +1130,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,14 +1137,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="7" column="92" lean-forward="false" selection-start-line="7" selection-start-column="92" selection-end-line="7" selection-end-column="92" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        <state relative-caret-position="238">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="23" />
           <folding />
         </state>
       </provider>
