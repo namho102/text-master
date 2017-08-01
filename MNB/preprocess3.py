@@ -6,6 +6,7 @@ def clean_text(topic_name):
         text = file.read()
 
         text = fix_encoding(fix_text(text))
+        text = text.replace('"', "").replace("—", "").replace("-", "")
 
         out = open('text/' + topic_name + '_.txt', 'w')
         out.write(text)

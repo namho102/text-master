@@ -36,12 +36,18 @@ import re
 import sys
 import time
 
+stop_words = []
+with open('stop-word-list.txt') as f:
+    content = f.readlines()
+
+stop_words = [x.strip() for x in content]
 
 def tokenize(string):
     """Convert string to lowercase and split into words (ignoring
     punctuation), returning list of words.
     """
-    return re.findall(r'\w+', string.lower())
+    return string.lower().replace('"', " ").split()
+    # return re.findall(r'\w+', string.lower())
 
 
 def count_ngrams(lines, min_length=1, max_length=4):
@@ -65,9 +71,10 @@ def count_ngrams(lines, min_length=1, max_length=4):
     # Loop through all lines and words and add n-grams to dict
     for line in lines:
         for word in tokenize(line):
-            queue.append(word)
-            if len(queue) >= max_length:
-                add_queue()
+            if word not in stop_words:
+                queue.append(word)
+                if len(queue) >= max_length:
+                    add_queue()
 
     # Make sure we get the n-grams at the tail end of the queue
     while len(queue) > min_length:
