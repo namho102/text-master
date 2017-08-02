@@ -46,7 +46,7 @@ def tokenize(string):
     """Convert string to lowercase and split into words (ignoring
     punctuation), returning list of words.
     """
-    return string.lower().replace('"', " ").split()
+    return string.lower().replace('.', " ").split()
     # return re.findall(r'\w+', string.lower())
 
 
@@ -97,7 +97,7 @@ if __name__ == '__main__':
 
 
     start_time = time.time()
-    with open('text/tech_.txt') as f:
+    with open('text/sport_.txt') as f:
         ngrams = count_ngrams(f)
     print_most_frequent(ngrams)
     elapsed_time = time.time() - start_time
