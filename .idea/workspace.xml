@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/text/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/text/test_.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/fre.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/new_words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/words.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/ngram.py" afterPath="$PROJECT_DIR$/MNB/ngram.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/preprocess3.py" afterPath="$PROJECT_DIR$/MNB/preprocess3.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/business_.txt" afterPath="$PROJECT_DIR$/MNB/text/business_.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/entertainment_.txt" afterPath="$PROJECT_DIR$/MNB/text/entertainment_.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/society_.txt" afterPath="$PROJECT_DIR$/MNB/text/society_.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/sport_.txt" afterPath="$PROJECT_DIR$/MNB/text/sport_.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/tech.txt" afterPath="$PROJECT_DIR$/MNB/text/tech.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/tech_.txt" afterPath="$PROJECT_DIR$/MNB/text/tech_.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +26,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ngram.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ngram.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/ngram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1649">
-              <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+            <state relative-caret-position="697">
+              <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
               <folding>
                 <element signature="e#1685#1703#0" expanded="true" />
               </folding>
@@ -42,11 +41,75 @@
       <file leaf-file-name="preprocess3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fre.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/fre.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_words.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MNB/new_words.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="17001" column="6" lean-forward="false" selection-start-line="17001" selection-start-column="0" selection-end-line="17001" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tech_.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/text/tech_.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239802">
+              <caret line="14106" column="18" lean-forward="false" selection-start-line="14106" selection-start-column="14" selection-end-line="14106" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bleacherreport.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-crawler/sport/bleacherreport.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="words.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/words.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fre.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news-crawler/fre.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -82,9 +145,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>prin</find>
-      <find>airbnb</find>
-      <find>__label__business</find>
       <find>tokenize</find>
       <find>5</find>
       <find>color</find>
@@ -112,6 +172,9 @@
       <find>h3</find>
       <find>fff</find>
       <find>chame</find>
+      <find>nordisk</find>
+      <find>facebook</find>
+      <find>'air</find>
     </findStrings>
     <replaceStrings>
       <replace>sentence_list</replace>
@@ -125,8 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MNB/proprocess4.py" />
-        <option value="$PROJECT_DIR$/news-crawler/sports/reuters_sport.py" />
         <option value="$PROJECT_DIR$/news-crawler/sports/bleacherreport.txt" />
         <option value="$PROJECT_DIR$/news-crawler/sports/bleacherreport.py" />
         <option value="$PROJECT_DIR$/MNB/sk_mnb2.py" />
@@ -174,8 +235,10 @@
         <option value="$PROJECT_DIR$/MNB/text/test_.txt" />
         <option value="$PROJECT_DIR$/MNB/text/tech.txt" />
         <option value="$PROJECT_DIR$/MNB/text/test.txt" />
-        <option value="$PROJECT_DIR$/MNB/preprocess3.py" />
         <option value="$PROJECT_DIR$/MNB/ngram.py" />
+        <option value="$PROJECT_DIR$/MNB/preprocess3.py" />
+        <option value="$PROJECT_DIR$/MNB/new_words.txt" />
+        <option value="$PROJECT_DIR$/MNB/fre.py" />
       </list>
     </option>
   </component>
@@ -238,6 +301,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="news-crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sport" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="MNB" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -268,19 +349,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MNB" />
+      <recent name="$PROJECT_DIR$/fast" />
+      <recent name="$PROJECT_DIR$/news-crawler/business" />
+      <recent name="$PROJECT_DIR$/news-crawler/culture" />
+      <recent name="$PROJECT_DIR$/news-crawler" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MNB" />
       <recent name="$PROJECT_DIR$/news-crawler/wc" />
       <recent name="$PROJECT_DIR$/MNB/csv" />
       <recent name="$PROJECT_DIR$/news-crawler/tech" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/fast" />
-      <recent name="$PROJECT_DIR$/news-crawler/business" />
-      <recent name="$PROJECT_DIR$/news-crawler/culture" />
-      <recent name="$PROJECT_DIR$/news-crawler" />
-      <recent name="$PROJECT_DIR$/NB_SVM" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,7 +376,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ngram">
+  <component name="RunManager" selected="Python.fre">
     <configuration default="false" name="Unittests in sci_mnb.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,24 +391,6 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/MNB/sci_mnb.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="text_format" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fast" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fast/text_format.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="ngram" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -379,6 +442,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/top_tfidf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fre" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/fre.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -470,18 +551,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python.text_format" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ngram" />
-      <item index="3" class="java.lang.String" itemvalue="Python.word_export" />
-      <item index="4" class="java.lang.String" itemvalue="Python.top_tfidf" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ngram" />
+      <item index="2" class="java.lang.String" itemvalue="Python.word_export" />
+      <item index="3" class="java.lang.String" itemvalue="Python.top_tfidf" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fre" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ngram" />
-        <item index="1" class="java.lang.String" itemvalue="Python.top_tfidf" />
-        <item index="2" class="java.lang.String" itemvalue="Python.word_export" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python.text_format" />
+        <item index="0" class="java.lang.String" itemvalue="Python.fre" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ngram" />
+        <item index="2" class="java.lang.String" itemvalue="Python.top_tfidf" />
+        <item index="3" class="java.lang.String" itemvalue="Python.word_export" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
       </list>
     </recent_temporary>
   </component>
@@ -734,7 +815,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501579726894</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Update text preprocessing">
+      <created>1501681169978</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1501681169978</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -781,10 +869,10 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="727" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3098485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32045454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51602024" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4367622" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605043" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -870,30 +958,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news-crawler/cnbc.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/vox.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/vox.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173315">
-          <caret line="10195" column="46" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10204" selection-end-column="423" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/cnbc.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171513">
-          <caret line="10089" column="48" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10095" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MNB/test_train_data.py" />
     <entry file="file://$PROJECT_DIR$/MNB/test.py" />
     <entry file="file://$PROJECT_DIR$/MNB/tech_.txt" />
@@ -1019,13 +1083,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NB/pre_processing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-477">
@@ -1099,13 +1156,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/fre.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="84" lean-forward="true" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NB_SVM/nbsvm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -1113,19 +1163,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/text/test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/text/test" />
     <entry file="file://$PROJECT_DIR$/MNB/text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1141,23 +1183,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="35306" column="128" lean-forward="false" selection-start-line="35306" selection-start-column="126" selection-end-line="35306" selection-end-column="128" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/text/tech_.txt">
+    <entry file="file://$PROJECT_DIR$/MNB/stop-word-list.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="16155" column="335" lean-forward="false" selection-start-line="16155" selection-start-column="332" selection-end-line="16155" selection-end-column="335" />
-          <folding />
+        <state relative-caret-position="461">
+          <caret line="335" column="4" lean-forward="false" selection-start-line="335" selection-start-column="4" selection-end-line="335" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/text/business.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1603" column="38" lean-forward="false" selection-start-line="1603" selection-start-column="38" selection-end-line="1603" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/text/business_.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1513">
-          <caret line="20225" column="178" lean-forward="false" selection-start-line="20225" selection-start-column="177" selection-end-line="20225" selection-end-column="178" />
-          <folding />
+        <state relative-caret-position="81">
+          <caret line="22491" column="33" lean-forward="false" selection-start-line="22491" selection-start-column="26" selection-end-line="22491" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1169,39 +1222,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/stop-word-list.txt">
+    <entry file="file://$PROJECT_DIR$/news-crawler/fre.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="335" column="4" lean-forward="false" selection-start-line="335" selection-start-column="4" selection-end-line="335" selection-end-column="4" />
+        <state relative-caret-position="391">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
+    <entry file="file://$PROJECT_DIR$/MNB/words.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/text/business.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1603" column="38" lean-forward="false" selection-start-line="1603" selection-start-column="38" selection-end-line="1603" selection-end-column="38" />
+        <state relative-caret-position="374">
+          <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/ngram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        <state relative-caret-position="697">
+          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
           <folding>
             <element signature="e#1685#1703#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/fre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/sport/bleacherreport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/text/tech_.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239802">
+          <caret line="14106" column="18" lean-forward="false" selection-start-line="14106" selection-start-column="14" selection-end-line="14106" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/new_words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="17001" column="6" lean-forward="false" selection-start-line="17001" selection-start-column="0" selection-end-line="17001" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>

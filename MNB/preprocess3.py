@@ -14,7 +14,7 @@ def clean_text(topic_name):
         # text = text.translate(string.punctuation)
 
 
-        text = re.sub('''[-[!"#$%&*+,—–/:;()[\]{}<=>?@^_`{|}~]''', '', text)
+        text = re.sub('''[-[!"#$%&*+,—–/:;()[\]{}<=>?@^_`{|}~]''', ' ', text)
         # print(text)
 
         out = open('text/' + topic_name + '_.txt', 'w')
