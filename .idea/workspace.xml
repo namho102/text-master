@@ -4,16 +4,351 @@
     <bookmark url="file://$PROJECT_DIR$/news-crawler/sport/counter_csv.py" line="6" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/fre.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/new_words.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/words.txt" />
+    <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="Add NodeBox linguistics :sparkles:">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/NEWS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/binsrch.3.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/cntlist.5.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/grind.1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/lexnames.5.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/morph.3.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/morphy.7.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/senseidx.5.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/uniqbeg.7.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wn.1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wnb.1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wndb.5.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wngloss.7.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wngroups.7.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wninput.5.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wnintro.1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wnintro.3.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wnintro.5.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wnintro.7.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wnlicens.7.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wnpkgs.7.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wnsearch.3.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wnstats.7.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/wnutil.3.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/wnres/wn.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/_en-test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/article.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/commonsense.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/numeral.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/ogden/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/ogden/ogden_2000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/ordinal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/Brill_lexicon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/Brill_license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/INSTALL.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/LICENSE.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/chat/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/chat/eliza.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/chat/iesha.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/chat/rude.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/chat/zen.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/cluster/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/cluster/em.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/cluster/gaac.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/cluster/kmeans.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/combined.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/concord.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/featuredemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/featurelite.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/fsa.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/hole.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/kimmo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/lambda.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/marshal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/marshalbrill.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/paradigm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/paradigmquery.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/toolbox/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/toolbox/data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/toolbox/errors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/toolbox/lexicon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/toolbox/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/toolbox/text.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/contrib/toolbox/utilities.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/brown.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/cmudict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/conll2000.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/genesis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/gutenberg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/ieer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/inaugural.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/names.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/ppattach.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/senseval.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/sinica_treebank.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/state_union.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/stopwords.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/timit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/toolbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/treebank.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/words.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/corpora/ycoe.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/draw/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/draw/cfg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/draw/chart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/draw/dispersion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/draw/plot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/draw/rdparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/draw/srparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/draw/tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/etree/ElementInclude.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/etree/ElementPath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/etree/ElementTree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/etree/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/evaluate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/misc/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/misc/sort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/misc/wordfinder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/model/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/category.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/cfg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/chart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/chunk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/featurechart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/featurestructure.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/generate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/grammarfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/pcfg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/pchart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/rd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/sr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/treetransforms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/parse/viterbi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/probability.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/semantics/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/semantics/evaluate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/semantics/logic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/semantics/utilities.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/stem/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/stem/porter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/stem/regexp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/tag/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/tag/brill.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/tag/hmm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/tag/ngram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/tag/unigram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/test/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/test/doctest_driver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/tokenize/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/tokenize/regexp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/tokenize/simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/utilities.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/wordnet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/wordnet/concordance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/wordnet/wntools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/parser/nltk_lite/wordnet/wordnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/plural.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/quantify.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/rid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/singular.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/spelling/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/spelling/spelling.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/verb/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/verb/verb.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/concordance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/contents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/contributors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/download.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/installation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/nav.html.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/release-notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docs/styles.css.prefix" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/contributors-src.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/contributors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/download.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/examples.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/format-contributors.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/install.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/license.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/make-css-prefix.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/make-navigation.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/publish.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/release-notes.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/requirements.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/schemas.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/docsrc/styles.in.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wntools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/acinclude.m4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/aclocal.m4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/compile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/config.h.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/configure" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/configure.ac" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/depcomp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/adj.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/adv.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/cntlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/cntlist.rev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/data.adj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/data.adv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/data.noun" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/data.verb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/frames.vrb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/index.adj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/index.adv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/index.noun" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/index.sense" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/index.verb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/lexnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/log.grind.2.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/noun.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/sentidx.vrb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/sents.vrb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/verb.Framestext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/dict/verb.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/binsrch.3WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/cntlist.5WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/grind.1WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/lexnames.5WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/morph.3WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/morphy.7WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/senseidx.5WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/uniqbeg.7WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wn.1WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wnb.1WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wndb.5WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wngloss.7WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wngroups.7WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wninput.5WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wnintro.1WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wnintro.3WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wnintro.5WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wnintro.7WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wnlicens.7WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wnpkgs.7WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wnsearch.3WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wnstats.7WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/html/wnutil.3WN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/binsrch.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/cntlist.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/grind.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/lexnames.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/morph.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/morphy.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/senseidx.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/uniqbeg.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wn.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wnb.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wndb.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wngloss.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wngroups.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wninput.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wnintro.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wnintro.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wnintro.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wnintro.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wnlicens.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wnpkgs.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wnsearch.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wnstats.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/man/wnutil.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/pdf/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/binsrch.3.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/cntlist.5.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/grind.1.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/lexnames.5.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/morph.3.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/morphy.7.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/senseidx.5.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/uniqbeg.7.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wn.1.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wnb.1.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wndb.5.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wngloss.7.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wngroups.7.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wninput.5.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wnintro.1.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wnintro.3.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wnintro.5.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wnintro.7.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wnlicens.7.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wnpkgs.7.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wnsearch.3.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wnstats.7.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/doc/ps/wnutil.3.ps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/include/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/include/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/include/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/include/wn.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/include/wngrind.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/install-sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/binsrch.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/morph.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/search.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/wnglobal.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/wnhelp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/wnres/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/wnres/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/wnres/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/wnres/wnb.man" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/wnres/wngloss.man" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/wnrtl.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/lib/wnutil.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/missing" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/src/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/src/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/src/stubs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/src/tkAppInit.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/src/wn.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/en/wordnet/wordnet2/src/wnb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/preprocess3.py" afterPath="$PROJECT_DIR$/MNB/preprocess3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/business_.txt" afterPath="$PROJECT_DIR$/MNB/text/business_.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/entertainment_.txt" afterPath="$PROJECT_DIR$/MNB/text/entertainment_.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/society_.txt" afterPath="$PROJECT_DIR$/MNB/text/society_.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/sport_.txt" afterPath="$PROJECT_DIR$/MNB/text/sport_.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/fre.py" afterPath="$PROJECT_DIR$/MNB/fre.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/new_words.txt" afterPath="$PROJECT_DIR$/MNB/new_words.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/tech.txt" afterPath="$PROJECT_DIR$/MNB/text/tech.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/text/tech_.txt" afterPath="$PROJECT_DIR$/MNB/text/tech_.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,11 +385,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fre.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fre.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MNB/fre.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="-51">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -62,11 +397,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_words.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="new_words.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/new_words.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="17001" column="6" lean-forward="false" selection-start-line="17001" selection-start-column="0" selection-end-line="17001" selection-end-column="6" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,8 +410,18 @@
       <file leaf-file-name="tech_.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/text/tech_.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239802">
-              <caret line="14106" column="18" lean-forward="false" selection-start-line="14106" selection-start-column="14" selection-end-line="14106" selection-end-column="18" />
+            <state relative-caret-position="84">
+              <caret line="7823" column="23" lean-forward="false" selection-start-line="7823" selection-start-column="11" selection-end-line="7823" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tech.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/text/tech.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="13682" column="379" lean-forward="false" selection-start-line="13682" selection-start-column="378" selection-end-line="13682" selection-end-column="379" />
               <folding />
             </state>
           </provider>
@@ -86,7 +431,7 @@
         <entry file="file://$PROJECT_DIR$/news-crawler/sport/bleacherreport.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -108,27 +453,7 @@
         <entry file="file://$PROJECT_DIR$/news-crawler/fre.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/text/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/text/test_.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -145,21 +470,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tokenize</find>
-      <find>5</find>
-      <find>color</find>
-      <find>new study</find>
-      <find>'s</find>
-      <find>'m</find>
-      <find>'t</find>
-      <find>880px) calc(100vw - 334px),</find>
-      <find>500</find>
-      <find>s&amp;p</find>
-      <find>-</find>
-      <find>picture</find>
-      <find>333 6846. free</find>
-      <find>• Greatest Hits by Laura Barnett is published by Weidenfeld &amp; Nicolson (£12.99). To order a copy for £9.74 go to bookshop.theguardian.com or call 0330 333 6846. Free UK p&amp;p over £10, online orders only. Phone orders min p&amp;p of £1.99</find>
-      <find>&quot;</find>
       <find>333</find>
       <find>333 6</find>
       <find>reuters</find>
@@ -173,8 +483,23 @@
       <find>fff</find>
       <find>chame</find>
       <find>nordisk</find>
-      <find>facebook</find>
       <find>'air</find>
+      <find>xxl</find>
+      <find>adsresizeportrait</find>
+      <find>adsetadurl</find>
+      <find>au</find>
+      <find>au</find>
+      <find>www</find>
+      <find>wintemute</find>
+      <find>thc</find>
+      <find>thc</find>
+      <find>facebook</find>
+      <find>compa</find>
+      <find>com</find>
+      <find>exoskeletons</find>
+      <find>html</find>
+      <find>&lt;</find>
+      <find>company</find>
     </findStrings>
     <replaceStrings>
       <replace>sentence_list</replace>
@@ -227,16 +552,16 @@
         <option value="$PROJECT_DIR$/fast/text_format.py" />
         <option value="$PROJECT_DIR$/MNB/sci_mnb.py" />
         <option value="$PROJECT_DIR$/MNB/word_export.py" />
-        <option value="$PROJECT_DIR$/MNB/text/tech_.txt" />
         <option value="$PROJECT_DIR$/MNB/stop-word-list.txt" />
         <option value="$PROJECT_DIR$/MNB/text/business_.txt" />
         <option value="$PROJECT_DIR$/MNB/text/business.txt" />
         <option value="$PROJECT_DIR$/MNB/text/entertainment.txt" />
         <option value="$PROJECT_DIR$/MNB/text/test_.txt" />
-        <option value="$PROJECT_DIR$/MNB/text/tech.txt" />
         <option value="$PROJECT_DIR$/MNB/text/test.txt" />
         <option value="$PROJECT_DIR$/MNB/ngram.py" />
         <option value="$PROJECT_DIR$/MNB/preprocess3.py" />
+        <option value="$PROJECT_DIR$/MNB/text/tech.txt" />
+        <option value="$PROJECT_DIR$/MNB/text/tech_.txt" />
         <option value="$PROJECT_DIR$/MNB/new_words.txt" />
         <option value="$PROJECT_DIR$/MNB/fre.py" />
       </list>
@@ -323,24 +648,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MNB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -349,19 +656,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/MNB" />
-      <recent name="$PROJECT_DIR$/fast" />
-      <recent name="$PROJECT_DIR$/news-crawler/business" />
-      <recent name="$PROJECT_DIR$/news-crawler/culture" />
-      <recent name="$PROJECT_DIR$/news-crawler" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MNB" />
       <recent name="$PROJECT_DIR$/news-crawler/wc" />
       <recent name="$PROJECT_DIR$/MNB/csv" />
       <recent name="$PROJECT_DIR$/news-crawler/tech" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MNB" />
+      <recent name="$PROJECT_DIR$/fast" />
+      <recent name="$PROJECT_DIR$/news-crawler/business" />
+      <recent name="$PROJECT_DIR$/news-crawler/culture" />
+      <recent name="$PROJECT_DIR$/news-crawler" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -822,7 +1129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501681169978</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Add topic vocabulary :sparkles:">
+      <created>1501899017666</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1501899017666</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -857,7 +1171,7 @@
       <configuration name="Unittests in validate_training_data.py" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -869,10 +1183,11 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="727" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32045454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32045454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4367622" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41652614" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605043" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -885,7 +1200,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -913,8 +1227,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add results" />
-    <MESSAGE value="Add business section" />
     <MESSAGE value="Update data set" />
     <MESSAGE value="Add politic section" />
     <MESSAGE value="Update news" />
@@ -938,7 +1250,9 @@
     <MESSAGE value="Update result" />
     <MESSAGE value="Add ngram :sparkles:" />
     <MESSAGE value="Update text preprocessing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update text preprocessing" />
+    <MESSAGE value="Add topic vocabulary :sparkles:" />
+    <MESSAGE value="Add NodeBox linguistics :sparkles:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add NodeBox linguistics :sparkles:" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -958,8 +1272,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MNB/test_train_data.py" />
-    <entry file="file://$PROJECT_DIR$/MNB/test.py" />
     <entry file="file://$PROJECT_DIR$/MNB/tech_.txt" />
     <entry file="file://$PROJECT_DIR$/MNB/vectorizer.py" />
     <entry file="file://$PROJECT_DIR$/MNB/tokenizer.py" />
@@ -1179,13 +1491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/text/tech.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="35306" column="128" lean-forward="false" selection-start-line="35306" selection-start-column="126" selection-end-line="35306" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MNB/stop-word-list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
@@ -1225,7 +1530,7 @@
     <entry file="file://$PROJECT_DIR$/news-crawler/fre.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1258,20 +1563,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/fre.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news-crawler/sport/bleacherreport.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -1280,17 +1575,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/text/tech_.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239802">
-          <caret line="14106" column="18" lean-forward="false" selection-start-line="14106" selection-start-column="14" selection-end-line="14106" selection-end-column="18" />
+        <state relative-caret-position="84">
+          <caret line="7823" column="23" lean-forward="false" selection-start-line="7823" selection-start-column="11" selection-end-line="7823" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/text/tech.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="13682" column="379" lean-forward="false" selection-start-line="13682" selection-start-column="378" selection-end-line="13682" selection-end-column="379" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/stemming/lovins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/en/verb/verb.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/new_words.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="17001" column="6" lean-forward="false" selection-start-line="17001" selection-start-column="0" selection-end-line="17001" selection-end-column="6" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/fre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
