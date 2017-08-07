@@ -27,7 +27,9 @@ new_words = []
 words_set = sorted(set(topic_word))
 
 
-new_words = set(words_set) - set(all_words)
+# new_words = set(words_set) - set(all_words)
+# new_words = set(words_set + all_words)
+new_words = words_set
 # print(len(new_words))
 
 word_count = Counter(topic_word)
