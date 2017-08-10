@@ -1,69 +1,68 @@
 from collections import Counter
 import csv
 
-file = open('text/tech_.txt', 'r')
-text = file.read().decode('utf-8')
 
-topic_word = text.lower().replace('.', " ").split()
+def export_vocabulary(topic):
 
+    file = open('text/' + topic + '_.txt', 'r')
+    text = file.read().decode('utf-8')
 
-word_count = Counter(topic_word)
-word_count = list(word_count.items())
-
-print(len(word_count))
-# print(word_count)
-
-# for pair in sorted(word_count, key=lambda k: k[1]) :
-#     print pair
+    topic_word = text.lower().replace('.', " ").split()
 
 
-bigrams = []
-for i in range(len(topic_word) - 1):
-    bigrams.append(topic_word[i:i+2])
+    word_count = Counter(topic_word)
+    word_count = dict(word_count.items())
 
-# print(bigrams[:10])
+    print(len(word_count))
+    # print(word_count)
 
-str_bigrams = [' '.join(x) for x in bigrams]
-# print(str_bigrams[:10])
-# print(len(str_bigrams))
-
-gram_count = Counter(str_bigrams)
-
-print(len(list(gram_count.items())))
-print(gram_count.most_common(10))
-
-pair_count = {}
+    # for pair in sorted(word_count, key=lambda k: k[1]) :
+    #     print pair
 
 
-for x in list(gram_count.items()):
-    pair = x[0].split()
+    bigrams = []
+    for i in range(len(topic_word) - 1):
+        bigrams.append(topic_word[i:i+2])
 
-    if pair_count.has_key(pair[0]):
-        if pair_count[pair[0]]['count'] < x[1]:
+    # print(bigrams[:10])
+
+    str_bigrams = [' '.join(x) for x in bigrams]
+    # print(str_bigrams[:10])
+    # print(len(str_bigrams))
+
+    gram_count = Counter(str_bigrams)
+
+    print(len(list(gram_count.items())))
+    print(gram_count.most_common(10))
+
+    pair_count = {}
+
+
+    for x in list(gram_count.items()):
+        pair = x[0].split()
+
+        if pair_count.has_key(pair[0]):
+            if pair_count[pair[0]]['count'] < x[1]:
+                pair_count[pair[0]] = {'follower': pair[1], 'count': x[1]}
+
+        else:
             pair_count[pair[0]] = {'follower': pair[1], 'count': x[1]}
 
-    else:
-        pair_count[pair[0]] = {'follower': pair[1], 'count': x[1]}
+    print(pair_count['artificial'])
+    print(len(list(pair_count.items())))
+    print(list(pair_count.items())[:10])
 
-print(pair_count['artificial'])
-print(len(list(pair_count.items())))
-print(list(pair_count.items())[:10])
 
-# for pair in list(pair_count.items():
-# pair_gram = []
-# for x in list(gram_count.items()):
-#     pair = x[0].split()
-#     if pair_gram[pair[0]]:
-#         pair_gram['followers'].append((pair[1], x[1]))
-#     else:
-#         pair_gram.append({'word': pair[0], 'followers': [(pair[1], x[1])]})
-#     # print(pair)
-#
-# print(pair_gram[:10])
 
-with open('vocabulary.csv', 'wb') as outcsv:
-    writer = csv.writer(outcsv)
-    writer.writerow(["Word", "Follower", "Count"])
+    with open('vocabulary/' + topic + '_.csv', 'wb') as outcsv:
+        writer = csv.writer(outcsv)
+        writer.writerow(["Word", "Follower", "Count"])
 
-    for pair in list(pair_count.items()):
-        writer.writerow([pair[0].encode('utf-8'), pair[1]["follower"].encode('utf-8'), pair[1]["count"]])
+        for pair in list(pair_count.items()):
+            writer.writerow([pair[0].encode('utf-8'), pair[1]["follower"].encode('utf-8'), word_count[pair[0]]])
+
+
+topics = ['tech', 'sport', 'entertainment', 'business', 'society']
+
+for topic in topics:
+    export_vocabulary(topic)
