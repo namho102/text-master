@@ -2,61 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/.~lock.article_figures.csv#" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/article_figures.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/business/abc_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/business/cnbc_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/business/cnn_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/business/ibtimes_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/business/vox_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/culture/etonline_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/culture/huffpost_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/culture/theatlantic_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/culture/theguardian_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/culture/usmagazine_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/culture/vox_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/society/huffpost_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/society/politico_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/society/reuters_world_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/society/theatlantic_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/sport/bleacherreport_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/sport/reuters_sport_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/sport/theguardian_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/cnet_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/gizmodo_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/theverge_.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news-crawler/tech/wired_science_.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news-crawler/sport/counter_csv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news-crawler/sport/theguardian.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news-crawler/tech/wired_science2.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/news-crawler/society/reuters_world2.txt" afterPath="$PROJECT_DIR$/news-crawler/society/reuters_world.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/model_loader.py" afterPath="$PROJECT_DIR$/MNB/model_loader.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/business/abc.py" afterPath="$PROJECT_DIR$/news-crawler/business/abc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/business/cnbc.py" afterPath="$PROJECT_DIR$/news-crawler/business/cnbc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/business/cnn.py" afterPath="$PROJECT_DIR$/news-crawler/business/cnn.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/business/ibtimes.py" afterPath="$PROJECT_DIR$/news-crawler/business/ibtimes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/business/vox.py" afterPath="$PROJECT_DIR$/news-crawler/business/vox.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/culture/etonline.py" afterPath="$PROJECT_DIR$/news-crawler/culture/etonline.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/culture/huffpost.py" afterPath="$PROJECT_DIR$/news-crawler/culture/huffpost.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/culture/theatlantic.py" afterPath="$PROJECT_DIR$/news-crawler/culture/theatlantic.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/culture/theguardian.py" afterPath="$PROJECT_DIR$/news-crawler/culture/theguardian.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/culture/usmagazine.py" afterPath="$PROJECT_DIR$/news-crawler/culture/usmagazine.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/culture/vox.py" afterPath="$PROJECT_DIR$/news-crawler/culture/vox.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/society/huffpost.py" afterPath="$PROJECT_DIR$/news-crawler/society/huffpost.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/society/politico.py" afterPath="$PROJECT_DIR$/news-crawler/society/politico.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/society/reuters_world.py" afterPath="$PROJECT_DIR$/news-crawler/society/reuters_world.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/society/theatlantic.py" afterPath="$PROJECT_DIR$/news-crawler/society/theatlantic.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/sport/bleacherreport.py" afterPath="$PROJECT_DIR$/news-crawler/sport/bleacherreport.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/sport/reuters_sport.py" afterPath="$PROJECT_DIR$/news-crawler/sport/reuters_sport.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/sport/theguardian.py" afterPath="$PROJECT_DIR$/news-crawler/sport/theguardian.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/tech/cnet.py" afterPath="$PROJECT_DIR$/news-crawler/tech/cnet.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/tech/gizmodo.py" afterPath="$PROJECT_DIR$/news-crawler/tech/gizmodo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/tech/techcrunch.py" afterPath="$PROJECT_DIR$/news-crawler/tech/techcrunch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/tech/theverge.py" afterPath="$PROJECT_DIR$/news-crawler/tech/theverge.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/tech/wired_science.py" afterPath="$PROJECT_DIR$/news-crawler/tech/wired_science.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-crawler/tech/wired_science.txt" afterPath="$PROJECT_DIR$/news-crawler/tech/wired_science.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,30 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cnn.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/business/cnn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ibtimes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/business/ibtimes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="vox.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news-crawler/business/vox.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,74 +27,102 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="lemmatizer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/lemmatizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sk_mnb.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/sk_mnb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="vox_.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news-crawler/business/vox_.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="468">
               <caret line="3265" column="631" lean-forward="true" selection-start-line="3265" selection-start-column="631" selection-end-line="3265" selection-end-column="631" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vox.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vox.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news-crawler/business/vox.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="354">
               <caret line="10199" column="0" lean-forward="true" selection-start-line="10199" selection-start-column="0" selection-end-line="10199" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ibtimes_.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/business/ibtimes_.txt">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="3259" column="1" lean-forward="true" selection-start-line="3259" selection-start-column="1" selection-end-line="3259" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ibtimes.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/business/ibtimes.txt">
+      <file leaf-file-name="preprocess4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="7801" column="380" lean-forward="true" selection-start-line="7801" selection-start-column="380" selection-end-line="7801" selection-end-column="380" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vox.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/culture/vox.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="43" />
+            <state relative-caret-position="-51">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cnn_.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/business/cnn_.txt">
+      <file leaf-file-name="sci_mnb.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="980" column="164" lean-forward="true" selection-start-line="980" selection-start-column="164" selection-end-line="980" selection-end-column="164" />
-              <folding />
+            <state relative-caret-position="306">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cnn.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news-crawler/business/cnn.txt">
+      <file leaf-file-name="validate_training_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/validate_training_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="14684" column="72" lean-forward="true" selection-start-line="14684" selection-start-column="72" selection-end-line="14684" selection-end-column="72" />
-              <folding />
+            <state relative-caret-position="306">
+              <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="preprocess3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -230,8 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MNB/stop-word-list.txt" />
-        <option value="$PROJECT_DIR$/MNB/text/business_.txt" />
         <option value="$PROJECT_DIR$/MNB/text/business.txt" />
         <option value="$PROJECT_DIR$/MNB/text/entertainment.txt" />
         <option value="$PROJECT_DIR$/MNB/text/test_.txt" />
@@ -281,6 +230,8 @@
         <option value="$PROJECT_DIR$/news-crawler/business/cnn.py" />
         <option value="$PROJECT_DIR$/news-crawler/business/ibtimes.py" />
         <option value="$PROJECT_DIR$/news-crawler/business/vox.py" />
+        <option value="$PROJECT_DIR$/MNB/sci_mnb.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -327,43 +278,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="news-crawler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news-crawler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="culture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news-crawler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="business" />
+              <option name="myItemId" value="MNB" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -404,25 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.vox (1)">
-    <configuration default="false" name="abc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/business" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/business/abc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in sci_mnb.py">
     <configuration default="false" name="cnbc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -493,6 +390,22 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in sci_mnb.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/MNB/sci_mnb.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
@@ -580,19 +493,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.abc" />
-      <item index="1" class="java.lang.String" itemvalue="Python.cnbc" />
-      <item index="2" class="java.lang.String" itemvalue="Python.cnn" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ibtimes" />
-      <item index="4" class="java.lang.String" itemvalue="Python.vox (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.cnbc" />
+      <item index="1" class="java.lang.String" itemvalue="Python.cnn" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ibtimes" />
+      <item index="3" class="java.lang.String" itemvalue="Python.vox (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.vox (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ibtimes" />
-        <item index="2" class="java.lang.String" itemvalue="Python.cnn" />
-        <item index="3" class="java.lang.String" itemvalue="Python.cnbc" />
-        <item index="4" class="java.lang.String" itemvalue="Python.abc" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.vox (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ibtimes" />
+        <item index="3" class="java.lang.String" itemvalue="Python.cnn" />
+        <item index="4" class="java.lang.String" itemvalue="Python.cnbc" />
       </list>
     </recent_temporary>
   </component>
@@ -894,7 +807,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502706749336</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Add article figures">
+      <created>1502723464870</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1502723464870</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -913,11 +833,11 @@
     <history-entry file="Unittests_in_model_saver_py - 2017.08.14 at 17h 29m 34s.xml">
       <configuration name="Unittests in model_saver.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_sk_mnb3_py - 2017.07.24 at 18h 57m 05s.xml">
-      <configuration name="Unittests in sk_mnb3.py" configurationId="tests" />
+    <history-entry file="Unittests_in_sci_mnb_py - 2017.08.14 at 22h 20m 53s.xml">
+      <configuration name="Unittests in sci_mnb.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_py - 2017.07.25 at 16h 21m 06s.xml">
-      <configuration name="Unittests in test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_sci_mnb_py - 2017.08.14 at 22h 21m 16s.xml">
+      <configuration name="Unittests in sci_mnb.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_validate_training_data_py - 2017.07.27 at 16h 19m 30s.xml">
       <configuration name="Unittests in validate_training_data.py" configurationId="tests" />
@@ -940,9 +860,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="-11" width="1922" height="1039" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17982924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17982924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33701658" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
@@ -966,7 +885,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add society section to training" />
     <MESSAGE value=" Add csv f" />
     <MESSAGE value="Update results" />
     <MESSAGE value="Add SVM" />
@@ -991,7 +909,8 @@
     <MESSAGE value="Add text normalization" />
     <MESSAGE value="Update vocabulary list" />
     <MESSAGE value="Dump model to files :sparkles:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dump model to files :sparkles:" />
+    <MESSAGE value="Add article figures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add article figures" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1011,112 +930,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news-crawler/sport/reuters_sport.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="13150" column="0" lean-forward="true" selection-start-line="13150" selection-start-column="0" selection-end-line="13150" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/sport/theguardian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/sport/theguardian.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="12601" column="88" lean-forward="true" selection-start-line="12601" selection-start-column="88" selection-end-line="12601" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/sport/theguardian_.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="2481" column="296" lean-forward="true" selection-start-line="2481" selection-start-column="296" selection-end-line="2481" selection-end-column="296" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/huffpost_.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="3387" column="68" lean-forward="true" selection-start-line="3387" selection-start-column="68" selection-end-line="3387" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/huffpost.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="2854" column="49" lean-forward="true" selection-start-line="2854" selection-start-column="49" selection-end-line="2854" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/reuters_world2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="55" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11841" selection-end-column="165" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/politico_.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="3428" column="210" lean-forward="true" selection-start-line="3428" selection-start-column="210" selection-end-line="3428" selection-end-column="210" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/politico.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="12604" column="0" lean-forward="true" selection-start-line="12604" selection-start-column="0" selection-end-line="12604" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/reuters_world_.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="1011" column="232" lean-forward="true" selection-start-line="1011" selection-start-column="232" selection-end-line="1011" selection-end-column="232" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/reuters_world.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="20866" column="165" lean-forward="true" selection-start-line="20866" selection-start-column="165" selection-end-line="20866" selection-end-column="165" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/thehill.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/theatlantic_.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="2626" column="421" lean-forward="true" selection-start-line="2626" selection-start-column="421" selection-end-line="2626" selection-end-column="421" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news-crawler/society/theatlantic.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
@@ -1409,19 +1222,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/ibtimes_.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="3259" column="1" lean-forward="true" selection-start-line="3259" selection-start-column="1" selection-end-line="3259" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news-crawler/business/ibtimes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="7801" column="380" lean-forward="true" selection-start-line="7801" selection-start-column="380" selection-end-line="7801" selection-end-column="380" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/business/ibtimes_.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="3259" column="1" lean-forward="true" selection-start-line="3259" selection-start-column="1" selection-end-line="3259" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/top_tfidf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/text_normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/business/vox.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="10199" column="0" lean-forward="true" selection-start-line="10199" selection-start-column="0" selection-end-line="10199" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/preprocess4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/fre2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news-crawler/business/vox_.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="3265" column="631" lean-forward="true" selection-start-line="3265" selection-start-column="631" selection-end-line="3265" selection-end-column="631" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/fre.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/grid_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1435,18 +1342,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/vox_.txt">
+    <entry file="file://$PROJECT_DIR$/MNB/lemmatizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="3265" column="631" lean-forward="true" selection-start-line="3265" selection-start-column="631" selection-end-line="3265" selection-end-column="631" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/vox.txt">
+    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="10199" column="0" lean-forward="true" selection-start-line="10199" selection-start-column="0" selection-end-line="10199" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/validate_training_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
