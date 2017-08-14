@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MNB/word_export.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fast/csv/business.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fast/csv/entertainment.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fast/csv/society.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fast/csv/sport.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fast/csv/tech.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fast/text/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fast/text/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fast/text_format.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/finalized_model2.sav_01.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/finalized_model2.sav_02.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/finalized_model2.sav_03.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/finalized_model2.sav_04.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/finalized_model2.sav_05.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/vectorizer2.pk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/vectorizer2.pk_01.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/vectorizer2.pk_02.npy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/finalized_model.sav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/finalized_model2.sav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/model_loader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/model_saver.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,35 +29,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ngram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/ngram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="92" column="17" lean-forward="true" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
-              <folding>
-                <element signature="e#1685#1703#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fre.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/fre.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="fre2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/fre2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state relative-caret-position="868">
+              <caret line="57" column="35" lean-forward="false" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -62,43 +41,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text_normalization.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MNB/text_normalization.py">
+      <file leaf-file-name="model_saver.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MNB/model_saver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="187">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#0#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tech_.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/text/tech_.txt">
+      <file leaf-file-name="model_loader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/model_loader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659855">
-              <caret line="38815" column="550" lean-forward="false" selection-start-line="38815" selection-start-column="542" selection-end-line="38815" selection-end-column="550" />
+            <state relative-caret-position="251">
+              <caret line="19" column="61" lean-forward="false" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_words.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/new_words.txt">
+      <file leaf-file-name="sk_mnb2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/sk_mnb2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159341">
-              <caret line="9373" column="7" lean-forward="false" selection-start-line="9373" selection-start-column="7" selection-end-line="9373" selection-end-column="7" />
+            <state relative-caret-position="374">
+              <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="preprocess3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
+      <file leaf-file-name="sk_mnb3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="374">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mnb2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/mnb2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-374">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sci_mnb.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="44" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -106,12 +105,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tech.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNB/text/tech.txt">
+      <file leaf-file-name="text_normalization.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/text_normalization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404889">
-              <caret line="23817" column="74" lean-forward="false" selection-start-line="23817" selection-start-column="74" selection-end-line="23817" selection-end-column="74" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -170,9 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/news-crawler/sport/bleacherreport.py" />
-        <option value="$PROJECT_DIR$/news-crawler/sport/bleacherreport.txt" />
-        <option value="$PROJECT_DIR$/MNB/text/sport.txt" />
         <option value="$PROJECT_DIR$/news-crawler/society/reuters_world.txt" />
         <option value="$PROJECT_DIR$/news-crawler/society/theatlantic.py" />
         <option value="$PROJECT_DIR$/news-crawler/society/theatlantic.txt" />
@@ -221,13 +219,17 @@
         <option value="$PROJECT_DIR$/MNB/fre.py" />
         <option value="$PROJECT_DIR$/MNB/fr2e.py" />
         <option value="$PROJECT_DIR$/MNB/fre2.py" />
+        <option value="$PROJECT_DIR$/server/model_saver.py" />
+        <option value="$PROJECT_DIR$/MNB/model_loader.py" />
+        <option value="$PROJECT_DIR$/MNB/model_saver.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-6" />
-    <option name="width" value="1366" />
-    <option name="height" value="721" />
+    <option name="x" value="1365" />
+    <option name="y" value="-11" />
+    <option name="width" value="1922" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -244,7 +246,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,46 +272,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MNB" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vocabulary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/MNB" />
-      <recent name="$PROJECT_DIR$/news-crawler/wc" />
-      <recent name="$PROJECT_DIR$/MNB/csv" />
-      <recent name="$PROJECT_DIR$/news-crawler/tech" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MNB" />
       <recent name="$PROJECT_DIR$/fast" />
       <recent name="$PROJECT_DIR$/news-crawler/business" />
       <recent name="$PROJECT_DIR$/news-crawler/culture" />
       <recent name="$PROJECT_DIR$/news-crawler" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MNB" />
+      <recent name="$PROJECT_DIR$/news-crawler/wc" />
+      <recent name="$PROJECT_DIR$/MNB/csv" />
+      <recent name="$PROJECT_DIR$/news-crawler/tech" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -325,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fre2">
+  <component name="RunManager" selected="Python.model_loader">
     <configuration default="false" name="ngram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,24 +323,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/ngram.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="top_tfidf" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/top_tfidf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -380,24 +346,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="text_normalization" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/text_normalization.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="fre2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -411,6 +359,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/fre2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in model_saver.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/MNB/model_saver.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="model_loader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/model_loader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -502,18 +484,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.ngram" />
-      <item index="1" class="java.lang.String" itemvalue="Python.top_tfidf" />
-      <item index="2" class="java.lang.String" itemvalue="Python.fre" />
-      <item index="3" class="java.lang.String" itemvalue="Python.text_normalization" />
-      <item index="4" class="java.lang.String" itemvalue="Python.fre2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.fre" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fre2" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in model_saver.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.model_loader" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.fre2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fre" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ngram" />
-        <item index="3" class="java.lang.String" itemvalue="Python.text_normalization" />
-        <item index="4" class="java.lang.String" itemvalue="Python.top_tfidf" />
+        <item index="0" class="java.lang.String" itemvalue="Python.model_loader" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in model_saver.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fre2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fre" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ngram" />
       </list>
     </recent_temporary>
   </component>
@@ -812,20 +794,20 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_sci_mnb_py - 2017.07.28 at 09h 41m 07s.xml">
-      <configuration name="Unittests in sci_mnb.py" configurationId="tests" />
+    <history-entry file="Unittests_in_model_saver_py - 2017.08.14 at 17h 10m 28s.xml">
+      <configuration name="Unittests in model_saver.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_sci_mnb_py - 2017.07.31 at 15h 44m 26s.xml">
-      <configuration name="Unittests in sci_mnb.py" configurationId="tests" />
+    <history-entry file="Unittests_in_model_saver_py - 2017.08.14 at 17h 16m 24s.xml">
+      <configuration name="Unittests in model_saver.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_sci_mnb_py - 2017.07.31 at 15h 45m 08s.xml">
-      <configuration name="Unittests in sci_mnb.py" configurationId="tests" />
+    <history-entry file="Unittests_in_model_saver_py - 2017.08.14 at 17h 23m 24s.xml">
+      <configuration name="Unittests in model_saver.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_sci_mnb_py - 2017.07.31 at 15h 45m 30s.xml">
-      <configuration name="Unittests in sci_mnb.py" configurationId="tests" />
+    <history-entry file="Unittests_in_model_saver_py - 2017.08.14 at 17h 25m 48s.xml">
+      <configuration name="Unittests in model_saver.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_sk_mnb3_py - 2017.07.24 at 18h 56m 42s.xml">
-      <configuration name="Unittests in sk_mnb3.py" configurationId="tests" />
+    <history-entry file="Unittests_in_model_saver_py - 2017.08.14 at 17h 29m 34s.xml">
+      <configuration name="Unittests in model_saver.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_sk_mnb3_py - 2017.07.24 at 18h 57m 05s.xml">
       <configuration name="Unittests in sk_mnb3.py" configurationId="tests" />
@@ -853,12 +835,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-6" width="1366" height="721" extended-state="6" />
+    <frame x="1365" y="-11" width="1922" height="1039" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24848485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17982924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3642496" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3635359" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605043" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -867,23 +850,12 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3642496" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605043" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24848485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39966273" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -935,49 +907,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MNB/tokenizer.py" />
-    <entry file="file://$PROJECT_DIR$/news-crawler/wc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/csv/test.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="18" column="233" lean-forward="false" selection-start-line="18" selection-start-column="233" selection-end-line="18" selection-end-column="233" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/csv/business.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="1370" column="59" lean-forward="false" selection-start-line="1370" selection-start-column="53" selection-end-line="1370" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/mnb2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/text_.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/res.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4522">
-          <caret line="266" column="24" lean-forward="false" selection-start-line="266" selection-start-column="22" selection-end-line="266" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MNB/sk_mnb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
@@ -992,49 +921,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fast/csv/tech.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="30" column="48" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fast/csv/tech.csv" />
     <entry file="file://$PROJECT_DIR$/fast/text/test_.txt" />
-    <entry file="file://$PROJECT_DIR$/fast/text/train.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="1007">
-          <caret line="476" column="17" lean-forward="false" selection-start-line="476" selection-start-column="0" selection-end-line="476" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fast/text_format.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fast/text/train.txt" />
+    <entry file="file://$PROJECT_DIR$/fast/text_format.py" />
     <entry file="file://$PROJECT_DIR$/NB/pre_processing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-477">
@@ -1199,16 +1089,8 @@
         <state relative-caret-position="408">
           <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/new_words.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159341">
-          <caret line="9373" column="7" lean-forward="false" selection-start-line="9373" selection-start-column="7" selection-end-line="9373" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,20 +1110,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/word_export.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/word_export.py" />
     <entry file="file://$PROJECT_DIR$/MNB/fre.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
+        <state relative-caret-position="578">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1250,18 +1125,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/ngram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="92" column="17" lean-forward="true" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
+        <state relative-caret-position="1513">
+          <caret line="92" column="17" lean-forward="false" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
           <folding>
-            <element signature="e#1685#1703#0" expanded="true" />
+            <element signature="e#1685#1703#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1270,28 +1142,116 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/text_normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
-            <element signature="e#1#11#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/fre2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        <state relative-caret-position="868">
+          <caret line="57" column="35" lean-forward="false" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/text_normalization.py">
+    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="374">
+          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/mnb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/finalized_model2.sav">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/finalized_model.sav">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-612">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/sci_mnb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="44" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/vectorizer.sav">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1938">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/vectorizer.pk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/model_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="19" column="61" lean-forward="false" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/new_words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="9373" column="7" lean-forward="false" selection-start-line="9373" selection-start-column="7" selection-end-line="9373" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/model_saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
