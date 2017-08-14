@@ -3,20 +3,21 @@ import requests
 
 
 URL = "https://www.cnet.com/topics/tech-industry/%d"
-file = open('cnet.txt', 'a')
+file = open('cnet_.txt', 'a')
 
 # r  = requests.get("https://techcrunch.com/page/2")
 
-for i in xrange(245, 250):
+for i in xrange(1, 5):
     r = requests.get(URL % i)
     print URL % i
     soup = BeautifulSoup(r.text, 'lxml')
 
     for link in soup.select('#topicListing .assetBody > a'):
         link = 'https://www.cnet.com' + link.get('href')
-        print(link)
+
 
         if 'video' not in link and 'pictures' not in link:
+            print(link)
             article = requests.get(link)
             article_soup = BeautifulSoup(article.text, 'lxml')
             para = article_soup.select('article')[0].find_all('p')

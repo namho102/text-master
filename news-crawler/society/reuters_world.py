@@ -2,9 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 
 URL = "http://uk.reuters.com/news/archive/worldNews?view=page&page=%d&pageSize=20"
-file = open('reuters_world2.txt', 'a')
+file = open('reuters_world_.txt', 'a')
 
-for i in range(1560, 1570):
+for i in range(1, 10):
     print URL %i
     r = requests.get(URL % i)
     # print r.text

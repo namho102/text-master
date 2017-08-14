@@ -3,10 +3,10 @@ import requests
 
 URL = "https://www.theguardian.com/sport?page=%d"
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-file = open('theguardian.txt', 'a')
+file = open('theguardian_.txt', 'a')
 
 
-for i in range(63, 70):
+for i in range(1, 10):
     print URL %i
     r = requests.get(URL % i, headers = headers)
     # print r.text
@@ -14,7 +14,7 @@ for i in range(63, 70):
 
     for link in soup.select('.fc-item__content a'):
         link = link.get('href')
-        print link
+
         if not (link.startswith('https://www.theguardian.com/sport/live')
                 or link.startswith('https://www.theguardian.com/sport/gallery')
                 or link.startswith('https://www.theguardian.com/football/gallery')
@@ -28,6 +28,7 @@ for i in range(63, 70):
                 or link.startswith('https://www.theguardian.com/football/blog/audio')
                 or link.startswith('https://www.theguardian.com/artanddesign')
                 or link.startswith('https://www.theguardian.com/football/ng-interactive')):
+            print link
             article = requests.get(link, headers = headers)
             article_soup = BeautifulSoup(article.text, 'lxml')
             para = article_soup.select('.content__article-body')[0].find_all('p')

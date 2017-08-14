@@ -3,10 +3,10 @@ import requests
 
 URL = "http://www.cnbc.com/investing/?page=%d"
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-file = open('cnbc.txt', 'a')
+file = open('cnbc_.txt', 'a')
 
 
-for i in range(360, 370):
+for i in range(3, 10):
     print URL %i
     r = requests.get(URL % i, headers = headers)
     # print r.text
@@ -14,8 +14,9 @@ for i in range(360, 370):
 
     for link in soup.select('.stories_assetlist .headline a'):
         link = 'http://www.cnbc.com' + link.get('href')
-        print link
-        if 'bankrate' not in link:
+
+        if 'bankrate' not in link and 'video' not in link:
+            print link
             article = requests.get(link, headers=headers)
             article_soup = BeautifulSoup(article.text, 'lxml')
 

@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 import requests
 
 URL = "http://www.bleacherreport.com/mlb/archives/newest/%d"
-file = open('bleacherreport.txt', 'a')
+file = open('bleacherreport_.txt', 'a')
 
 
-for i in range(75, 80):
+for i in range(1, 10):
     print URL % i
     r = requests.get(URL % i)
 

@@ -3,17 +3,17 @@ import requests
 
 URL = "http://www.huffingtonpost.com/section/arts?page=%d"
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-file = open('huffpost.txt', 'a')
+file = open('huffpost_.txt', 'a')
 
 
-for i in range(3, 4):
+for i in range(1, 4):
     print URL %i
     r = requests.get(URL % i, headers = headers)
     # print r.text
     soup = BeautifulSoup(r.text, 'lxml')
 
     for link in soup.select('.card__headline .card__link'):
-        link = link.get('href')
+        link = 'http://www.huffingtonpost.com' + link.get('href')
         print link
         article = requests.get(link, headers=headers)
         article_soup = BeautifulSoup(article.text, 'lxml')

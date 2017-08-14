@@ -3,11 +3,11 @@ import requests
 
 
 URL = "http://gizmodo.com/tag/science?startIndex=%d"
-file = open('gizmodo.txt', 'a')
+file = open('gizmodo_.txt', 'a')
 
 # r  = requests.get("https://techcrunch.com/page/2")
 
-for i in xrange(55, 60):
+for i in xrange(1, 5):
     index = 1400 + i*20
     r = requests.get(URL % index)
     print URL % index

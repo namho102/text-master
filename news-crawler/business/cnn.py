@@ -3,10 +3,10 @@ import requests
 
 URL = "http://money.cnn.com/news/briefing/?daysAgo=%d&type=article"
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-file = open('cnn.txt', 'a')
+file = open('cnn_.txt', 'a')
 
 #July - June
-for i in range(241, 250):
+for i in range(1, 10):
     print URL %i
     r = requests.get(URL % i, headers = headers)
     # print r.text

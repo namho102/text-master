@@ -26,3 +26,8 @@ my_test = ["VR's mind tricks can teleport you into a Pixar-like world where your
 
 my_pred = loaded_model.predict(vectorizer.transform(my_test))
 print my_pred
+
+while True:
+    print "Enter a sentence:",
+    sentence = raw_input()
+    print(loaded_model.predict(vectorizer.transform([sentence])))
