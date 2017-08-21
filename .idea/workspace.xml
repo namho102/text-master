@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/vocabulary2/business.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/vocabulary2/entertainment.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/vocabulary2/society.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/vocabulary2/sport.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNB/vocabulary2/tech.csv" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/news-crawler/.~lock.article_figures.csv#" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/fre2.py" afterPath="$PROJECT_DIR$/MNB/fre2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -749,7 +742,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502724309397</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Update v">
+      <created>1503306379138</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1503306379138</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -820,7 +820,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update results" />
     <MESSAGE value="Add SVM" />
     <MESSAGE value="Add Grid Search CV" />
     <MESSAGE value="Refactoring tech section." />
@@ -845,7 +844,8 @@
     <MESSAGE value="Dump model to files :sparkles:" />
     <MESSAGE value="Add article figures" />
     <MESSAGE value="Update README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README" />
+    <MESSAGE value="Update v" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update v" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
