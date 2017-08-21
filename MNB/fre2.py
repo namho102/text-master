@@ -7,7 +7,7 @@ def export_vocabulary(topic):
     file = open('text/' + topic + '_.txt', 'r')
     text = file.read().decode('utf-8')
 
-    topic_word = text.lower().replace('.', " ").split()
+    topic_word = text.replace('.', " ").split()
 
 
     word_count = Counter(topic_word)
@@ -54,7 +54,7 @@ def export_vocabulary(topic):
 
 
 
-    with open('vocabulary/' + topic + '_.csv', 'wb') as outcsv:
+    with open('vocabulary2/' + topic + '.csv', 'wb') as outcsv:
         writer = csv.writer(outcsv)
         writer.writerow(["Word", "Follower", "Count"])
 
