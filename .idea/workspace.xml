@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summarization/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summarization/summarize_text.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/summarization/summary_tool.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MNB/model_loader.py" afterPath="$PROJECT_DIR$/MNB/model_loader.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +21,7 @@
       <file leaf-file-name="validate_training_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/validate_training_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
+            <state relative-caret-position="765">
               <caret line="52" column="40" lean-forward="false" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -26,12 +30,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fre2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sk_mnb3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fre2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNB/fre2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+            <state relative-caret-position="646">
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="summarize_text.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/summarization/summarize_text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1870">
+              <caret line="114" column="36" lean-forward="false" selection-start-line="114" selection-start-column="36" selection-end-line="114" selection-end-column="36" />
+              <folding>
+                <element signature="e#1#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model_loader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNB/model_loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="summary_tool.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/summarization/summary_tool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="172" column="75" lean-forward="false" selection-start-line="172" selection-start-column="75" selection-end-line="172" selection-end-column="75" />
+              <folding>
+                <element signature="e#15#46#0" expanded="true" />
+                <element signature="e#1182#1245#0" expanded="false" />
+                <element signature="e#3599#9798#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,8 +111,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>compa</find>
-      <find>com</find>
       <find>html</find>
       <find>&lt;</find>
       <find>company</find>
@@ -89,6 +139,8 @@
       <find>page=</find>
       <find>page</find>
       <find>archive</find>
+      <find>dat</find>
+      <find>title</find>
     </findStrings>
     <replaceStrings>
       <replace>sentence_list</replace>
@@ -102,9 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MNB/text/business.txt" />
-        <option value="$PROJECT_DIR$/MNB/text/entertainment.txt" />
-        <option value="$PROJECT_DIR$/MNB/text/test_.txt" />
         <option value="$PROJECT_DIR$/MNB/text/test.txt" />
         <option value="$PROJECT_DIR$/MNB/ngram.py" />
         <option value="$PROJECT_DIR$/MNB/preprocess3.py" />
@@ -116,7 +165,6 @@
         <option value="$PROJECT_DIR$/MNB/fr2e.py" />
         <option value="$PROJECT_DIR$/server/model_saver.py" />
         <option value="$PROJECT_DIR$/MNB/model_saver.py" />
-        <option value="$PROJECT_DIR$/MNB/model_loader.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/cnet.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/cnet_.txt" />
         <option value="$PROJECT_DIR$/news-crawler/tech/gizmodo.py" />
@@ -153,6 +201,10 @@
         <option value="$PROJECT_DIR$/MNB/sci_mnb.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/MNB/fre2.py" />
+        <option value="$PROJECT_DIR$/summarize_text.py" />
+        <option value="$PROJECT_DIR$/summarization/summarize_text.py" />
+        <option value="$PROJECT_DIR$/MNB/model_loader.py" />
+        <option value="$PROJECT_DIR$/summarization/summary_tool.py" />
       </list>
     </option>
   </component>
@@ -177,7 +229,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,31 +252,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="summarization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="MNB" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/summarization" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/MNB" />
+      <recent name="$PROJECT_DIR$/news-crawler/wc" />
+      <recent name="$PROJECT_DIR$/MNB/csv" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MNB" />
       <recent name="$PROJECT_DIR$/fast" />
       <recent name="$PROJECT_DIR$/news-crawler/business" />
       <recent name="$PROJECT_DIR$/news-crawler/culture" />
       <recent name="$PROJECT_DIR$/news-crawler" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/MNB" />
-      <recent name="$PROJECT_DIR$/news-crawler/wc" />
-      <recent name="$PROJECT_DIR$/MNB/csv" />
-      <recent name="$PROJECT_DIR$/news-crawler/tech" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -240,61 +306,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fre2">
-    <configuration default="false" name="cnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/business" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/business/cnn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ibtimes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/business" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/business/ibtimes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="vox (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news-crawler/business" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news-crawler/business/vox.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.summary_tool">
     <configuration default="false" name="Unittests in sci_mnb.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,6 +336,60 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/fre2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="summarize_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/summarization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/summarization/summarize_text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="model_loader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/model_loader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="summary_tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/summarization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/summarization/summary_tool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,19 +480,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.cnn" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ibtimes" />
-      <item index="2" class="java.lang.String" itemvalue="Python.vox (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python.fre2" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python.fre2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.summarize_text" />
+      <item index="3" class="java.lang.String" itemvalue="Python.model_loader" />
+      <item index="4" class="java.lang.String" itemvalue="Python.summary_tool" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.fre2" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python.vox (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ibtimes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.cnn" />
+        <item index="0" class="java.lang.String" itemvalue="Python.summary_tool" />
+        <item index="1" class="java.lang.String" itemvalue="Python.model_loader" />
+        <item index="2" class="java.lang.String" itemvalue="Python.summarize_text" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fre2" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in sci_mnb.py" />
       </list>
     </recent_temporary>
   </component>
@@ -749,7 +815,14 @@
       <option name="project" value="LOCAL" />
       <updated>1503306379138</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Update vocabulary">
+      <created>1503306396743</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1503306396743</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -795,11 +868,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="-11" width="1922" height="1039" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18409818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19477054" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33701658" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2950276" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605043" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -820,7 +894,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add SVM" />
     <MESSAGE value="Add Grid Search CV" />
     <MESSAGE value="Refactoring tech section." />
     <MESSAGE value="Update tech section :hammer:" />
@@ -845,7 +918,8 @@
     <MESSAGE value="Add article figures" />
     <MESSAGE value="Update README" />
     <MESSAGE value="Update v" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update v" />
+    <MESSAGE value="Update vocabulary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update vocabulary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -865,27 +939,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/theatlantic.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="12745" column="266" lean-forward="true" selection-start-line="12745" selection-start-column="266" selection-end-line="12745" selection-end-column="266" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/huffpost.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news-crawler/society/politico.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news-crawler/society/reuters_world.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1124,23 +1177,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MNB/fre.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-646">
@@ -1211,9 +1247,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/sk_mnb3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MNB/validate_training_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
+        <state relative-caret-position="765">
           <caret line="52" column="40" lean-forward="false" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -1223,9 +1267,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MNB/fre2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        <state relative-caret-position="646">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summarization/summarize_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="114" column="36" lean-forward="false" selection-start-line="114" selection-start-column="36" selection-end-line="114" selection-end-column="36" />
+          <folding>
+            <element signature="e#1#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/preprocess3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNB/model_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summarization/summary_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="172" column="75" lean-forward="false" selection-start-line="172" selection-start-column="75" selection-end-line="172" selection-end-column="75" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+            <element signature="e#1182#1245#0" expanded="false" />
+            <element signature="e#3599#9798#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

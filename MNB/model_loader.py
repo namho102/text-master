@@ -1,5 +1,5 @@
 from sklearn.externals import joblib
-
+import numpy as np
 
 filename = 'finalized_model2.sav'
 loaded_model = joblib.load(filename)
@@ -24,10 +24,19 @@ my_test = ["VR's mind tricks can teleport you into a Pixar-like world where your
 
 
 
-my_pred = loaded_model.predict(vectorizer.transform(my_test))
-print my_pred
+# my_pred = loaded_model.predict(vectorizer.transform(my_test))
+# print my_pred
 
-while True:
-    print "Enter a sentence:",
-    sentence = raw_input()
-    print(loaded_model.predict(vectorizer.transform([sentence])))
+sentence = """"Some said they had also been contacted by people claiming to be other stars like Ryan Reynolds, Ryan Gosling and Hugh Jackman - but the vast majority said they had quickly sniffed out the deception."""
+pred = loaded_model.predict_proba(vectorizer.transform([sentence]))[0]
+
+# print(pred)
+# # print(pred.index(max(pred)))
+# print(np.argmax(pred))
+
+for prob in pred:
+    print(prob)
+# while True:
+#     print "Enter a sentence:",
+#     sentence = raw_input()
+#     print(loaded_model.predict_proba(vectorizer.transform([sentence])))
