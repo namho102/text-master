@@ -5,7 +5,7 @@ URL = "http://www.reuters.com/news/archive/sportsNews?view=page&page=%d&pageSize
 file = open('reuters_sport_.txt', 'a')
 
 
-for i in range(1, 10):
+for i in range(40, 50):
     print URL %i
     r = requests.get(URL % i)
     # print r.text
@@ -29,5 +29,5 @@ for i in range(1, 10):
         #     file.write('\n')
         #     file.write(text)
 
-
+        file.write('\n!!!@@@$$$\n') 
 

@@ -6,7 +6,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleW
 file = open('theatlantic_.txt', 'a')
 
 
-for i in range(1, 10):
+for i in range(15, 25):
     print URL %i
     r = requests.get(URL % i, headers = headers)
     # print r.text
@@ -24,6 +24,8 @@ for i in range(1, 10):
             text = text.encode('utf-8').strip()
             file.write('\n')
             file.write(text)
+
+        file.write('\n!!!@@@$$$\n') 
 
 
 

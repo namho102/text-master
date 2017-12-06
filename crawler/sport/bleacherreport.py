@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 import requests
 
 URL = "http://www.bleacherreport.com/mlb/archives/newest/%d"
-file = open('bleacherreport_.txt', 'a')
+file = open('bleacherreport.txt', 'a')
 
 
-for i in range(1, 10):
+for i in range(15, 25):
     print URL % i
     r = requests.get(URL % i)
 
@@ -23,6 +23,8 @@ for i in range(1, 10):
             text = text.encode('utf-8').strip()
             file.write('\n')
             file.write(text)
+
+        file.write('\n!!!@@@$$$\n')     
 
 
 

@@ -3,10 +3,10 @@ import requests
 
 URL = "https://www.theguardian.com/sport?page=%d"
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-file = open('theguardian_.txt', 'a')
+file = open('theguardian.txt', 'a')
 
 
-for i in range(1, 10):
+for i in range(50, 60):
     print URL %i
     r = requests.get(URL % i, headers = headers)
     # print r.text
@@ -37,6 +37,8 @@ for i in range(1, 10):
                 text = text.encode('utf-8').strip()
                 file.write('\n')
                 file.write(text)
+
+            file.write('\n!!!@@@$$$\n')                 
 
 
 
