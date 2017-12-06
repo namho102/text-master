@@ -4,7 +4,7 @@ import requests
 URL = "http://uk.reuters.com/news/archive/worldNews?view=page&page=%d&pageSize=20"
 file = open('reuters_world_.txt', 'a')
 
-for i in range(1, 10):
+for i in range(55, 70):
     print URL %i
     r = requests.get(URL % i)
     # print r.text
@@ -27,6 +27,8 @@ for i in range(1, 10):
         #     text = text.encode('utf-8').strip()
         #     file.write('\n')
         #     file.write(text)
+
+        file.write('\n!!!@@@$$$\n') 
 
 
 
