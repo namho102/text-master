@@ -3,11 +3,11 @@ import requests
 
 
 URL = "https://techcrunch.com/page/%d"
-file = open('techcrunch_.txt', 'a')
+file = open('techcrunch.txt', 'a')
 
 # r  = requests.get("https://techcrunch.com/page/2")
 
-for i in range(1, 10):
+for i in range(20, 30):
     r = requests.get(URL % i)
     soup = BeautifulSoup(r.text, 'lxml')
     for link in soup.select('.post-title a'):
@@ -21,5 +21,7 @@ for i in range(1, 10):
             text = text.encode('utf-8').strip()
             file.write('\n')
             file.write(text)
+
+        file.write('\n!!!@@@$$$\n') 
 
 

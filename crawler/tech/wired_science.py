@@ -3,11 +3,11 @@ import requests
 
 
 URL = "https://www.wired.com/category/science/page/%d"
-file = open('wired_science_.txt', 'a')
+file = open('wired_science.txt', 'a')
 
 # r  = requests.get("https://techcrunch.com/page/2")
 
-for i in range(1, 10):
+for i in range(10, 20):
     r = requests.get(URL % i)
     print URL % i
     soup = BeautifulSoup(r.text, 'lxml')
@@ -24,4 +24,6 @@ for i in range(1, 10):
             text = text.encode('utf-8').strip()
             file.write('\n')
             file.write(text)
+
+        file.write('\n!!!@@@$$$\n') 
 

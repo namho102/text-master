@@ -3,11 +3,11 @@ import requests
 
 
 URL = "https://www.cnet.com/topics/tech-industry/%d"
-file = open('cnet_.txt', 'a')
+file = open('cnet.txt', 'a')
 
 # r  = requests.get("https://techcrunch.com/page/2")
 
-for i in xrange(1, 5):
+for i in xrange(30, 40):
     r = requests.get(URL % i)
     print URL % i
     soup = BeautifulSoup(r.text, 'lxml')
@@ -27,4 +27,8 @@ for i in xrange(1, 5):
                     text = text.encode('utf-8').strip()
                     file.write('\n')
                     file.write(text)
+
+            file.write('\n!!!@@@$$$\n')   
+
+
 

@@ -3,12 +3,12 @@ import requests
 
 
 URL = "http://gizmodo.com/tag/science?startIndex=%d"
-file = open('gizmodo_.txt', 'a')
+file = open('gizmodo.txt', 'a')
 
 # r  = requests.get("https://techcrunch.com/page/2")
 
-for i in xrange(1, 5):
-    index = 1400 + i*20
+for i in xrange(6, 10):
+    index = i*20
     r = requests.get(URL % index)
     print URL % index
     soup = BeautifulSoup(r.text, 'lxml')
@@ -25,4 +25,6 @@ for i in xrange(1, 5):
             text = text.encode('utf-8').strip()
             file.write('\n')
             file.write(text)
+
+        file.write('\n!!!@@@$$$\n')   
 
