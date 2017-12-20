@@ -3,7 +3,7 @@ import requests
 
 URL = "http://www.ibtimes.com/business?page=%d"
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-file = open('ibtimes.txt', 'a')
+file = open('ibtimes1.txt', 'a')
 
 for i in range(1, 10):
     print URL %i
