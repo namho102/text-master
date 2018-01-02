@@ -7,7 +7,7 @@ file = open('cnet.txt', 'a')
 
 # r  = requests.get("https://techcrunch.com/page/2")
 
-for i in xrange(30, 40):
+for i in xrange(1, 10):
     r = requests.get(URL % i)
     print URL % i
     soup = BeautifulSoup(r.text, 'lxml')

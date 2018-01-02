@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 import requests
 
 URL = "http://www.reuters.com/news/archive/sportsNews?view=page&page=%d&pageSize=20"
-file = open('reuters_sport_.txt', 'a')
+file = open('reuters_sport1.txt', 'a')
 
 
-for i in range(40, 50):
+for i in range(15, 30):
     print URL %i
     r = requests.get(URL % i)
     # print r.text
@@ -16,7 +16,7 @@ for i in range(40, 50):
         print link
         article = requests.get(link)
         article_soup = BeautifulSoup(article.text, 'lxml')
-        para = article_soup.select('.ArticleBody_body_2ECha')[0].find_all('p')
+        para = article_soup.select('.StandardArticleBody_body_1gnLA')[0].find_all('p')
         # print(len(para))
         for i in range(0, len(para) - 1):
             text = para[i].getText()
