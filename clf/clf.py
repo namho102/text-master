@@ -5,12 +5,14 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn import metrics
 import csv
 from sklearn.metrics import classification_report, confusion_matrix
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
+
 
 def get_topic_list(topic_name):
-    with open('csv/' + topic_name + '.csv','rb') as f:
+    with open('csv/' + topic_name + '.csv', 'rb') as f:
         reader = csv.reader(f)
         return [tuple(row) for row in reader]
+
 
 def get_full_list(topics):
     full_list = []
@@ -20,21 +22,24 @@ def get_full_list(topics):
 
     return full_list
 
-def split_train_test(full_list):
+
+def split_train_test(full_list, ratio):
     sample = random.sample(full_list, len(full_list))
     X = [sent[0] for sent in sample]
     y = [sent[1] for sent in sample]
 
-
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=ratio)
     # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=100)
-    return (X_train, y_train, X_test, y_test)
+    return X_train, y_train, X_test, y_test
 
 
-topics = ['tech', 'sport', 'entertainment', 'business', 'society']
+topics = ['business', 'culture', 'society', 'sport', 'tech']
 time0 = time.time()
 full_list = get_full_list(topics)
-(X_train, y_train, X_test, y_test) = split_train_test(full_list)
+# (X_train, y_train, X_test, y_test) = split_train_test(full_list)
+list_len = len(full_list)
+
+(X_train, y_train, X_test, y_test) = split_train_test(full_list, 0.3)
 print(len(y_train))
 print(len(y_test))
 
@@ -79,7 +84,6 @@ my_test = ["VR's mind tricks can teleport you into a Pixar-like world where your
            "Kaine on Thursday voted to give Mattis a waiver that will allow him to bypass the requirement that Defense secretaries be out of uniform for at least seven years.",
            "Leaders are expected to brief rank-and-file Republican senators Tuesday during their weekly lunch on revisions they have made to the legislation."
            ]
-
 
 
 my_pred = clf.predict(vectorizer.transform(my_test))

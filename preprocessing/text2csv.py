@@ -10,7 +10,7 @@ def write_csv(topic):
 
         nums = [2, 3, 4]
         # random.choice(mylist)
-        with open('csv/' + topic + '.csv', 'wb') as csvfile:
+        with open('master_csv/' + topic + '.master_csv', 'wb') as csvfile:
             writer = csv.writer(csvfile)
 
             sentence_list = sent_tokenize(text)

@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/crawler/society.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/csv/business.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/csv/culture.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/csv/society.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/csv/sport.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/csv/tech.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/text2csv.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/csv/culture.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/master_csv/business.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/master_csv/society.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/master_csv/sport.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/master_csv/tech.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/record.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/data/test.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/data/train.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/split_train_test.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/preprocess1.py" afterPath="$PROJECT_DIR$/preprocessing/fix_text.py" />
+      <change beforePath="$PROJECT_DIR$/clf.py" afterPath="$PROJECT_DIR$/clf.py" />
+      <change beforePath="$PROJECT_DIR$/clf/clf.py" afterPath="$PROJECT_DIR$/clf/clf.py" />
+      <change beforePath="$PROJECT_DIR$/clf/csv/business.csv" afterPath="$PROJECT_DIR$/clf/csv/business.csv" />
+      <change beforePath="$PROJECT_DIR$/clf/csv/entertainment.csv" afterPath="$PROJECT_DIR$/clf/master_csv/entertainment.csv" />
+      <change beforePath="$PROJECT_DIR$/clf/csv/society.csv" afterPath="$PROJECT_DIR$/clf/csv/society.csv" />
+      <change beforePath="$PROJECT_DIR$/clf/csv/sport.csv" afterPath="$PROJECT_DIR$/clf/csv/sport.csv" />
+      <change beforePath="$PROJECT_DIR$/clf/csv/tech.csv" afterPath="$PROJECT_DIR$/clf/csv/tech.csv" />
+      <change beforePath="$PROJECT_DIR$/preprocessing/csv/business.csv" afterPath="$PROJECT_DIR$/preprocessing/csv/business.csv" />
+      <change beforePath="$PROJECT_DIR$/preprocessing/csv/society.csv" afterPath="$PROJECT_DIR$/preprocessing/csv/society.csv" />
+      <change beforePath="$PROJECT_DIR$/preprocessing/text2csv.py" afterPath="$PROJECT_DIR$/preprocessing/text2csv.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +35,7 @@
       <file leaf-file-name="fix_text.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preprocessing/fix_text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="0">
               <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="60" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -33,14 +44,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text2csv.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="text2csv.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preprocessing/text2csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="594">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="35" selection-end-column="20" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clf/clf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="split_train_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/preprocessing/split_train_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="record.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clf/record.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,9 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MNB/new_words.txt" />
-        <option value="$PROJECT_DIR$/MNB/fre.py" />
-        <option value="$PROJECT_DIR$/MNB/fr2e.py" />
         <option value="$PROJECT_DIR$/server/model_saver.py" />
         <option value="$PROJECT_DIR$/MNB/model_saver.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/cnet.py" />
@@ -150,6 +192,9 @@
         <option value="$PROJECT_DIR$/preprocessing/text/preprocess1.py" />
         <option value="$PROJECT_DIR$/preprocessing/preprocess1.py" />
         <option value="$PROJECT_DIR$/preprocessing/text2csv.py" />
+        <option value="$PROJECT_DIR$/clf/record.txt" />
+        <option value="$PROJECT_DIR$/clf/clf.py" />
+        <option value="$PROJECT_DIR$/preprocessing/split_train_test.py" />
       </list>
     </option>
   </component>
@@ -160,10 +205,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="517" />
-    <option name="y" value="293" />
-    <option name="width" value="1543" />
-    <option name="height" value="877" />
+    <option name="x" value="242" />
+    <option name="y" value="42" />
+    <option name="width" value="1588" />
+    <option name="height" value="932" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -183,7 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -207,10 +251,17 @@
               <item name="TM-DEV" type="462c0819:PsiDirectoryNode" />
               <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TM-DEV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TM-DEV" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,19 +270,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/MNB" />
-      <recent name="$PROJECT_DIR$/fast" />
-      <recent name="$PROJECT_DIR$/news-crawler/business" />
-      <recent name="$PROJECT_DIR$/news-crawler/culture" />
-      <recent name="$PROJECT_DIR$/news-crawler" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/preprocessing" />
       <recent name="$PROJECT_DIR$/summarization" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/MNB" />
       <recent name="$PROJECT_DIR$/news-crawler/wc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/clf" />
+      <recent name="$PROJECT_DIR$/MNB" />
+      <recent name="$PROJECT_DIR$/fast" />
+      <recent name="$PROJECT_DIR$/news-crawler/business" />
+      <recent name="$PROJECT_DIR$/news-crawler/culture" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.text2csv">
+  <component name="RunManager" selected="Python.split_train_test">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,41 +317,41 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="model_loader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="clf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clf" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/model_loader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clf/clf.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="summarize_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="split_train_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/summarization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocessing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/summarization/summarize_text.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing/split_train_test.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
@@ -428,19 +479,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.summarize_text" />
-      <item index="1" class="java.lang.String" itemvalue="Python.model_loader" />
-      <item index="2" class="java.lang.String" itemvalue="Python.summary_tool" />
-      <item index="3" class="java.lang.String" itemvalue="Python.word_cloud" />
-      <item index="4" class="java.lang.String" itemvalue="Python.text2csv" />
+      <item index="0" class="java.lang.String" itemvalue="Python.summary_tool" />
+      <item index="1" class="java.lang.String" itemvalue="Python.word_cloud" />
+      <item index="2" class="java.lang.String" itemvalue="Python.text2csv" />
+      <item index="3" class="java.lang.String" itemvalue="Python.clf" />
+      <item index="4" class="java.lang.String" itemvalue="Python.split_train_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.text2csv" />
-        <item index="1" class="java.lang.String" itemvalue="Python.word_cloud" />
-        <item index="2" class="java.lang.String" itemvalue="Python.summary_tool" />
-        <item index="3" class="java.lang.String" itemvalue="Python.model_loader" />
-        <item index="4" class="java.lang.String" itemvalue="Python.summarize_text" />
+        <item index="0" class="java.lang.String" itemvalue="Python.split_train_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.clf" />
+        <item index="2" class="java.lang.String" itemvalue="Python.text2csv" />
+        <item index="3" class="java.lang.String" itemvalue="Python.word_cloud" />
+        <item index="4" class="java.lang.String" itemvalue="Python.summary_tool" />
       </list>
     </recent_temporary>
   </component>
@@ -780,7 +831,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515127052464</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Add text to csv">
+      <created>1515477869456</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1515477869457</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -825,17 +883,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="517" y="293" width="1543" height="877" extended-state="0" />
+    <frame x="242" y="42" width="1588" height="932" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3250927" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49617347" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30035758" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.254497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2503234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -846,7 +905,6 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="371" height="702" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -858,7 +916,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactoring tech section." />
     <MESSAGE value="Update tech section :hammer:" />
     <MESSAGE value="Update sp section :hammer:" />
     <MESSAGE value="Update sport section" />
@@ -883,7 +940,8 @@
     <MESSAGE value="Update v" />
     <MESSAGE value="Update vocabulary" />
     <MESSAGE value="Update word cloud" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update word cloud" />
+    <MESSAGE value="Add text to csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add text to csv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -903,11 +961,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news-crawler/culture/usmagazine_.txt" />
-    <entry file="file://$PROJECT_DIR$/news-crawler/culture/usmagazine.txt" />
-    <entry file="file://$PROJECT_DIR$/news-crawler/culture/vox_.txt" />
-    <entry file="file://$PROJECT_DIR$/news-crawler/culture/vox.txt" />
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/abc.py" />
     <entry file="file://$PROJECT_DIR$/news-crawler/business/abc_.txt" />
     <entry file="file://$PROJECT_DIR$/news-crawler/business/abc.txt" />
     <entry file="file://$PROJECT_DIR$/news-crawler/business/cnbc.py" />
@@ -977,7 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,7 +1037,7 @@
     <entry file="file://$PROJECT_DIR$/preprocessing/fixedbusiness_.txt" />
     <entry file="file://$PROJECT_DIR$/preprocessing/fix_text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="0">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="60" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -993,12 +1045,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/clf/csv/tech.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clf/record.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clf/clf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/preprocessing/text2csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="594">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="35" selection-end-column="20" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/data/train.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/split_train_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>

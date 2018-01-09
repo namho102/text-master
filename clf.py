@@ -8,7 +8,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.cross_validation import train_test_split
 
 def get_topic_list(topic_name):
-    with open('csv/' + topic_name + '.csv','rb') as f:
+    with open('master_csv/' + topic_name + '.master_csv','rb') as f:
         reader = csv.reader(f)
         return [tuple(row) for row in reader]
 
