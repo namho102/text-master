@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/crawler/society.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/csv/business.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/csv/culture.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/csv/society.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/csv/sport.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/csv/tech.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/text2csv.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/after_removing_duplicate_lines/business.txt" afterPath="$PROJECT_DIR$/preprocessing/after_removing_duplicate_lines/business.txt" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/after_removing_duplicate_lines/culture.txt" afterPath="$PROJECT_DIR$/preprocessing/after_removing_duplicate_lines/culture.txt" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/after_removing_duplicate_lines/society.txt" afterPath="$PROJECT_DIR$/preprocessing/after_removing_duplicate_lines/society.txt" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/after_removing_duplicate_lines/sport.txt" afterPath="$PROJECT_DIR$/preprocessing/after_removing_duplicate_lines/sport.txt" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/after_removing_duplicate_lines/tech.txt" afterPath="$PROJECT_DIR$/preprocessing/after_removing_duplicate_lines/tech.txt" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/raw/business.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/raw/culture.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/raw/society.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/raw/sport.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/raw/tech.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/word_cloud/business.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/word_cloud/culture.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/word_cloud/society.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/word_cloud/sport.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/word_cloud/stop-word-list.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/word_cloud/tech.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/text/word_cloud/word_cloud.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/preprocessing/preprocess1.py" afterPath="$PROJECT_DIR$/preprocessing/fix_text.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,13 +21,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="preprocess1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/preprocessing/preprocess1.py">
+      <file leaf-file-name="fix_text.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preprocessing/fix_text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="60" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text2csv.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/preprocessing/text2csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MNB/text/tech_.txt" />
         <option value="$PROJECT_DIR$/MNB/new_words.txt" />
         <option value="$PROJECT_DIR$/MNB/fre.py" />
         <option value="$PROJECT_DIR$/MNB/fr2e.py" />
@@ -147,6 +149,7 @@
         <option value="$PROJECT_DIR$/preprocessing/text/dirty_text.txt" />
         <option value="$PROJECT_DIR$/preprocessing/text/preprocess1.py" />
         <option value="$PROJECT_DIR$/preprocessing/preprocess1.py" />
+        <option value="$PROJECT_DIR$/preprocessing/text2csv.py" />
       </list>
     </option>
   </component>
@@ -157,8 +160,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="177" />
-    <option name="y" value="40" />
+    <option name="x" value="517" />
+    <option name="y" value="293" />
     <option name="width" value="1543" />
     <option name="height" value="877" />
   </component>
@@ -180,6 +183,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,20 +195,22 @@
             <path>
               <item name="TM-DEV" type="b2602c69:ProjectViewProjectNode" />
               <item name="TM-DEV" type="462c0819:PsiDirectoryNode" />
-              <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="clf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TM-DEV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TM-DEV" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TM-DEV" type="b2602c69:ProjectViewProjectNode" />
               <item name="TM-DEV" type="462c0819:PsiDirectoryNode" />
               <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="fixed" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.word_cloud">
+  <component name="RunManager" selected="Python.text2csv">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,25 +263,6 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="fre2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNB/fre2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
@@ -332,6 +320,25 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/summarization/summary_tool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="text2csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing/text2csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
@@ -421,19 +428,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.fre2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.summarize_text" />
-      <item index="2" class="java.lang.String" itemvalue="Python.model_loader" />
-      <item index="3" class="java.lang.String" itemvalue="Python.summary_tool" />
-      <item index="4" class="java.lang.String" itemvalue="Python.word_cloud" />
+      <item index="0" class="java.lang.String" itemvalue="Python.summarize_text" />
+      <item index="1" class="java.lang.String" itemvalue="Python.model_loader" />
+      <item index="2" class="java.lang.String" itemvalue="Python.summary_tool" />
+      <item index="3" class="java.lang.String" itemvalue="Python.word_cloud" />
+      <item index="4" class="java.lang.String" itemvalue="Python.text2csv" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.word_cloud" />
-        <item index="1" class="java.lang.String" itemvalue="Python.summary_tool" />
-        <item index="2" class="java.lang.String" itemvalue="Python.model_loader" />
-        <item index="3" class="java.lang.String" itemvalue="Python.summarize_text" />
-        <item index="4" class="java.lang.String" itemvalue="Python.fre2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.text2csv" />
+        <item index="1" class="java.lang.String" itemvalue="Python.word_cloud" />
+        <item index="2" class="java.lang.String" itemvalue="Python.summary_tool" />
+        <item index="3" class="java.lang.String" itemvalue="Python.model_loader" />
+        <item index="4" class="java.lang.String" itemvalue="Python.summarize_text" />
       </list>
     </recent_temporary>
   </component>
@@ -818,21 +825,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="177" y="40" width="1543" height="877" extended-state="0" />
+    <frame x="517" y="293" width="1543" height="877" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.272203" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3250927" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49617347" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2511659" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.254497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39966273" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39966273" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -896,7 +903,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news-crawler/culture/usmagazine.py" />
     <entry file="file://$PROJECT_DIR$/news-crawler/culture/usmagazine_.txt" />
     <entry file="file://$PROJECT_DIR$/news-crawler/culture/usmagazine.txt" />
     <entry file="file://$PROJECT_DIR$/news-crawler/culture/vox_.txt" />
@@ -946,18 +952,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/text/raw/business.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-680">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/text/word_cloud/sport.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/text/raw/business.txt" />
+    <entry file="file://$PROJECT_DIR$/preprocessing/text/word_cloud/sport.png" />
     <entry file="file://$PROJECT_DIR$/crawler/business/abc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -965,54 +961,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/text/word_cloud/stop-word-list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="175" column="8" lean-forward="false" selection-start-line="175" selection-start-column="8" selection-end-line="175" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/text/word_cloud/stop-word-list.txt" />
     <entry file="file://$PROJECT_DIR$/preprocessing/after_removing_duplicate_lines/business.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/text/word_cloud/word_cloud.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/text/dirty_text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/text/preprocess1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/dirty_text_.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/text/word_cloud/word_cloud.py" />
+    <entry file="file://$PROJECT_DIR$/preprocessing/text/dirty_text.txt" />
+    <entry file="file://$PROJECT_DIR$/preprocessing/text/preprocess1.py" />
+    <entry file="file://$PROJECT_DIR$/preprocessing/dirty_text_.txt" />
     <entry file="file:///Library/Python/2.7/site-packages/ftfy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -1021,28 +981,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/fixedculture_.txt">
+    <entry file="file://$PROJECT_DIR$/preprocessing/fixedculture_.txt" />
+    <entry file="file://$PROJECT_DIR$/preprocessing/fixedbusiness_.txt" />
+    <entry file="file://$PROJECT_DIR$/preprocessing/fix_text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/fixedbusiness_.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="48" column="48" lean-forward="true" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/preprocess1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="60" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/text2csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
