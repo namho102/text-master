@@ -16,7 +16,7 @@ def get_full_list(topics):
     return full_list
 
 
-def split_train_test(full_list, ratio=0.7):
+def split_train_test(full_list, ratio=0.9):
     random.shuffle(full_list)
 
     list_len = len(full_list)
