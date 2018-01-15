@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/clf/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clf/top_tfidf.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clf/validated_csv/business.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clf/validated_csv/culture.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clf/validated_csv/society.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clf/validated_csv/sport.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clf/validated_csv/tech.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validate_training_data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validated_csv/business.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validated_csv/culture.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validated_csv/society.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validated_csv/sport.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validated_csv/tech.csv" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/clf/clf.py" afterPath="$PROJECT_DIR$/clf/clf.py" />
       <change beforePath="$PROJECT_DIR$/preprocessing/csv/business.csv" afterPath="$PROJECT_DIR$/preprocessing/csv/business.csv" />
       <change beforePath="$PROJECT_DIR$/preprocessing/csv/society.csv" afterPath="$PROJECT_DIR$/preprocessing/csv/society.csv" />
     </list>
@@ -542,13 +528,6 @@
       <option name="presentableId" value="Default" />
       <updated>1497276679770</updated>
     </task>
-    <task id="LOCAL-00001" summary="Update classifier">
-      <created>1499162137264</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1499162137264</updated>
-    </task>
     <task id="LOCAL-00002" summary="Add entertainment section">
       <created>1499174407959</created>
       <option name="number" value="00002" />
@@ -885,7 +864,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515509110238</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Add validation">
+      <created>1516023570647</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1516023570648</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -963,7 +949,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update sport section" />
     <MESSAGE value="Update s section" />
     <MESSAGE value="Update culture section" />
     <MESSAGE value="Update business section" />
@@ -988,7 +973,8 @@
     <MESSAGE value="Add text to csv" />
     <MESSAGE value="Add split train test" />
     <MESSAGE value="Add accuracy comparision" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add accuracy comparision" />
+    <MESSAGE value="Add validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add validation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
