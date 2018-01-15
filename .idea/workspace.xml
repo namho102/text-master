@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78363b95-2500-4187-ab1e-c3c81b53953c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/clf/compare.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clf/data/test.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/clf/data/train.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/top_tfidf.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/validated_csv/business.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/validated_csv/culture.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/validated_csv/society.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/validated_csv/sport.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/clf/validated_csv/tech.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validate_training_data.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validated_csv/business.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validated_csv/culture.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validated_csv/society.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validated_csv/sport.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/preprocessing/validated_csv/tech.csv" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/clf/record.txt" afterPath="$PROJECT_DIR$/clf/record.txt" />
+      <change beforePath="$PROJECT_DIR$/clf/clf.py" afterPath="$PROJECT_DIR$/clf/clf.py" />
       <change beforePath="$PROJECT_DIR$/preprocessing/csv/business.csv" afterPath="$PROJECT_DIR$/preprocessing/csv/business.csv" />
       <change beforePath="$PROJECT_DIR$/preprocessing/csv/society.csv" afterPath="$PROJECT_DIR$/preprocessing/csv/society.csv" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/data/test.csv" afterPath="$PROJECT_DIR$/preprocessing/data/test.csv" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/data/train.csv" afterPath="$PROJECT_DIR$/preprocessing/data/train.csv" />
-      <change beforePath="$PROJECT_DIR$/preprocessing/split_train_test.py" afterPath="$PROJECT_DIR$/preprocessing/split_train_test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +32,7 @@
       <file leaf-file-name="fix_text.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preprocessing/fix_text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="0">
               <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -37,7 +44,7 @@
       <file leaf-file-name="text2csv.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preprocessing/text2csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
+            <state relative-caret-position="540">
               <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="35" selection-end-column="20" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -46,11 +53,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clf.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="clf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/clf/clf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="-667">
+              <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -61,8 +80,8 @@
       <file leaf-file-name="compare.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clf/compare.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            <state relative-caret-position="201">
+              <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -70,11 +89,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="record.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="top_tfidf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clf/top_tfidf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="26" column="64" lean-forward="false" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validate_training_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preprocessing/validate_training_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="record.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clf/record.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -134,9 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MNB/model_saver.py" />
-        <option value="$PROJECT_DIR$/news-crawler/tech/cnet.py" />
-        <option value="$PROJECT_DIR$/news-crawler/tech/cnet_.txt" />
         <option value="$PROJECT_DIR$/news-crawler/tech/gizmodo.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/techcrunch.py" />
         <option value="$PROJECT_DIR$/news-crawler/tech/techcrunch_.txt" />
@@ -181,10 +221,13 @@
         <option value="$PROJECT_DIR$/preprocessing/text/preprocess1.py" />
         <option value="$PROJECT_DIR$/preprocessing/preprocess1.py" />
         <option value="$PROJECT_DIR$/preprocessing/text2csv.py" />
-        <option value="$PROJECT_DIR$/clf/clf.py" />
         <option value="$PROJECT_DIR$/preprocessing/split_train_test.py" />
         <option value="$PROJECT_DIR$/clf/compare.py" />
         <option value="$PROJECT_DIR$/clf/record.txt" />
+        <option value="$PROJECT_DIR$/clf/csv/top_tfidf.py" />
+        <option value="$PROJECT_DIR$/clf/top_tfidf.py" />
+        <option value="$PROJECT_DIR$/preprocessing/validate_training_data.py" />
+        <option value="$PROJECT_DIR$/clf/clf.py" />
       </list>
     </option>
   </component>
@@ -195,10 +238,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="242" />
-    <option name="y" value="103" />
-    <option name="width" value="1588" />
-    <option name="height" value="871" />
+    <option name="x" value="215" />
+    <option name="y" value="64" />
+    <option name="width" value="1490" />
+    <option name="height" value="866" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -218,6 +261,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -241,11 +285,16 @@
               <item name="TM-DEV" type="462c0819:PsiDirectoryNode" />
               <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TM-DEV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TM-DEV" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="validated_csv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,19 +303,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/clf" />
+      <recent name="$PROJECT_DIR$/preprocessing" />
+      <recent name="$PROJECT_DIR$/summarization" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/MNB" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/clf" />
       <recent name="$PROJECT_DIR$/MNB" />
       <recent name="$PROJECT_DIR$/fast" />
       <recent name="$PROJECT_DIR$/news-crawler/business" />
       <recent name="$PROJECT_DIR$/news-crawler/culture" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/preprocessing" />
-      <recent name="$PROJECT_DIR$/summarization" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/MNB" />
-      <recent name="$PROJECT_DIR$/news-crawler/wc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -281,7 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.compare">
+  <component name="RunManager" selected="Python.clf">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,7 +407,26 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="text2csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="top_tfidf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="text-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clf/top_tfidf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="validate_training_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -371,26 +439,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="text-master" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing/text2csv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="word_cloud" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocessing/text/word_cloud" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="text-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing/text/word_cloud/word_cloud.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing/validate_training_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -463,19 +512,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.word_cloud" />
-      <item index="1" class="java.lang.String" itemvalue="Python.text2csv" />
-      <item index="2" class="java.lang.String" itemvalue="Python.clf" />
-      <item index="3" class="java.lang.String" itemvalue="Python.split_train_test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.compare" />
+      <item index="0" class="java.lang.String" itemvalue="Python.clf" />
+      <item index="1" class="java.lang.String" itemvalue="Python.split_train_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.compare" />
+      <item index="3" class="java.lang.String" itemvalue="Python.top_tfidf" />
+      <item index="4" class="java.lang.String" itemvalue="Python.validate_training_data" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.compare" />
-        <item index="1" class="java.lang.String" itemvalue="Python.split_train_test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.clf" />
-        <item index="3" class="java.lang.String" itemvalue="Python.text2csv" />
-        <item index="4" class="java.lang.String" itemvalue="Python.word_cloud" />
+        <item index="0" class="java.lang.String" itemvalue="Python.clf" />
+        <item index="1" class="java.lang.String" itemvalue="Python.validate_training_data" />
+        <item index="2" class="java.lang.String" itemvalue="Python.top_tfidf" />
+        <item index="3" class="java.lang.String" itemvalue="Python.compare" />
+        <item index="4" class="java.lang.String" itemvalue="Python.split_train_test" />
       </list>
     </recent_temporary>
   </component>
@@ -829,7 +878,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515505342268</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Add accuracy comparision">
+      <created>1515509110238</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1515509110238</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -874,18 +930,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="242" y="103" width="1588" height="871" extended-state="0" />
+    <frame x="215" y="64" width="1490" height="866" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4232715" sideWeight="0.5030303" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3250927" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41131106" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41009057" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2503234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27831492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -896,6 +951,7 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="371" height="702" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -907,7 +963,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update sp section :hammer:" />
     <MESSAGE value="Update sport section" />
     <MESSAGE value="Update s section" />
     <MESSAGE value="Update culture section" />
@@ -932,7 +987,8 @@
     <MESSAGE value="Update word cloud" />
     <MESSAGE value="Add text to csv" />
     <MESSAGE value="Add split train test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add split train test" />
+    <MESSAGE value="Add accuracy comparision" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add accuracy comparision" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -952,11 +1008,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/cnbc_.txt" />
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/cnbc.txt" />
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/cnn.py" />
-    <entry file="file://$PROJECT_DIR$/news-crawler/culture/vox.py" />
-    <entry file="file://$PROJECT_DIR$/news-crawler/business/cnn_.txt" />
     <entry file="file://$PROJECT_DIR$/news-crawler/business/cnn.txt" />
     <entry file="file://$PROJECT_DIR$/news-crawler/business/ibtimes.py" />
     <entry file="file://$PROJECT_DIR$/news-crawler/business/ibtimes.txt" />
@@ -1018,7 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1028,7 +1078,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,7 +1090,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/preprocessing/fix_text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="0">
           <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -1053,7 +1102,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,27 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="141" column="58" lean-forward="false" selection-start-line="141" selection-start-column="58" selection-end-line="141" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preprocessing/text2csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="35" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clf/clf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1089,18 +1116,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clf/compare.py">
+    <entry file="file://$PROJECT_DIR$/preprocessing/text2csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="540">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="35" selection-end-column="20" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1108,8 +1132,74 @@
     <entry file="file://$PROJECT_DIR$/clf/record.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clf/top_tfidf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="26" column="64" lean-forward="false" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clf/compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clf/validated_csv/tech.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/validate_training_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clf/clf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

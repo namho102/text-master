@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 
 
 def get_topic_list(topic_name):
-    with open('csv/' + topic_name + '.csv', 'rb') as f:
+    with open('validated_csv/' + topic_name + '.csv', 'rb') as f:
         reader = csv.reader(f)
         return [tuple(row) for row in reader]
 
@@ -48,7 +48,7 @@ print("--- %s preprocess time ---" % (time.time() - time0))
 vectorizer = TfidfVectorizer(max_df=0.3, stop_words='english')
 # vectorizer = CountVectorizer(max_df=0.3, stop_words='english')
 X_train = vectorizer.fit_transform(X_train)
-X_test = vectorizer.transform(X_test )
+X_test = vectorizer.transform(X_test)
 
 # clf = BernoulliNB(alpha=.01)
 clf = MultinomialNB(alpha=.01)
